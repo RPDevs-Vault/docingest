@@ -1,0 +1,1876 @@
+{
+  "url": "https://dualhook.com/docs",
+  "domain": "dualhook.com",
+  "lastScraped": "2026-09-07T11:57:29.691Z",
+  "totalPages": 137,
+  "successfulPages": 137,
+  "failedPages": [],
+  "structure": [
+    {
+      "type": "Dualhook Documentation for WhatsApp Coexistence & Cloud API | Dualhook",
+      "url": "https://dualhook.com/docs"
+    },
+    {
+      "type": "About Dualhook | Dualhook",
+      "url": "https://dualhook.com/docs/about"
+    },
+    {
+      "type": "Dualhook Quick Start: Connect Your First WhatsApp Business Account | Dualhook",
+      "url": "https://dualhook.com/docs/getting-started"
+    },
+    {
+      "type": "Embedded Signup: featureType, sessionInfoVersion and Coexistence Onboarding | Dualhook",
+      "url": "https://dualhook.com/docs/embedded-signup"
+    },
+    {
+      "type": "WhatsApp Embedded Signup: Implementation Guide | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-embedded-signup-guide"
+    },
+    {
+      "type": "WhatsApp Connection Not Appearing After Embedded Signup | Dualhook",
+      "url": "https://dualhook.com/docs/connection-not-appearing"
+    },
+    {
+      "type": "Pricing | Dualhook",
+      "url": "https://dualhook.com/docs/pricing"
+    },
+    {
+      "type": "WhatsApp Webhook Override: Route Meta Webhooks Directly to Your Server | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-override"
+    },
+    {
+      "type": "Billing Enforcement | Dualhook",
+      "url": "https://dualhook.com/docs/billing-enforcement"
+    },
+    {
+      "type": "WhatsApp Pricing Changes 2026: Aug 1 & Oct 1 | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-pricing-changes-2026"
+    },
+    {
+      "type": "Support, Contact, and Bug Reports | Dualhook",
+      "url": "https://dualhook.com/docs/contact-support"
+    },
+    {
+      "type": "Troubleshooting | Dualhook",
+      "url": "https://dualhook.com/docs/troubleshooting"
+    },
+    {
+      "type": "Dualhook Support FAQ: Setup, Webhook Routing, Billing and Bug Reports | Dualhook",
+      "url": "https://dualhook.com/docs/support-faq"
+    },
+    {
+      "type": "Meta Business Portfolio | Dualhook",
+      "url": "https://dualhook.com/docs/meta-business-portfolio"
+    },
+    {
+      "type": "Meta Business ID | Dualhook",
+      "url": "https://dualhook.com/docs/meta-business-id"
+    },
+    {
+      "type": "Business Profiles | Dualhook",
+      "url": "https://dualhook.com/docs/business-profiles"
+    },
+    {
+      "type": "Two-Step Verification (2FA) | Dualhook",
+      "url": "https://dualhook.com/docs/two-step-verification"
+    },
+    {
+      "type": "Meta Business Verification for WhatsApp: PLBV vs Standard vs Meta Verified | Dualhook",
+      "url": "https://dualhook.com/docs/meta-business-verification"
+    },
+    {
+      "type": "Standard Business Verification | Dualhook",
+      "url": "https://dualhook.com/docs/standard-business-verification"
+    },
+    {
+      "type": "Meta Verified for Business | Dualhook",
+      "url": "https://dualhook.com/docs/meta-verified-for-business"
+    },
+    {
+      "type": "Official Business Account (OBA) | Dualhook",
+      "url": "https://dualhook.com/docs/official-business-account"
+    },
+    {
+      "type": "WhatsApp Business Phone Numbers: Add, Register, Limits, Remove | Dualhook",
+      "url": "https://dualhook.com/docs/phone-numbers"
+    },
+    {
+      "type": "Display Names | Dualhook",
+      "url": "https://dualhook.com/docs/display-names"
+    },
+    {
+      "type": "WhatsApp Business Accounts | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-business-accounts"
+    },
+    {
+      "type": "Leave a WhatsApp BSP & Own Your WABA (2026) | Dualhook",
+      "url": "https://dualhook.com/docs/leave-whatsapp-bsp-own-your-waba"
+    },
+    {
+      "type": "Runtime API | Dualhook",
+      "url": "https://dualhook.com/docs/runtime-api"
+    },
+    {
+      "type": "Dualhook Runtime API Errors: Symptoms, Causes and Fixes | Dualhook",
+      "url": "https://dualhook.com/docs/runtime-api-errors"
+    },
+    {
+      "type": "Runtime API Endpoint Reference | Dualhook",
+      "url": "https://dualhook.com/docs/runtime-api-reference"
+    },
+    {
+      "type": "WhatsApp Coexistence 13-Day Heartbeat Safety Margin | Dualhook",
+      "url": "https://dualhook.com/docs/heartbeat"
+    },
+    {
+      "type": "WhatsApp Cloud API Messaging: /messages Endpoint, Statuses and Errors | Dualhook",
+      "url": "https://dualhook.com/docs/messaging-overview"
+    },
+    {
+      "type": "Template Elements | Dualhook",
+      "url": "https://dualhook.com/docs/template-elements"
+    },
+    {
+      "type": "WhatsApp account_review_update Webhook: WABA Review Decisions | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-account-review-update"
+    },
+    {
+      "type": "WhatsApp business_capability_update Webhook: Limits and Capabilities | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-business-capability-update"
+    },
+    {
+      "type": "Configure Ice Breakers & Commands | Dualhook",
+      "url": "https://dualhook.com/docs/welcome-ice-breakers-commands-config"
+    },
+    {
+      "type": "Template Analytics | Dualhook",
+      "url": "https://dualhook.com/docs/template-analytics"
+    },
+    {
+      "type": "WhatsApp Coexistence | Dualhook",
+      "url": "https://dualhook.com/docs/coexistence"
+    },
+    {
+      "type": "Dualhook API Basics: Auth, Send Payloads, and Webhook Setup | Dualhook",
+      "url": "https://dualhook.com/docs/basics-overview"
+    },
+    {
+      "type": "WhatsApp message_template_components_update Webhook Reference | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-message-template-components-update"
+    },
+    {
+      "type": "WhatsApp security Webhook: Two-Step Verification PIN Events | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-security"
+    },
+    {
+      "type": "WhatsApp message_template_quality_update Webhook: Template Quality | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-message-template-quality-update"
+    },
+    {
+      "type": "WhatsApp template_category_update Webhook: Template Recategorization | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-template-category-update"
+    },
+    {
+      "type": "WhatsApp Error 190: Access Token Expired Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-190"
+    },
+    {
+      "type": "WhatsApp Error 131000: Something Went Wrong | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131000"
+    },
+    {
+      "type": "WhatsApp Error 131048: Spam Rate Restriction | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131048"
+    },
+    {
+      "type": "WhatsApp Error 130429: Throughput Limit Hit | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-130429"
+    },
+    {
+      "type": "WhatsApp Error 131064: Template Classification Limit | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131064"
+    },
+    {
+      "type": "WhatsApp Error 131050: Marketing Opt-Out | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131050"
+    },
+    {
+      "type": "WhatsApp Error 80007: WABA Rate Limit Reached | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-80007"
+    },
+    {
+      "type": "WhatsApp Ice Breakers & Commands | Dualhook",
+      "url": "https://dualhook.com/docs/welcome-ice-breakers-commands"
+    },
+    {
+      "type": "WhatsApp Error 132001: Template Not Found Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-132001"
+    },
+    {
+      "type": "WhatsApp account_alerts Webhook: Alerts, Payloads, Dualhook Handling | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-account-alerts"
+    },
+    {
+      "type": "Templates | Dualhook",
+      "url": "https://dualhook.com/docs/templates"
+    },
+    {
+      "type": "Sending Template Messages | Dualhook",
+      "url": "https://dualhook.com/docs/sending-template-messages"
+    },
+    {
+      "type": "Marketing Deep Links | Dualhook",
+      "url": "https://dualhook.com/docs/marketing-deep-links"
+    },
+    {
+      "type": "WhatsApp smb_app_state_sync Webhook: Business App Contact Sync | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-smb-app-state-sync"
+    },
+    {
+      "type": "Upload, Retrieve & Delete Media | Dualhook",
+      "url": "https://dualhook.com/docs/media-upload"
+    },
+    {
+      "type": "WhatsApp Error 2655093: Already Shared With a Partner | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-2655093"
+    },
+    {
+      "type": "WhatsApp message_template_status_update Webhook Reference | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-message-template-status-update"
+    },
+    {
+      "type": "WABA Integration Flow: Token Validation, Discovery and Webhook Subscription | Dualhook",
+      "url": "https://dualhook.com/docs/waba-integration"
+    },
+    {
+      "type": "WhatsApp Error 131049: Causes & How to Fix It | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131049"
+    },
+    {
+      "type": "WhatsApp Error 130497: Country Restriction Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-130497"
+    },
+    {
+      "type": "WhatsApp Error 131026: Message Undeliverable Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131026"
+    },
+    {
+      "type": "WhatsApp Webhook Error 100: Subscribe Before Override | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-100-webhook-override"
+    },
+    {
+      "type": "WhatsApp Error 131008: Fix Missing Required Parameter | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131008"
+    },
+    {
+      "type": "WhatsApp Error 131056: 1 Message Every 6 Seconds Pair Rate Limit | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131056"
+    },
+    {
+      "type": "WhatsApp Error 4: Fix App API Call Rate Limit | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-4"
+    },
+    {
+      "type": "WhatsApp Error 131042: Fix Payment/Eligibility Issue | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131042"
+    },
+    {
+      "type": "WhatsApp Error 133016: Fix Too Many Register Attempts | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-133016"
+    },
+    {
+      "type": "Calling Pricing | Dualhook",
+      "url": "https://dualhook.com/docs/calling-pricing"
+    },
+    {
+      "type": "WhatsApp Error 130403: Business Blocked the End User | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-130403"
+    },
+    {
+      "type": "Compliance & Data Retention | Dualhook",
+      "url": "https://dualhook.com/docs/compliance"
+    },
+    {
+      "type": "MM API Onboarding | Dualhook",
+      "url": "https://dualhook.com/docs/marketing-messages-onboarding"
+    },
+    {
+      "type": "WhatsApp Marketing Messages: Cloud API vs Marketing Messages API | Dualhook",
+      "url": "https://dualhook.com/docs/marketing-messages"
+    },
+    {
+      "type": "WhatsApp account_update Webhook: WABA Lifecycle Events Reference | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-account-update"
+    },
+    {
+      "type": "Location Templates | Dualhook",
+      "url": "https://dualhook.com/docs/utility-templates-location"
+    },
+    {
+      "type": "WhatsApp history Webhook: Coexistence Chat History Sync | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-history"
+    },
+    {
+      "type": "WhatsApp Parent BSUIDs for Multi-Portfolio Businesses | Dualhook",
+      "url": "https://dualhook.com/docs/contacts-bsuid-parent-user-ids"
+    },
+    {
+      "type": "smb_message_echoes Webhook Explained: Coexistence App Messages, Edits, Revokes | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-smb-message-echoes"
+    },
+    {
+      "type": "Reaction Messages | Dualhook",
+      "url": "https://dualhook.com/docs/service-messages-reactions"
+    },
+    {
+      "type": "WhatsApp Error 131051: Unsupported Message Type Fixed | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131051"
+    },
+    {
+      "type": "WhatsApp Business API Permissions | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-business-api-permissions"
+    },
+    {
+      "type": "WhatsApp Utility Templates: Components, Pricing, and Specialty Types | Dualhook",
+      "url": "https://dualhook.com/docs/utility-messages"
+    },
+    {
+      "type": "Messaging Webhook | Dualhook",
+      "url": "https://dualhook.com/docs/messaging-webhook"
+    },
+    {
+      "type": "WhatsApp Authentication Best Practices: Security & UX | Dualhook",
+      "url": "https://dualhook.com/docs/authentication-best-practices"
+    },
+    {
+      "type": "Media Messages | Dualhook",
+      "url": "https://dualhook.com/docs/media-messages"
+    },
+    {
+      "type": "WhatsApp Business Platform Webhook Fields Reference | Dualhook",
+      "url": "https://dualhook.com/docs/webhooks"
+    },
+    {
+      "type": "WhatsApp QR Codes & Short Links API | Dualhook",
+      "url": "https://dualhook.com/docs/qr-codes"
+    },
+    {
+      "type": "Contacts & Location Messages | Dualhook",
+      "url": "https://dualhook.com/docs/contacts-location"
+    },
+    {
+      "type": "WhatsApp Error 100: Invalid Parameter Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-100"
+    },
+    {
+      "type": "WhatsApp BSUID Contact Book and REQUEST_CONTACT_INFO | Dualhook",
+      "url": "https://dualhook.com/docs/contacts-bsuid-contact-book"
+    },
+    {
+      "type": "WhatsApp Marketing Conversion Tracking: Pixel, CAPI, SDK, fbclid | Dualhook",
+      "url": "https://dualhook.com/docs/marketing-conversion-tracking"
+    },
+    {
+      "type": "WhatsApp Management Webhooks: Template, Quality and Account Events | Dualhook",
+      "url": "https://dualhook.com/docs/webhook-events"
+    },
+    {
+      "type": "Authentication Bulk Management | Dualhook",
+      "url": "https://dualhook.com/docs/authentication-bulk-management"
+    },
+    {
+      "type": "Marketing Messages API for WhatsApp: Endpoint, Features, Webhooks | Dualhook",
+      "url": "https://dualhook.com/docs/marketing-messages-api"
+    },
+    {
+      "type": "WhatsApp Business Usernames: API, Rules, Webhook and Errors | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-business-usernames"
+    },
+    {
+      "type": "Dualhook + Make: WhatsApp Webhook Integration and Runtime Sends | Dualhook",
+      "url": "https://dualhook.com/docs/guide-make-webhook"
+    },
+    {
+      "type": "WhatsApp BSUID, Usernames and Contact Book Transition Guide | Dualhook",
+      "url": "https://dualhook.com/docs/contacts-bsuid"
+    },
+    {
+      "type": "Marketing Max-Price (Beta) | Dualhook",
+      "url": "https://dualhook.com/docs/marketing-max-price"
+    },
+    {
+      "type": "WhatsApp BSUID Webhook Changes: user_id, wa_id, username and parent_user_id | Dualhook",
+      "url": "https://dualhook.com/docs/contacts-bsuid-webhooks"
+    },
+    {
+      "type": "WhatsApp Calling API Reference: Endpoints, Webhooks, WebRTC | Dualhook",
+      "url": "https://dualhook.com/docs/calling-api-reference"
+    },
+    {
+      "type": "Marketing Creative Optimizations | Dualhook",
+      "url": "https://dualhook.com/docs/marketing-creative-optimizations"
+    },
+    {
+      "type": "Messaging Health Status | Dualhook",
+      "url": "https://dualhook.com/docs/health-monitoring"
+    },
+    {
+      "type": "WhatsApp OTP Android SDK: Handshake, Eligibility, Migration | Dualhook",
+      "url": "https://dualhook.com/docs/authentication-otp-handshake"
+    },
+    {
+      "type": "WhatsApp Embedded Signup Error Codes and Fixes | Dualhook",
+      "url": "https://dualhook.com/docs/embedded-signup-errors"
+    },
+    {
+      "type": "WhatsApp Service Messages: CSW, Types, TTL, and Pricing | Dualhook",
+      "url": "https://dualhook.com/docs/service-messages"
+    },
+    {
+      "type": "Address Messages (India) | Dualhook",
+      "url": "https://dualhook.com/docs/service-messages-address"
+    },
+    {
+      "type": "Capacity, Quality & Limits | Dualhook",
+      "url": "https://dualhook.com/docs/capacity-quality-limits"
+    },
+    {
+      "type": "Dualhook + Zapier: Gateway Pattern for WhatsApp Webhooks and Template Sends | Dualhook",
+      "url": "https://dualhook.com/docs/guide-zapier-webhook"
+    },
+    {
+      "type": "WhatsApp Messaging Best Practices: Opt-In, Quality, Webhooks, Launch Checklist | Dualhook",
+      "url": "https://dualhook.com/docs/messaging-best-practices"
+    },
+    {
+      "type": "WhatsApp API Architecture & Security | Dualhook",
+      "url": "https://dualhook.com/docs/architecture-security"
+    },
+    {
+      "type": "Chatwoot and Dualhook: Safe WhatsApp API Upgrade Guide | Dualhook",
+      "url": "https://dualhook.com/docs/guide-chatwoot-webhook"
+    },
+    {
+      "type": "Laravel WhatsApp Webhook Integration with Dualhook | Dualhook",
+      "url": "https://dualhook.com/docs/guide-laravel-webhook"
+    },
+    {
+      "type": "WhatsApp Calling SIP Configuration: TLS, Digest Auth, SDES vs DTLS | Dualhook",
+      "url": "https://dualhook.com/docs/calling-sip"
+    },
+    {
+      "type": "Authentication Messages | Dualhook",
+      "url": "https://dualhook.com/docs/authentication-messages"
+    },
+    {
+      "type": "WhatsApp Business-Initiated Calls: API and Webhooks | Dualhook",
+      "url": "https://dualhook.com/docs/calling-business-initiated"
+    },
+    {
+      "type": "WhatsApp BSUID API Changes: recipient, to precedence, groups and calling | Dualhook",
+      "url": "https://dualhook.com/docs/contacts-bsuid-api-changes"
+    },
+    {
+      "type": "WhatsApp Interactive Messages: CTA, List, Carousel, Buttons, Location | Dualhook",
+      "url": "https://dualhook.com/docs/service-messages-interactive"
+    },
+    {
+      "type": "WhatsApp Error 132000: Template Variable Mismatch | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-132000"
+    },
+    {
+      "type": "Shopify WhatsApp Integration with Dualhook | Dualhook",
+      "url": "https://dualhook.com/docs/guide-shopify-integration"
+    },
+    {
+      "type": "WhatsApp Error 10: Fix Permission Denied / Terms | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-10"
+    },
+    {
+      "type": "WhatsApp Error 131047: Re-Engagement / 24h Window Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131047"
+    },
+    {
+      "type": "WhatsApp Error 131031: Account Locked Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131031"
+    },
+    {
+      "type": "WhatsApp Error 132012: Fix Template Format Mismatch | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-132012"
+    },
+    {
+      "type": "WhatsApp Error 368: Fix Temporary Policy Block | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-368"
+    },
+    {
+      "type": "WhatsApp Error 200: Fix Missing Token / Permission | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-200"
+    },
+    {
+      "type": "Timezone IDs | Dualhook",
+      "url": "https://dualhook.com/docs/calling-timezone-ids"
+    },
+    {
+      "type": "Maintain Account Health | Dualhook",
+      "url": "https://dualhook.com/docs/account-health"
+    },
+    {
+      "type": "WhatsApp Cloud API Calling: VoIP, BIC/UIC, Architecture | Dualhook",
+      "url": "https://dualhook.com/docs/calling"
+    },
+    {
+      "type": "WhatsApp Error 131009: Parameter Value Not Valid Fix | Dualhook",
+      "url": "https://dualhook.com/docs/whatsapp-error-131009"
+    },
+    {
+      "type": "Dualhook + n8n: WhatsApp Webhook Receiver, Meta Verification, and Template Sends | Dualhook",
+      "url": "https://dualhook.com/docs/guide-n8n-webhook"
+    },
+    {
+      "type": "Node.js WhatsApp Webhook Receiver with Dualhook | Dualhook",
+      "url": "https://dualhook.com/docs/guide-nodejs-webhook"
+    },
+    {
+      "type": "Call Buttons & Deep Links | Dualhook",
+      "url": "https://dualhook.com/docs/calling-call-buttons"
+    },
+    {
+      "type": "WhatsApp User-Initiated Calls: Inbound Voice with Pre-Accept | Dualhook",
+      "url": "https://dualhook.com/docs/calling-user-initiated"
+    },
+    {
+      "type": "WhatsApp Calling Troubleshooting: Error Codes & Audio Clipping | Dualhook",
+      "url": "https://dualhook.com/docs/calling-troubleshooting"
+    },
+    {
+      "type": "Calling Configuration | Dualhook",
+      "url": "https://dualhook.com/docs/calling-configuration"
+    },
+    {
+      "type": "WhatsApp Call Permissions: Temporary, Permanent, and Callback | Dualhook",
+      "url": "https://dualhook.com/docs/calling-permissions"
+    },
+    {
+      "type": "WhatsApp Cloud API Error Codes — Full Meta API Reference & Fixes | Dualhook",
+      "url": "https://dualhook.com/docs/api-errors"
+    }
+  ],
+  "latestVersion": "edbf86f2c9151748626e69201afbc9330cc8364758453c9290e148229f700b49",
+  "versions": [
+    {
+      "version": "edbf86f2c9151748626e69201afbc9330cc8364758453c9290e148229f700b49",
+      "label": "latest",
+      "timestamp": "2026-09-07T11:57:29.691Z",
+      "filename": "documentation_2026-09-07T11:57:29.691Z.md",
+      "totalPages": 137,
+      "successfulPages": 137,
+      "url": "https://dualhook.com/docs",
+      "snapshotId": "edbf86f2c9151748626e69201afbc9330cc8364758453c9290e148229f700b49",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://dualhook.com/docs",
+      "canonicalSeedUrl": "https://dualhook.com/docs",
+      "configuration": {
+        "url": "https://dualhook.com/docs",
+        "limit": 1000,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "includePaths": [
+          "/docs/*"
+        ],
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-07T11:56:45.687Z",
+      "completedAt": "2026-09-07T11:57:29.691Z",
+      "providerTotals": {
+        "discovered": 137,
+        "returned": 137,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 137,
+        "returned": 137,
+        "valid": 137,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://dualhook.com/docs",
+          "canonicalUrl": "https://dualhook.com/docs",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/about",
+          "canonicalUrl": "https://dualhook.com/docs/about",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/getting-started",
+          "canonicalUrl": "https://dualhook.com/docs/getting-started",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/embedded-signup",
+          "canonicalUrl": "https://dualhook.com/docs/embedded-signup",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-embedded-signup-guide",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-embedded-signup-guide",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/connection-not-appearing",
+          "canonicalUrl": "https://dualhook.com/docs/connection-not-appearing",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/pricing",
+          "canonicalUrl": "https://dualhook.com/docs/pricing",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-override",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-override",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/billing-enforcement",
+          "canonicalUrl": "https://dualhook.com/docs/billing-enforcement",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-pricing-changes-2026",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-pricing-changes-2026",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/contact-support",
+          "canonicalUrl": "https://dualhook.com/docs/contact-support",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/troubleshooting",
+          "canonicalUrl": "https://dualhook.com/docs/troubleshooting",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/support-faq",
+          "canonicalUrl": "https://dualhook.com/docs/support-faq",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/meta-business-portfolio",
+          "canonicalUrl": "https://dualhook.com/docs/meta-business-portfolio",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/meta-business-id",
+          "canonicalUrl": "https://dualhook.com/docs/meta-business-id",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/business-profiles",
+          "canonicalUrl": "https://dualhook.com/docs/business-profiles",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/two-step-verification",
+          "canonicalUrl": "https://dualhook.com/docs/two-step-verification",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/meta-business-verification",
+          "canonicalUrl": "https://dualhook.com/docs/meta-business-verification",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/standard-business-verification",
+          "canonicalUrl": "https://dualhook.com/docs/standard-business-verification",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/meta-verified-for-business",
+          "canonicalUrl": "https://dualhook.com/docs/meta-verified-for-business",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/official-business-account",
+          "canonicalUrl": "https://dualhook.com/docs/official-business-account",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/phone-numbers",
+          "canonicalUrl": "https://dualhook.com/docs/phone-numbers",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/display-names",
+          "canonicalUrl": "https://dualhook.com/docs/display-names",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-business-accounts",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-business-accounts",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/leave-whatsapp-bsp-own-your-waba",
+          "canonicalUrl": "https://dualhook.com/docs/leave-whatsapp-bsp-own-your-waba",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/runtime-api",
+          "canonicalUrl": "https://dualhook.com/docs/runtime-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/runtime-api-errors",
+          "canonicalUrl": "https://dualhook.com/docs/runtime-api-errors",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/runtime-api-reference",
+          "canonicalUrl": "https://dualhook.com/docs/runtime-api-reference",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/heartbeat",
+          "canonicalUrl": "https://dualhook.com/docs/heartbeat",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/messaging-overview",
+          "canonicalUrl": "https://dualhook.com/docs/messaging-overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/template-elements",
+          "canonicalUrl": "https://dualhook.com/docs/template-elements",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-account-review-update",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-account-review-update",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-business-capability-update",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-business-capability-update",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/welcome-ice-breakers-commands-config",
+          "canonicalUrl": "https://dualhook.com/docs/welcome-ice-breakers-commands-config",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/template-analytics",
+          "canonicalUrl": "https://dualhook.com/docs/template-analytics",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/coexistence",
+          "canonicalUrl": "https://dualhook.com/docs/coexistence",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/basics-overview",
+          "canonicalUrl": "https://dualhook.com/docs/basics-overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-message-template-components-update",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-message-template-components-update",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-security",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-security",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-message-template-quality-update",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-message-template-quality-update",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-template-category-update",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-template-category-update",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-190",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-190",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131000",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131000",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131048",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131048",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-130429",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-130429",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131064",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131064",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131050",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131050",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-80007",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-80007",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/welcome-ice-breakers-commands",
+          "canonicalUrl": "https://dualhook.com/docs/welcome-ice-breakers-commands",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-132001",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-132001",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-account-alerts",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-account-alerts",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/templates",
+          "canonicalUrl": "https://dualhook.com/docs/templates",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/sending-template-messages",
+          "canonicalUrl": "https://dualhook.com/docs/sending-template-messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/marketing-deep-links",
+          "canonicalUrl": "https://dualhook.com/docs/marketing-deep-links",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-smb-app-state-sync",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-smb-app-state-sync",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/media-upload",
+          "canonicalUrl": "https://dualhook.com/docs/media-upload",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-2655093",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-2655093",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-message-template-status-update",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-message-template-status-update",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/waba-integration",
+          "canonicalUrl": "https://dualhook.com/docs/waba-integration",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131049",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131049",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-130497",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-130497",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131026",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131026",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-100-webhook-override",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-100-webhook-override",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131008",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131008",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131056",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131056",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-4",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-4",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131042",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131042",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-133016",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-133016",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-pricing",
+          "canonicalUrl": "https://dualhook.com/docs/calling-pricing",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-130403",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-130403",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/compliance",
+          "canonicalUrl": "https://dualhook.com/docs/compliance",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/marketing-messages-onboarding",
+          "canonicalUrl": "https://dualhook.com/docs/marketing-messages-onboarding",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/marketing-messages",
+          "canonicalUrl": "https://dualhook.com/docs/marketing-messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-account-update",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-account-update",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/utility-templates-location",
+          "canonicalUrl": "https://dualhook.com/docs/utility-templates-location",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-history",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-history",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/contacts-bsuid-parent-user-ids",
+          "canonicalUrl": "https://dualhook.com/docs/contacts-bsuid-parent-user-ids",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-smb-message-echoes",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-smb-message-echoes",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/service-messages-reactions",
+          "canonicalUrl": "https://dualhook.com/docs/service-messages-reactions",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131051",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131051",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-business-api-permissions",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-business-api-permissions",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/utility-messages",
+          "canonicalUrl": "https://dualhook.com/docs/utility-messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/messaging-webhook",
+          "canonicalUrl": "https://dualhook.com/docs/messaging-webhook",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/authentication-best-practices",
+          "canonicalUrl": "https://dualhook.com/docs/authentication-best-practices",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/media-messages",
+          "canonicalUrl": "https://dualhook.com/docs/media-messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhooks",
+          "canonicalUrl": "https://dualhook.com/docs/webhooks",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/qr-codes",
+          "canonicalUrl": "https://dualhook.com/docs/qr-codes",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/contacts-location",
+          "canonicalUrl": "https://dualhook.com/docs/contacts-location",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-100",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-100",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/contacts-bsuid-contact-book",
+          "canonicalUrl": "https://dualhook.com/docs/contacts-bsuid-contact-book",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/marketing-conversion-tracking",
+          "canonicalUrl": "https://dualhook.com/docs/marketing-conversion-tracking",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/webhook-events",
+          "canonicalUrl": "https://dualhook.com/docs/webhook-events",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/authentication-bulk-management",
+          "canonicalUrl": "https://dualhook.com/docs/authentication-bulk-management",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/marketing-messages-api",
+          "canonicalUrl": "https://dualhook.com/docs/marketing-messages-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-business-usernames",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-business-usernames",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/guide-make-webhook",
+          "canonicalUrl": "https://dualhook.com/docs/guide-make-webhook",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/contacts-bsuid",
+          "canonicalUrl": "https://dualhook.com/docs/contacts-bsuid",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/marketing-max-price",
+          "canonicalUrl": "https://dualhook.com/docs/marketing-max-price",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/contacts-bsuid-webhooks",
+          "canonicalUrl": "https://dualhook.com/docs/contacts-bsuid-webhooks",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-api-reference",
+          "canonicalUrl": "https://dualhook.com/docs/calling-api-reference",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/marketing-creative-optimizations",
+          "canonicalUrl": "https://dualhook.com/docs/marketing-creative-optimizations",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/health-monitoring",
+          "canonicalUrl": "https://dualhook.com/docs/health-monitoring",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/authentication-otp-handshake",
+          "canonicalUrl": "https://dualhook.com/docs/authentication-otp-handshake",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/embedded-signup-errors",
+          "canonicalUrl": "https://dualhook.com/docs/embedded-signup-errors",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/service-messages",
+          "canonicalUrl": "https://dualhook.com/docs/service-messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/service-messages-address",
+          "canonicalUrl": "https://dualhook.com/docs/service-messages-address",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/capacity-quality-limits",
+          "canonicalUrl": "https://dualhook.com/docs/capacity-quality-limits",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/guide-zapier-webhook",
+          "canonicalUrl": "https://dualhook.com/docs/guide-zapier-webhook",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/messaging-best-practices",
+          "canonicalUrl": "https://dualhook.com/docs/messaging-best-practices",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/architecture-security",
+          "canonicalUrl": "https://dualhook.com/docs/architecture-security",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/guide-chatwoot-webhook",
+          "canonicalUrl": "https://dualhook.com/docs/guide-chatwoot-webhook",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/guide-laravel-webhook",
+          "canonicalUrl": "https://dualhook.com/docs/guide-laravel-webhook",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-sip",
+          "canonicalUrl": "https://dualhook.com/docs/calling-sip",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/authentication-messages",
+          "canonicalUrl": "https://dualhook.com/docs/authentication-messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-business-initiated",
+          "canonicalUrl": "https://dualhook.com/docs/calling-business-initiated",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/contacts-bsuid-api-changes",
+          "canonicalUrl": "https://dualhook.com/docs/contacts-bsuid-api-changes",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/service-messages-interactive",
+          "canonicalUrl": "https://dualhook.com/docs/service-messages-interactive",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-132000",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-132000",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/guide-shopify-integration",
+          "canonicalUrl": "https://dualhook.com/docs/guide-shopify-integration",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-10",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-10",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131047",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131047",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131031",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131031",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-132012",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-132012",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-368",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-368",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-200",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-200",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-timezone-ids",
+          "canonicalUrl": "https://dualhook.com/docs/calling-timezone-ids",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/account-health",
+          "canonicalUrl": "https://dualhook.com/docs/account-health",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling",
+          "canonicalUrl": "https://dualhook.com/docs/calling",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/whatsapp-error-131009",
+          "canonicalUrl": "https://dualhook.com/docs/whatsapp-error-131009",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/guide-n8n-webhook",
+          "canonicalUrl": "https://dualhook.com/docs/guide-n8n-webhook",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/guide-nodejs-webhook",
+          "canonicalUrl": "https://dualhook.com/docs/guide-nodejs-webhook",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-call-buttons",
+          "canonicalUrl": "https://dualhook.com/docs/calling-call-buttons",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-user-initiated",
+          "canonicalUrl": "https://dualhook.com/docs/calling-user-initiated",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-troubleshooting",
+          "canonicalUrl": "https://dualhook.com/docs/calling-troubleshooting",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-configuration",
+          "canonicalUrl": "https://dualhook.com/docs/calling-configuration",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/calling-permissions",
+          "canonicalUrl": "https://dualhook.com/docs/calling-permissions",
+          "status": "valid"
+        },
+        {
+          "url": "https://dualhook.com/docs/api-errors",
+          "canonicalUrl": "https://dualhook.com/docs/api-errors",
+          "status": "valid"
+        }
+      ],
+      "id": "da2ac7c02e3244ae72aeefa6d42acd7465df5f7baf8d1745bd5fbe57dcde1f13"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "edbf86f2c9151748626e69201afbc9330cc8364758453c9290e148229f700b49",
+      "filename": "documentation_2026-09-07T11:57:29.691Z.md",
+      "contentHash": "94d79b7f43c0fa46ac9d7676b4a368e0354f6fc79e0b7be9fbf3f431f5045331",
+      "sourceUrl": "https://dualhook.com/docs",
+      "canonicalSourceUrl": "https://dualhook.com/docs",
+      "capturedAt": "2026-09-07T11:57:29.691Z",
+      "crawlRunId": "da2ac7c02e3244ae72aeefa6d42acd7465df5f7baf8d1745bd5fbe57dcde1f13",
+      "totalPages": 137,
+      "successfulPages": 137,
+      "structure": [
+        {
+          "type": "Dualhook Documentation for WhatsApp Coexistence & Cloud API | Dualhook",
+          "url": "https://dualhook.com/docs"
+        },
+        {
+          "type": "About Dualhook | Dualhook",
+          "url": "https://dualhook.com/docs/about"
+        },
+        {
+          "type": "Dualhook Quick Start: Connect Your First WhatsApp Business Account | Dualhook",
+          "url": "https://dualhook.com/docs/getting-started"
+        },
+        {
+          "type": "Embedded Signup: featureType, sessionInfoVersion and Coexistence Onboarding | Dualhook",
+          "url": "https://dualhook.com/docs/embedded-signup"
+        },
+        {
+          "type": "WhatsApp Embedded Signup: Implementation Guide | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-embedded-signup-guide"
+        },
+        {
+          "type": "WhatsApp Connection Not Appearing After Embedded Signup | Dualhook",
+          "url": "https://dualhook.com/docs/connection-not-appearing"
+        },
+        {
+          "type": "Pricing | Dualhook",
+          "url": "https://dualhook.com/docs/pricing"
+        },
+        {
+          "type": "WhatsApp Webhook Override: Route Meta Webhooks Directly to Your Server | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-override"
+        },
+        {
+          "type": "Billing Enforcement | Dualhook",
+          "url": "https://dualhook.com/docs/billing-enforcement"
+        },
+        {
+          "type": "WhatsApp Pricing Changes 2026: Aug 1 & Oct 1 | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-pricing-changes-2026"
+        },
+        {
+          "type": "Support, Contact, and Bug Reports | Dualhook",
+          "url": "https://dualhook.com/docs/contact-support"
+        },
+        {
+          "type": "Troubleshooting | Dualhook",
+          "url": "https://dualhook.com/docs/troubleshooting"
+        },
+        {
+          "type": "Dualhook Support FAQ: Setup, Webhook Routing, Billing and Bug Reports | Dualhook",
+          "url": "https://dualhook.com/docs/support-faq"
+        },
+        {
+          "type": "Meta Business Portfolio | Dualhook",
+          "url": "https://dualhook.com/docs/meta-business-portfolio"
+        },
+        {
+          "type": "Meta Business ID | Dualhook",
+          "url": "https://dualhook.com/docs/meta-business-id"
+        },
+        {
+          "type": "Business Profiles | Dualhook",
+          "url": "https://dualhook.com/docs/business-profiles"
+        },
+        {
+          "type": "Two-Step Verification (2FA) | Dualhook",
+          "url": "https://dualhook.com/docs/two-step-verification"
+        },
+        {
+          "type": "Meta Business Verification for WhatsApp: PLBV vs Standard vs Meta Verified | Dualhook",
+          "url": "https://dualhook.com/docs/meta-business-verification"
+        },
+        {
+          "type": "Standard Business Verification | Dualhook",
+          "url": "https://dualhook.com/docs/standard-business-verification"
+        },
+        {
+          "type": "Meta Verified for Business | Dualhook",
+          "url": "https://dualhook.com/docs/meta-verified-for-business"
+        },
+        {
+          "type": "Official Business Account (OBA) | Dualhook",
+          "url": "https://dualhook.com/docs/official-business-account"
+        },
+        {
+          "type": "WhatsApp Business Phone Numbers: Add, Register, Limits, Remove | Dualhook",
+          "url": "https://dualhook.com/docs/phone-numbers"
+        },
+        {
+          "type": "Display Names | Dualhook",
+          "url": "https://dualhook.com/docs/display-names"
+        },
+        {
+          "type": "WhatsApp Business Accounts | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-business-accounts"
+        },
+        {
+          "type": "Leave a WhatsApp BSP & Own Your WABA (2026) | Dualhook",
+          "url": "https://dualhook.com/docs/leave-whatsapp-bsp-own-your-waba"
+        },
+        {
+          "type": "Runtime API | Dualhook",
+          "url": "https://dualhook.com/docs/runtime-api"
+        },
+        {
+          "type": "Dualhook Runtime API Errors: Symptoms, Causes and Fixes | Dualhook",
+          "url": "https://dualhook.com/docs/runtime-api-errors"
+        },
+        {
+          "type": "Runtime API Endpoint Reference | Dualhook",
+          "url": "https://dualhook.com/docs/runtime-api-reference"
+        },
+        {
+          "type": "WhatsApp Coexistence 13-Day Heartbeat Safety Margin | Dualhook",
+          "url": "https://dualhook.com/docs/heartbeat"
+        },
+        {
+          "type": "WhatsApp Cloud API Messaging: /messages Endpoint, Statuses and Errors | Dualhook",
+          "url": "https://dualhook.com/docs/messaging-overview"
+        },
+        {
+          "type": "Template Elements | Dualhook",
+          "url": "https://dualhook.com/docs/template-elements"
+        },
+        {
+          "type": "WhatsApp account_review_update Webhook: WABA Review Decisions | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-account-review-update"
+        },
+        {
+          "type": "WhatsApp business_capability_update Webhook: Limits and Capabilities | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-business-capability-update"
+        },
+        {
+          "type": "Configure Ice Breakers & Commands | Dualhook",
+          "url": "https://dualhook.com/docs/welcome-ice-breakers-commands-config"
+        },
+        {
+          "type": "Template Analytics | Dualhook",
+          "url": "https://dualhook.com/docs/template-analytics"
+        },
+        {
+          "type": "WhatsApp Coexistence | Dualhook",
+          "url": "https://dualhook.com/docs/coexistence"
+        },
+        {
+          "type": "Dualhook API Basics: Auth, Send Payloads, and Webhook Setup | Dualhook",
+          "url": "https://dualhook.com/docs/basics-overview"
+        },
+        {
+          "type": "WhatsApp message_template_components_update Webhook Reference | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-message-template-components-update"
+        },
+        {
+          "type": "WhatsApp security Webhook: Two-Step Verification PIN Events | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-security"
+        },
+        {
+          "type": "WhatsApp message_template_quality_update Webhook: Template Quality | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-message-template-quality-update"
+        },
+        {
+          "type": "WhatsApp template_category_update Webhook: Template Recategorization | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-template-category-update"
+        },
+        {
+          "type": "WhatsApp Error 190: Access Token Expired Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-190"
+        },
+        {
+          "type": "WhatsApp Error 131000: Something Went Wrong | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131000"
+        },
+        {
+          "type": "WhatsApp Error 131048: Spam Rate Restriction | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131048"
+        },
+        {
+          "type": "WhatsApp Error 130429: Throughput Limit Hit | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-130429"
+        },
+        {
+          "type": "WhatsApp Error 131064: Template Classification Limit | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131064"
+        },
+        {
+          "type": "WhatsApp Error 131050: Marketing Opt-Out | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131050"
+        },
+        {
+          "type": "WhatsApp Error 80007: WABA Rate Limit Reached | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-80007"
+        },
+        {
+          "type": "WhatsApp Ice Breakers & Commands | Dualhook",
+          "url": "https://dualhook.com/docs/welcome-ice-breakers-commands"
+        },
+        {
+          "type": "WhatsApp Error 132001: Template Not Found Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-132001"
+        },
+        {
+          "type": "WhatsApp account_alerts Webhook: Alerts, Payloads, Dualhook Handling | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-account-alerts"
+        },
+        {
+          "type": "Templates | Dualhook",
+          "url": "https://dualhook.com/docs/templates"
+        },
+        {
+          "type": "Sending Template Messages | Dualhook",
+          "url": "https://dualhook.com/docs/sending-template-messages"
+        },
+        {
+          "type": "Marketing Deep Links | Dualhook",
+          "url": "https://dualhook.com/docs/marketing-deep-links"
+        },
+        {
+          "type": "WhatsApp smb_app_state_sync Webhook: Business App Contact Sync | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-smb-app-state-sync"
+        },
+        {
+          "type": "Upload, Retrieve & Delete Media | Dualhook",
+          "url": "https://dualhook.com/docs/media-upload"
+        },
+        {
+          "type": "WhatsApp Error 2655093: Already Shared With a Partner | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-2655093"
+        },
+        {
+          "type": "WhatsApp message_template_status_update Webhook Reference | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-message-template-status-update"
+        },
+        {
+          "type": "WABA Integration Flow: Token Validation, Discovery and Webhook Subscription | Dualhook",
+          "url": "https://dualhook.com/docs/waba-integration"
+        },
+        {
+          "type": "WhatsApp Error 131049: Causes & How to Fix It | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131049"
+        },
+        {
+          "type": "WhatsApp Error 130497: Country Restriction Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-130497"
+        },
+        {
+          "type": "WhatsApp Error 131026: Message Undeliverable Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131026"
+        },
+        {
+          "type": "WhatsApp Webhook Error 100: Subscribe Before Override | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-100-webhook-override"
+        },
+        {
+          "type": "WhatsApp Error 131008: Fix Missing Required Parameter | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131008"
+        },
+        {
+          "type": "WhatsApp Error 131056: 1 Message Every 6 Seconds Pair Rate Limit | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131056"
+        },
+        {
+          "type": "WhatsApp Error 4: Fix App API Call Rate Limit | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-4"
+        },
+        {
+          "type": "WhatsApp Error 131042: Fix Payment/Eligibility Issue | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131042"
+        },
+        {
+          "type": "WhatsApp Error 133016: Fix Too Many Register Attempts | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-133016"
+        },
+        {
+          "type": "Calling Pricing | Dualhook",
+          "url": "https://dualhook.com/docs/calling-pricing"
+        },
+        {
+          "type": "WhatsApp Error 130403: Business Blocked the End User | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-130403"
+        },
+        {
+          "type": "Compliance & Data Retention | Dualhook",
+          "url": "https://dualhook.com/docs/compliance"
+        },
+        {
+          "type": "MM API Onboarding | Dualhook",
+          "url": "https://dualhook.com/docs/marketing-messages-onboarding"
+        },
+        {
+          "type": "WhatsApp Marketing Messages: Cloud API vs Marketing Messages API | Dualhook",
+          "url": "https://dualhook.com/docs/marketing-messages"
+        },
+        {
+          "type": "WhatsApp account_update Webhook: WABA Lifecycle Events Reference | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-account-update"
+        },
+        {
+          "type": "Location Templates | Dualhook",
+          "url": "https://dualhook.com/docs/utility-templates-location"
+        },
+        {
+          "type": "WhatsApp history Webhook: Coexistence Chat History Sync | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-history"
+        },
+        {
+          "type": "WhatsApp Parent BSUIDs for Multi-Portfolio Businesses | Dualhook",
+          "url": "https://dualhook.com/docs/contacts-bsuid-parent-user-ids"
+        },
+        {
+          "type": "smb_message_echoes Webhook Explained: Coexistence App Messages, Edits, Revokes | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-smb-message-echoes"
+        },
+        {
+          "type": "Reaction Messages | Dualhook",
+          "url": "https://dualhook.com/docs/service-messages-reactions"
+        },
+        {
+          "type": "WhatsApp Error 131051: Unsupported Message Type Fixed | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131051"
+        },
+        {
+          "type": "WhatsApp Business API Permissions | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-business-api-permissions"
+        },
+        {
+          "type": "WhatsApp Utility Templates: Components, Pricing, and Specialty Types | Dualhook",
+          "url": "https://dualhook.com/docs/utility-messages"
+        },
+        {
+          "type": "Messaging Webhook | Dualhook",
+          "url": "https://dualhook.com/docs/messaging-webhook"
+        },
+        {
+          "type": "WhatsApp Authentication Best Practices: Security & UX | Dualhook",
+          "url": "https://dualhook.com/docs/authentication-best-practices"
+        },
+        {
+          "type": "Media Messages | Dualhook",
+          "url": "https://dualhook.com/docs/media-messages"
+        },
+        {
+          "type": "WhatsApp Business Platform Webhook Fields Reference | Dualhook",
+          "url": "https://dualhook.com/docs/webhooks"
+        },
+        {
+          "type": "WhatsApp QR Codes & Short Links API | Dualhook",
+          "url": "https://dualhook.com/docs/qr-codes"
+        },
+        {
+          "type": "Contacts & Location Messages | Dualhook",
+          "url": "https://dualhook.com/docs/contacts-location"
+        },
+        {
+          "type": "WhatsApp Error 100: Invalid Parameter Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-100"
+        },
+        {
+          "type": "WhatsApp BSUID Contact Book and REQUEST_CONTACT_INFO | Dualhook",
+          "url": "https://dualhook.com/docs/contacts-bsuid-contact-book"
+        },
+        {
+          "type": "WhatsApp Marketing Conversion Tracking: Pixel, CAPI, SDK, fbclid | Dualhook",
+          "url": "https://dualhook.com/docs/marketing-conversion-tracking"
+        },
+        {
+          "type": "WhatsApp Management Webhooks: Template, Quality and Account Events | Dualhook",
+          "url": "https://dualhook.com/docs/webhook-events"
+        },
+        {
+          "type": "Authentication Bulk Management | Dualhook",
+          "url": "https://dualhook.com/docs/authentication-bulk-management"
+        },
+        {
+          "type": "Marketing Messages API for WhatsApp: Endpoint, Features, Webhooks | Dualhook",
+          "url": "https://dualhook.com/docs/marketing-messages-api"
+        },
+        {
+          "type": "WhatsApp Business Usernames: API, Rules, Webhook and Errors | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-business-usernames"
+        },
+        {
+          "type": "Dualhook + Make: WhatsApp Webhook Integration and Runtime Sends | Dualhook",
+          "url": "https://dualhook.com/docs/guide-make-webhook"
+        },
+        {
+          "type": "WhatsApp BSUID, Usernames and Contact Book Transition Guide | Dualhook",
+          "url": "https://dualhook.com/docs/contacts-bsuid"
+        },
+        {
+          "type": "Marketing Max-Price (Beta) | Dualhook",
+          "url": "https://dualhook.com/docs/marketing-max-price"
+        },
+        {
+          "type": "WhatsApp BSUID Webhook Changes: user_id, wa_id, username and parent_user_id | Dualhook",
+          "url": "https://dualhook.com/docs/contacts-bsuid-webhooks"
+        },
+        {
+          "type": "WhatsApp Calling API Reference: Endpoints, Webhooks, WebRTC | Dualhook",
+          "url": "https://dualhook.com/docs/calling-api-reference"
+        },
+        {
+          "type": "Marketing Creative Optimizations | Dualhook",
+          "url": "https://dualhook.com/docs/marketing-creative-optimizations"
+        },
+        {
+          "type": "Messaging Health Status | Dualhook",
+          "url": "https://dualhook.com/docs/health-monitoring"
+        },
+        {
+          "type": "WhatsApp OTP Android SDK: Handshake, Eligibility, Migration | Dualhook",
+          "url": "https://dualhook.com/docs/authentication-otp-handshake"
+        },
+        {
+          "type": "WhatsApp Embedded Signup Error Codes and Fixes | Dualhook",
+          "url": "https://dualhook.com/docs/embedded-signup-errors"
+        },
+        {
+          "type": "WhatsApp Service Messages: CSW, Types, TTL, and Pricing | Dualhook",
+          "url": "https://dualhook.com/docs/service-messages"
+        },
+        {
+          "type": "Address Messages (India) | Dualhook",
+          "url": "https://dualhook.com/docs/service-messages-address"
+        },
+        {
+          "type": "Capacity, Quality & Limits | Dualhook",
+          "url": "https://dualhook.com/docs/capacity-quality-limits"
+        },
+        {
+          "type": "Dualhook + Zapier: Gateway Pattern for WhatsApp Webhooks and Template Sends | Dualhook",
+          "url": "https://dualhook.com/docs/guide-zapier-webhook"
+        },
+        {
+          "type": "WhatsApp Messaging Best Practices: Opt-In, Quality, Webhooks, Launch Checklist | Dualhook",
+          "url": "https://dualhook.com/docs/messaging-best-practices"
+        },
+        {
+          "type": "WhatsApp API Architecture & Security | Dualhook",
+          "url": "https://dualhook.com/docs/architecture-security"
+        },
+        {
+          "type": "Chatwoot and Dualhook: Safe WhatsApp API Upgrade Guide | Dualhook",
+          "url": "https://dualhook.com/docs/guide-chatwoot-webhook"
+        },
+        {
+          "type": "Laravel WhatsApp Webhook Integration with Dualhook | Dualhook",
+          "url": "https://dualhook.com/docs/guide-laravel-webhook"
+        },
+        {
+          "type": "WhatsApp Calling SIP Configuration: TLS, Digest Auth, SDES vs DTLS | Dualhook",
+          "url": "https://dualhook.com/docs/calling-sip"
+        },
+        {
+          "type": "Authentication Messages | Dualhook",
+          "url": "https://dualhook.com/docs/authentication-messages"
+        },
+        {
+          "type": "WhatsApp Business-Initiated Calls: API and Webhooks | Dualhook",
+          "url": "https://dualhook.com/docs/calling-business-initiated"
+        },
+        {
+          "type": "WhatsApp BSUID API Changes: recipient, to precedence, groups and calling | Dualhook",
+          "url": "https://dualhook.com/docs/contacts-bsuid-api-changes"
+        },
+        {
+          "type": "WhatsApp Interactive Messages: CTA, List, Carousel, Buttons, Location | Dualhook",
+          "url": "https://dualhook.com/docs/service-messages-interactive"
+        },
+        {
+          "type": "WhatsApp Error 132000: Template Variable Mismatch | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-132000"
+        },
+        {
+          "type": "Shopify WhatsApp Integration with Dualhook | Dualhook",
+          "url": "https://dualhook.com/docs/guide-shopify-integration"
+        },
+        {
+          "type": "WhatsApp Error 10: Fix Permission Denied / Terms | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-10"
+        },
+        {
+          "type": "WhatsApp Error 131047: Re-Engagement / 24h Window Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131047"
+        },
+        {
+          "type": "WhatsApp Error 131031: Account Locked Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131031"
+        },
+        {
+          "type": "WhatsApp Error 132012: Fix Template Format Mismatch | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-132012"
+        },
+        {
+          "type": "WhatsApp Error 368: Fix Temporary Policy Block | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-368"
+        },
+        {
+          "type": "WhatsApp Error 200: Fix Missing Token / Permission | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-200"
+        },
+        {
+          "type": "Timezone IDs | Dualhook",
+          "url": "https://dualhook.com/docs/calling-timezone-ids"
+        },
+        {
+          "type": "Maintain Account Health | Dualhook",
+          "url": "https://dualhook.com/docs/account-health"
+        },
+        {
+          "type": "WhatsApp Cloud API Calling: VoIP, BIC/UIC, Architecture | Dualhook",
+          "url": "https://dualhook.com/docs/calling"
+        },
+        {
+          "type": "WhatsApp Error 131009: Parameter Value Not Valid Fix | Dualhook",
+          "url": "https://dualhook.com/docs/whatsapp-error-131009"
+        },
+        {
+          "type": "Dualhook + n8n: WhatsApp Webhook Receiver, Meta Verification, and Template Sends | Dualhook",
+          "url": "https://dualhook.com/docs/guide-n8n-webhook"
+        },
+        {
+          "type": "Node.js WhatsApp Webhook Receiver with Dualhook | Dualhook",
+          "url": "https://dualhook.com/docs/guide-nodejs-webhook"
+        },
+        {
+          "type": "Call Buttons & Deep Links | Dualhook",
+          "url": "https://dualhook.com/docs/calling-call-buttons"
+        },
+        {
+          "type": "WhatsApp User-Initiated Calls: Inbound Voice with Pre-Accept | Dualhook",
+          "url": "https://dualhook.com/docs/calling-user-initiated"
+        },
+        {
+          "type": "WhatsApp Calling Troubleshooting: Error Codes & Audio Clipping | Dualhook",
+          "url": "https://dualhook.com/docs/calling-troubleshooting"
+        },
+        {
+          "type": "Calling Configuration | Dualhook",
+          "url": "https://dualhook.com/docs/calling-configuration"
+        },
+        {
+          "type": "WhatsApp Call Permissions: Temporary, Permanent, and Callback | Dualhook",
+          "url": "https://dualhook.com/docs/calling-permissions"
+        },
+        {
+          "type": "WhatsApp Cloud API Error Codes — Full Meta API Reference & Fixes | Dualhook",
+          "url": "https://dualhook.com/docs/api-errors"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    }
+  ],
+  "currentSnapshotId": "edbf86f2c9151748626e69201afbc9330cc8364758453c9290e148229f700b49"
+}

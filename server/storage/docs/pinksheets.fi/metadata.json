@@ -1,0 +1,131 @@
+{
+  "url": "https://pinksheets.fi/",
+  "domain": "pinksheets.fi",
+  "lastScraped": "2026-09-07T22:36:17.491Z",
+  "totalPages": 3,
+  "successfulPages": 3,
+  "failedPages": [],
+  "structure": [
+    {
+      "type": "Pink Sheets: the desk for trades that don’t fit in a pool",
+      "url": "https://pinksheets.fi/"
+    },
+    {
+      "type": "How it works on Pink Sheets",
+      "url": "https://pinksheets.fi/how-it-works"
+    },
+    {
+      "type": "Quote as a maker on Pink Sheets",
+      "url": "https://pinksheets.fi/makers"
+    }
+  ],
+  "latestVersion": "5c08ed4266339cfa50cb2e231a7b4b7f0c2a11ecae8d3c4811b51aa2e9d0a95d",
+  "versions": [
+    {
+      "version": "5c08ed4266339cfa50cb2e231a7b4b7f0c2a11ecae8d3c4811b51aa2e9d0a95d",
+      "label": "latest",
+      "timestamp": "2026-09-07T22:36:17.491Z",
+      "filename": "documentation_2026-09-07T22:36:17.491Z.md",
+      "totalPages": 3,
+      "successfulPages": 3,
+      "url": "https://pinksheets.fi/",
+      "snapshotId": "5c08ed4266339cfa50cb2e231a7b4b7f0c2a11ecae8d3c4811b51aa2e9d0a95d",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://pinksheets.fi/",
+      "canonicalSeedUrl": "https://pinksheets.fi/",
+      "configuration": {
+        "url": "https://pinksheets.fi/",
+        "limit": 1000,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-07T22:36:06.831Z",
+      "completedAt": "2026-09-07T22:36:17.491Z",
+      "providerTotals": {
+        "discovered": 3,
+        "returned": 3,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 3,
+        "returned": 3,
+        "valid": 3,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://pinksheets.fi/",
+          "canonicalUrl": "https://pinksheets.fi/",
+          "status": "valid"
+        },
+        {
+          "url": "https://pinksheets.fi/how-it-works",
+          "canonicalUrl": "https://pinksheets.fi/how-it-works",
+          "status": "valid"
+        },
+        {
+          "url": "https://pinksheets.fi/makers",
+          "canonicalUrl": "https://pinksheets.fi/makers",
+          "status": "valid"
+        }
+      ],
+      "id": "31ef0723bb361eba699b45dc2dcabd6b444df2c10eb40167c000843ba8fb3e48"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "5c08ed4266339cfa50cb2e231a7b4b7f0c2a11ecae8d3c4811b51aa2e9d0a95d",
+      "filename": "documentation_2026-09-07T22:36:17.491Z.md",
+      "contentHash": "7c6e790225fe719efc1fccca71a8497888ab6fad486da7212640f7c14e5d1227",
+      "sourceUrl": "https://pinksheets.fi/",
+      "canonicalSourceUrl": "https://pinksheets.fi/",
+      "capturedAt": "2026-09-07T22:36:17.491Z",
+      "crawlRunId": "31ef0723bb361eba699b45dc2dcabd6b444df2c10eb40167c000843ba8fb3e48",
+      "totalPages": 3,
+      "successfulPages": 3,
+      "structure": [
+        {
+          "type": "Pink Sheets: the desk for trades that don’t fit in a pool",
+          "url": "https://pinksheets.fi/"
+        },
+        {
+          "type": "How it works on Pink Sheets",
+          "url": "https://pinksheets.fi/how-it-works"
+        },
+        {
+          "type": "Quote as a maker on Pink Sheets",
+          "url": "https://pinksheets.fi/makers"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    }
+  ],
+  "currentSnapshotId": "5c08ed4266339cfa50cb2e231a7b4b7f0c2a11ecae8d3c4811b51aa2e9d0a95d"
+}
