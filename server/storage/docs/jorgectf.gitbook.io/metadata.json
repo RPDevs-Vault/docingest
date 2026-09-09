@@ -1,19 +1,23 @@
 {
   "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
   "domain": "jorgectf.gitbook.io",
-  "lastScraped": "2026-09-03T14:29:52.965Z",
+  "lastScraped": "2026-09-08T07:40:39.725Z",
   "totalPages": 121,
   "successfulPages": 117,
   "failedPages": [
     "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/php (provider-result-had-no-extractable-content)",
-    "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php (server-detected-blocked-content)",
-    "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php (server-detected-blocked-content)",
+    "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php (provider-result-had-no-extractable-content)",
+    "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php (provider-result-had-no-extractable-content)",
     "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language (server-detected-blocked-content)"
   ],
   "structure": [
     {
       "type": "TL;DR | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources"
+    },
+    {
+      "type": "Resources | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources"
     },
     {
       "type": "BurpSuite | AWAE - OSWE Preparation / Resources",
@@ -24,12 +28,12 @@
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs"
     },
     {
-      "type": "Java | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java"
+      "type": "WhiteBox | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox"
     },
     {
-      "type": "Resources | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources"
+      "type": "Java | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java"
     },
     {
       "type": "SQL Injection | AWAE - OSWE Preparation / Resources",
@@ -40,12 +44,12 @@
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization"
     },
     {
-      "type": "SQL Injection | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection"
-    },
-    {
       "type": "Ysoserial | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java/ysoserial"
+    },
+    {
+      "type": "SQL Injection | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection"
     },
     {
       "type": "CSRF | AWAE - OSWE Preparation / Resources",
@@ -56,44 +60,8 @@
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/type-juggling"
     },
     {
-      "type": "WhiteBox | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox"
-    },
-    {
-      "type": "Summary | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary"
-    },
-    {
-      "type": "Types | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types"
-    },
-    {
-      "type": "By Language | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language"
-    },
-    {
-      "type": "Injection by clause | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause"
-    },
-    {
-      "type": "Regex | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/regex"
-    },
-    {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/master.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite.md"
     },
     {
       "type": "Unknown",
@@ -101,39 +69,19 @@
     },
     {
       "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources.md"
+    },
+    {
+      "type": "Unknown",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/llms.txt"
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite.md"
-    },
-    {
-      "type": "JAVA | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java"
-    },
-    {
-      "type": "Bypassing Character Restrictions | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions"
-    },
-    {
-      "type": "Practice | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/practice"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/master.md"
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause.md"
-    },
-    {
-      "type": "Deserialization | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox.md"
     },
     {
       "type": "Unknown",
@@ -141,11 +89,31 @@
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization.md"
+    },
+    {
+      "type": "Summary | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary"
     },
     {
       "type": "Unknown",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/csrf.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection.md"
+    },
+    {
+      "type": "Regex | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/regex"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection.md"
     },
     {
       "type": "Summary | AWAE - OSWE Preparation / Resources",
@@ -156,72 +124,72 @@
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary.md"
     },
     {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox.md"
-    },
-    {
-      "type": "Regex | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/regex"
-    },
-    {
-      "type": "Summary | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/summary"
-    },
-    {
-      "type": "Resources | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/resources"
-    },
-    {
       "type": "By Language | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language"
-    },
-    {
-      "type": "Regex | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/regex"
-    },
-    {
-      "type": "PHP | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization"
-    },
-    {
-      "type": "Summary | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/summary"
-    },
-    {
-      "type": "JAVA | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java"
-    },
-    {
-      "type": "Resources | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language"
     },
     {
       "type": "Regex | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/regex"
     },
     {
-      "type": ".NET | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net"
+      "type": "Injection by clause | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause"
     },
     {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions.md"
+      "type": "JAVA | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java"
+    },
+    {
+      "type": "Types | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types"
+    },
+    {
+      "type": "Bypassing Character Restrictions | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions"
+    },
+    {
+      "type": "Summary | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/summary"
+    },
+    {
+      "type": "Regex | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/regex"
     },
     {
       "type": "Practice | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/practice"
     },
     {
+      "type": "Deserialization | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization"
+    },
+    {
+      "type": "Practice | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/practice"
+    },
+    {
       "type": "Resources | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/resources"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/resources"
+    },
+    {
+      "type": "Regex | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/regex"
     },
     {
       "type": "Summary | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/summary"
+    },
+    {
+      "type": "Vulnerable Libraries' Implementation | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java/vulnerable-libraries-implementation"
+    },
+    {
+      "type": "Resources | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/resources"
+    },
+    {
+      "type": "Practice | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/practice"
     },
     {
       "type": "Resources | AWAE - OSWE Preparation / Resources",
@@ -229,7 +197,15 @@
     },
     {
       "type": "Regex | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/regex"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/regex"
+    },
+    {
+      "type": "Summary | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/summary"
+    },
+    {
+      "type": "Random | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random"
     },
     {
       "type": "Resources | AWAE - OSWE Preparation / Resources",
@@ -240,32 +216,8 @@
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe"
     },
     {
-      "type": "Practice | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/practice"
-    },
-    {
-      "type": "Vulnerable Libraries' Implementation | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java/vulnerable-libraries-implementation"
-    },
-    {
       "type": "Resources | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources"
-    },
-    {
-      "type": "XSS | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss"
-    },
-    {
-      "type": "Summary | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary"
-    },
-    {
-      "type": "REGEX | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex"
-    },
-    {
-      "type": "Practice | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice"
     },
     {
       "type": "Other Repositories | AWAE - OSWE Preparation / Resources",
@@ -273,23 +225,31 @@
     },
     {
       "type": "By Language | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language"
+    },
+    {
+      "type": "PHP | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization"
+    },
+    {
+      "type": ".NET | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net"
+    },
+    {
+      "type": "Practice | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice"
+    },
+    {
+      "type": "Summary | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary"
     },
     {
       "type": "SSTI | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti"
     },
     {
-      "type": "File Upload Restrictions Bypass | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass"
-    },
-    {
-      "type": "Random | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random"
-    },
-    {
-      "type": "Practice | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice"
+      "type": "JAVA | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java"
     },
     {
       "type": "Java | AWAE - OSWE Preparation / Resources",
@@ -297,11 +257,35 @@
     },
     {
       "type": "Resources | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources"
+    },
+    {
+      "type": "Resources | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/resources"
     },
     {
-      "type": "Tricks | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks"
+      "type": "Resources | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources"
+    },
+    {
+      "type": "By Language | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language"
+    },
+    {
+      "type": "Compiling & Running | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running"
+    },
+    {
+      "type": "File Upload Restrictions Bypass | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass"
+    },
+    {
+      "type": "NodeJS | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs"
+    },
+    {
+      "type": "File Extension Filters Bypass List | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass"
     },
     {
       "type": "Decompiling | AWAE - OSWE Preparation / Resources",
@@ -312,32 +296,32 @@
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling"
     },
     {
-      "type": "Resources | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources"
+      "type": "Regex | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex"
+    },
+    {
+      "type": "XSS | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss"
+    },
+    {
+      "type": "REGEX | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex"
+    },
+    {
+      "type": "Practice | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice"
+    },
+    {
+      "type": "Tricks | AWAE - OSWE Preparation / Resources",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks"
     },
     {
       "type": "Java | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java"
     },
     {
-      "type": "Compiling & Running | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running"
-    },
-    {
-      "type": "Regex | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex"
-    },
-    {
       "type": "Practice | AWAE - OSWE Preparation / Resources",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice"
-    },
-    {
-      "type": "File Extension Filters Bypass List | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass"
-    },
-    {
-      "type": "NodeJS | AWAE - OSWE Preparation / Resources",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs"
     },
     {
       "type": "Summary | AWAE - OSWE Preparation / Resources",
@@ -345,7 +329,11 @@
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language.md"
     },
     {
       "type": "Unknown",
@@ -353,27 +341,7 @@
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions.md"
     },
     {
       "type": "Unknown",
@@ -381,79 +349,7 @@
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization.md"
     },
     {
       "type": "Unknown",
@@ -461,15 +357,83 @@
     },
     {
       "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java.md"
+    },
+    {
+      "type": "Unknown",
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice.md"
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary.md"
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources.md"
     },
     {
       "type": "Unknown",
@@ -477,21 +441,67 @@
     },
     {
       "type": "Unknown",
-      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary.md"
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex.md"
     }
   ],
-  "latestVersion": "2cb56c684aa6cb836e9cef8dcf4800fc85aafd9f234c747e89e6870f79d8e16c",
+  "latestVersion": "8ff3076bbc6883219803ac62ff68f8713a42113474131b7239245b0aac9fcbe7",
   "versions": [
     {
-      "version": "2cb56c684aa6cb836e9cef8dcf4800fc85aafd9f234c747e89e6870f79d8e16c",
+      "version": "8ff3076bbc6883219803ac62ff68f8713a42113474131b7239245b0aac9fcbe7",
       "label": "latest",
+      "timestamp": "2026-09-08T07:40:39.725Z",
+      "filename": "documentation_2026-09-08T07:40:39.725Z.md",
+      "totalPages": 121,
+      "successfulPages": 117,
+      "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+      "snapshotId": "8ff3076bbc6883219803ac62ff68f8713a42113474131b7239245b0aac9fcbe7",
+      "isLatest": true
+    },
+    {
+      "version": "2cb56c684aa6cb836e9cef8dcf4800fc85aafd9f234c747e89e6870f79d8e16c",
       "timestamp": "2026-09-03T14:29:52.965Z",
       "filename": "documentation_2026-09-03T14:29:52.965Z.md",
       "totalPages": 121,
       "successfulPages": 117,
       "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
       "snapshotId": "2cb56c684aa6cb836e9cef8dcf4800fc85aafd9f234c747e89e6870f79d8e16c",
-      "isLatest": true
+      "isLatest": false
     }
   ],
   "schemaVersion": 3,
@@ -1149,6 +1159,660 @@
         }
       ],
       "id": "eebcde9c44b0fb02545f7b85983f368e5450a217b4228bb5538ae25377811e21"
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+      "canonicalSeedUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+      "configuration": {
+        "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+        "limit": 1000,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-08T07:39:57.916Z",
+      "completedAt": "2026-09-08T07:40:39.725Z",
+      "providerTotals": {
+        "discovered": 121,
+        "returned": 121,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 121,
+        "returned": 121,
+        "valid": 117,
+        "needs-review": 0,
+        "blocked": 1,
+        "empty": 3,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java/ysoserial",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java/ysoserial",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/csrf",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/csrf",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/type-juggling",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/type-juggling",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/llms.txt",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/master.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/master.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/php",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/php",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/type-juggling.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/type-juggling.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/csrf.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/csrf.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/regex",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/regex",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/summary",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/summary",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/regex",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/regex",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/summary",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/summary",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/regex",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/regex",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/practice",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/practice",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/practice",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/practice",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/regex",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/regex",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/summary",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/summary",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java/vulnerable-libraries-implementation",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java/vulnerable-libraries-implementation",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/practice",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/practice",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/regex",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/regex",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/summary",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/summary",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/regex.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/regex.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/resources.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/resources.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex.md",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language",
+          "canonicalUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language",
+          "status": "blocked",
+          "reason": "server-detected-blocked-content"
+        }
+      ],
+      "id": "9038c906b184c75fb62256ee405bc6d3ac3f80e914d684b2f88926eb65a8d4bd"
     }
   ],
   "snapshots": [
@@ -1668,7 +2332,516 @@
           "server-detected-blocked-content"
         ]
       }
+    },
+    {
+      "id": "8ff3076bbc6883219803ac62ff68f8713a42113474131b7239245b0aac9fcbe7",
+      "filename": "documentation_2026-09-08T07:40:39.725Z.md",
+      "contentHash": "8b36f38c40f3a9fccf123654a4de769918ba2912b4c31130445a43699091d0db",
+      "sourceUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+      "canonicalSourceUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+      "capturedAt": "2026-09-08T07:40:39.725Z",
+      "crawlRunId": "9038c906b184c75fb62256ee405bc6d3ac3f80e914d684b2f88926eb65a8d4bd",
+      "totalPages": 121,
+      "successfulPages": 117,
+      "structure": [
+        {
+          "type": "TL;DR | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources"
+        },
+        {
+          "type": "BurpSuite | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite"
+        },
+        {
+          "type": "POCs | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs"
+        },
+        {
+          "type": "WhiteBox | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox"
+        },
+        {
+          "type": "Java | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java"
+        },
+        {
+          "type": "SQL Injection | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection"
+        },
+        {
+          "type": "Deserialization | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization"
+        },
+        {
+          "type": "Ysoserial | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java/ysoserial"
+        },
+        {
+          "type": "SQL Injection | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection"
+        },
+        {
+          "type": "CSRF | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/csrf"
+        },
+        {
+          "type": "Type Juggling | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/type-juggling"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/burpsuite.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/master.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/resources/whitebox.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/type-juggling.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization.md"
+        },
+        {
+          "type": "Summary | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/csrf.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection.md"
+        },
+        {
+          "type": "Regex | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/regex"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/deserialization/java.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/general/pocs/sql-injection.md"
+        },
+        {
+          "type": "Summary | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java/summary"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/summary.md"
+        },
+        {
+          "type": "By Language | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language"
+        },
+        {
+          "type": "Regex | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/regex"
+        },
+        {
+          "type": "Injection by clause | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause"
+        },
+        {
+          "type": "JAVA | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java"
+        },
+        {
+          "type": "Types | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types"
+        },
+        {
+          "type": "Bypassing Character Restrictions | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions"
+        },
+        {
+          "type": "Summary | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/summary"
+        },
+        {
+          "type": "Regex | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/regex"
+        },
+        {
+          "type": "Practice | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/practice"
+        },
+        {
+          "type": "Deserialization | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization"
+        },
+        {
+          "type": "Practice | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization/practice"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/resources"
+        },
+        {
+          "type": "Regex | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/regex"
+        },
+        {
+          "type": "Summary | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/summary"
+        },
+        {
+          "type": "Vulnerable Libraries' Implementation | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java/vulnerable-libraries-implementation"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net/resources"
+        },
+        {
+          "type": "Practice | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/practice"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/php/resources"
+        },
+        {
+          "type": "Regex | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/regex"
+        },
+        {
+          "type": "Summary | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java/summary"
+        },
+        {
+          "type": "Random | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources"
+        },
+        {
+          "type": "XXE | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources"
+        },
+        {
+          "type": "Other Repositories | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories"
+        },
+        {
+          "type": "By Language | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language"
+        },
+        {
+          "type": "PHP | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization"
+        },
+        {
+          "type": ".NET | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net"
+        },
+        {
+          "type": "Practice | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice"
+        },
+        {
+          "type": "Summary | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary"
+        },
+        {
+          "type": "SSTI | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti"
+        },
+        {
+          "type": "JAVA | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java"
+        },
+        {
+          "type": "Java | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/resources"
+        },
+        {
+          "type": "Resources | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources"
+        },
+        {
+          "type": "By Language | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language"
+        },
+        {
+          "type": "Compiling & Running | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running"
+        },
+        {
+          "type": "File Upload Restrictions Bypass | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass"
+        },
+        {
+          "type": "NodeJS | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs"
+        },
+        {
+          "type": "File Extension Filters Bypass List | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass"
+        },
+        {
+          "type": "Decompiling | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling"
+        },
+        {
+          "type": "Type Juggling | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling"
+        },
+        {
+          "type": "Regex | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex"
+        },
+        {
+          "type": "XSS | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss"
+        },
+        {
+          "type": "REGEX | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex"
+        },
+        {
+          "type": "Practice | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice"
+        },
+        {
+          "type": "Tricks | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks"
+        },
+        {
+          "type": "Java | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java"
+        },
+        {
+          "type": "Practice | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice"
+        },
+        {
+          "type": "Summary | AWAE - OSWE Preparation / Resources",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/types.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/by-language/java.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/bypassing-character-restrictions.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/regex.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/random.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/practice.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling/summary.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/tricks.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/practice.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/resources.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/resources.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/deserialization.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/.net.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs/practice.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/nodejs.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/deserialization/by-language/java.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/summary.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/other-repositories.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language/java.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/resources.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/ssti/resources.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/decompiling.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/resources.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/java/compiling-and-running.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xss.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/xxe/by-language.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/regex.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/sql-injection/injection-by-clause.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language/php/type-juggling.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-vulnerability/file-upload-restrictions-bypass/file-extension-filters-bypass.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/regex.md"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    },
+    {
+      "id": "fac972aeefe6872c32f37bfcd6088da1c81a937eb6441a9c728f301c6a1b5ead",
+      "filename": "evidence_2026-09-08T07:40:39.725Z.md",
+      "contentHash": "1faed7c0b9f7bc91a5ec59ee99d1cde8a5815026ea22cfece4f2fc17b7e383fe",
+      "sourceUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+      "canonicalSourceUrl": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources",
+      "capturedAt": "2026-09-08T07:40:39.725Z",
+      "crawlRunId": "9038c906b184c75fb62256ee405bc6d3ac3f80e914d684b2f88926eb65a8d4bd",
+      "totalPages": 1,
+      "successfulPages": 0,
+      "structure": [
+        {
+          "type": "Just a moment...",
+          "url": "https://jorgectf.gitbook.io/awae-oswe-preparation-resources/by-language"
+        }
+      ],
+      "quality": {
+        "status": "quarantined",
+        "reasons": [
+          "provider-result-had-no-extractable-content",
+          "server-detected-blocked-content"
+        ]
+      }
     }
   ],
-  "currentSnapshotId": "2cb56c684aa6cb836e9cef8dcf4800fc85aafd9f234c747e89e6870f79d8e16c"
+  "currentSnapshotId": "8ff3076bbc6883219803ac62ff68f8713a42113474131b7239245b0aac9fcbe7"
 }

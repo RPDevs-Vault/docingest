@@ -1,0 +1,365 @@
+{
+  "url": "https://danpokhrel.github.io/tutorial/",
+  "domain": "danpokhrel.github.io",
+  "lastScraped": "2026-09-08T03:21:37.701Z",
+  "totalPages": 21,
+  "successfulPages": 21,
+  "failedPages": [],
+  "structure": [
+    {
+      "type": "Introduction - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/"
+    },
+    {
+      "type": "Introduction - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/introduction.html"
+    },
+    {
+      "type": "Chapter 1: What Is eframe? - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch01-what-is-eframe.html"
+    },
+    {
+      "type": "Chapter 2: Project Setup & Structure - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch02-project-setup.html"
+    },
+    {
+      "type": "Chapter 3: Your First Window - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch03-first-window.html"
+    },
+    {
+      "type": "Chapter 5: Structuring Your Application - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch05-architecture.html"
+    },
+    {
+      "type": "Chapter 7: Input, Menus & Dialogs - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch07-input-menus.html"
+    },
+    {
+      "type": "Chapter 4: Layout, Widgets & State - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch04-layout-widgets.html"
+    },
+    {
+      "type": "Chapter 6: Theming, Fonts & Styling - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch06-theming.html"
+    },
+    {
+      "type": "Chapter 8: Introducing egui-snarl - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch08-egui-snarl.html"
+    },
+    {
+      "type": "Chapter 10: Connections & Wires - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch10-connections.html"
+    },
+    {
+      "type": "Chapter 12: Styling the Graph - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch12-styling-graph.html"
+    },
+    {
+      "type": "Chapter 11: Interactions & UX - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch11-interactions.html"
+    },
+    {
+      "type": "Chapter 13: Defining Agent Nodes - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch13-agent-nodes.html"
+    },
+    {
+      "type": "Chapter 15: Live Execution & Streaming - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch15-live-execution.html"
+    },
+    {
+      "type": "Chapter 14: Graph Evaluation - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch14-graph-evaluation.html"
+    },
+    {
+      "type": "Chapter 16: State Persistence - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch16-persistence.html"
+    },
+    {
+      "type": "Chapter 17: Production Architecture - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch17-production.html"
+    },
+    {
+      "type": "Chapter 9: Building Nodes & Pins - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch09-nodes-pins.html"
+    },
+    {
+      "type": "Chapter 18: Conclusion & Resources - Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/ch18-conclusion.html"
+    },
+    {
+      "type": "Building a Node-Based AI Flow Editor with eframe & egui",
+      "url": "https://danpokhrel.github.io/tutorial/print.html"
+    }
+  ],
+  "latestVersion": "fddb00237dc23dbca2a95274d2c39b78a88360799823a94220ee1306b4a8472f",
+  "versions": [
+    {
+      "version": "fddb00237dc23dbca2a95274d2c39b78a88360799823a94220ee1306b4a8472f",
+      "label": "latest",
+      "timestamp": "2026-09-08T03:21:37.701Z",
+      "filename": "documentation_2026-09-08T03:21:37.701Z.md",
+      "totalPages": 21,
+      "successfulPages": 21,
+      "url": "https://danpokhrel.github.io/tutorial/",
+      "snapshotId": "fddb00237dc23dbca2a95274d2c39b78a88360799823a94220ee1306b4a8472f",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://danpokhrel.github.io/tutorial/",
+      "canonicalSeedUrl": "https://danpokhrel.github.io/tutorial",
+      "configuration": {
+        "url": "https://danpokhrel.github.io/tutorial/",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-08T03:21:17.496Z",
+      "completedAt": "2026-09-08T03:21:37.701Z",
+      "providerTotals": {
+        "discovered": 21,
+        "returned": 21,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 21,
+        "returned": 21,
+        "valid": 21,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://danpokhrel.github.io/tutorial/",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/introduction.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/introduction.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch01-what-is-eframe.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch01-what-is-eframe.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch02-project-setup.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch02-project-setup.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch03-first-window.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch03-first-window.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch05-architecture.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch05-architecture.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch07-input-menus.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch07-input-menus.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch04-layout-widgets.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch04-layout-widgets.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch06-theming.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch06-theming.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch08-egui-snarl.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch08-egui-snarl.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch10-connections.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch10-connections.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch12-styling-graph.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch12-styling-graph.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch11-interactions.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch11-interactions.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch13-agent-nodes.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch13-agent-nodes.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch15-live-execution.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch15-live-execution.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch14-graph-evaluation.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch14-graph-evaluation.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch16-persistence.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch16-persistence.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch17-production.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch17-production.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch09-nodes-pins.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch09-nodes-pins.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/ch18-conclusion.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/ch18-conclusion.html",
+          "status": "valid"
+        },
+        {
+          "url": "https://danpokhrel.github.io/tutorial/print.html",
+          "canonicalUrl": "https://danpokhrel.github.io/tutorial/print.html",
+          "status": "valid"
+        }
+      ],
+      "id": "e4d0d925e35f31179d5ac2c43550510a72742dd309510c9253d6b7468fd53173"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "fddb00237dc23dbca2a95274d2c39b78a88360799823a94220ee1306b4a8472f",
+      "filename": "documentation_2026-09-08T03:21:37.701Z.md",
+      "contentHash": "1953edac2dab4413d62f211e23348de7a466cc177299bc8da64b59049db52606",
+      "sourceUrl": "https://danpokhrel.github.io/tutorial/",
+      "canonicalSourceUrl": "https://danpokhrel.github.io/tutorial",
+      "capturedAt": "2026-09-08T03:21:37.701Z",
+      "crawlRunId": "e4d0d925e35f31179d5ac2c43550510a72742dd309510c9253d6b7468fd53173",
+      "totalPages": 21,
+      "successfulPages": 21,
+      "structure": [
+        {
+          "type": "Introduction - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/"
+        },
+        {
+          "type": "Introduction - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/introduction.html"
+        },
+        {
+          "type": "Chapter 1: What Is eframe? - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch01-what-is-eframe.html"
+        },
+        {
+          "type": "Chapter 2: Project Setup & Structure - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch02-project-setup.html"
+        },
+        {
+          "type": "Chapter 3: Your First Window - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch03-first-window.html"
+        },
+        {
+          "type": "Chapter 5: Structuring Your Application - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch05-architecture.html"
+        },
+        {
+          "type": "Chapter 7: Input, Menus & Dialogs - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch07-input-menus.html"
+        },
+        {
+          "type": "Chapter 4: Layout, Widgets & State - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch04-layout-widgets.html"
+        },
+        {
+          "type": "Chapter 6: Theming, Fonts & Styling - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch06-theming.html"
+        },
+        {
+          "type": "Chapter 8: Introducing egui-snarl - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch08-egui-snarl.html"
+        },
+        {
+          "type": "Chapter 10: Connections & Wires - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch10-connections.html"
+        },
+        {
+          "type": "Chapter 12: Styling the Graph - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch12-styling-graph.html"
+        },
+        {
+          "type": "Chapter 11: Interactions & UX - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch11-interactions.html"
+        },
+        {
+          "type": "Chapter 13: Defining Agent Nodes - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch13-agent-nodes.html"
+        },
+        {
+          "type": "Chapter 15: Live Execution & Streaming - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch15-live-execution.html"
+        },
+        {
+          "type": "Chapter 14: Graph Evaluation - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch14-graph-evaluation.html"
+        },
+        {
+          "type": "Chapter 16: State Persistence - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch16-persistence.html"
+        },
+        {
+          "type": "Chapter 17: Production Architecture - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch17-production.html"
+        },
+        {
+          "type": "Chapter 9: Building Nodes & Pins - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch09-nodes-pins.html"
+        },
+        {
+          "type": "Chapter 18: Conclusion & Resources - Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/ch18-conclusion.html"
+        },
+        {
+          "type": "Building a Node-Based AI Flow Editor with eframe & egui",
+          "url": "https://danpokhrel.github.io/tutorial/print.html"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    }
+  ],
+  "currentSnapshotId": "fddb00237dc23dbca2a95274d2c39b78a88360799823a94220ee1306b4a8472f"
+}

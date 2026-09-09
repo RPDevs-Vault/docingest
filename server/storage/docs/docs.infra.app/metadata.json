@@ -1,0 +1,534 @@
+{
+  "url": "https://docs.infra.app/",
+  "domain": "docs.infra.app",
+  "lastScraped": "2026-09-08T15:06:09.550Z",
+  "totalPages": 34,
+  "successfulPages": 34,
+  "failedPages": [],
+  "structure": [
+    {
+      "type": "Overview | Infra App Docs",
+      "url": "https://docs.infra.app/"
+    },
+    {
+      "type": "Getting started | Infra App Docs",
+      "url": "https://docs.infra.app/getting-started"
+    },
+    {
+      "type": "Container shell access | Infra App Docs",
+      "url": "https://docs.infra.app/features/container-shell-access"
+    },
+    {
+      "type": "Amazon Web Services (EKS) | Infra App Docs",
+      "url": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks"
+    },
+    {
+      "type": "Google Cloud Platform (GKE) | Infra App Docs",
+      "url": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke"
+    },
+    {
+      "type": "Minikube | Infra App Docs",
+      "url": "https://docs.infra.app/connect-your-cluster/minikube"
+    },
+    {
+      "type": "Docker Desktop | Infra App Docs",
+      "url": "https://docs.infra.app/connect-your-cluster/docker-desktop"
+    },
+    {
+      "type": "Other Clusters | Infra App Docs",
+      "url": "https://docs.infra.app/connect-your-cluster/other-clusters"
+    },
+    {
+      "type": "Deleting Pods | Infra App Docs",
+      "url": "https://docs.infra.app/features/deleting-pods"
+    },
+    {
+      "type": "Editing Resources / Nodes | Infra App Docs",
+      "url": "https://docs.infra.app/features/editing-workloads"
+    },
+    {
+      "type": "Log search & filtering | Infra App Docs",
+      "url": "https://docs.infra.app/features/log-streaming"
+    },
+    {
+      "type": "Clusters with RBAC | Infra App Docs",
+      "url": "https://docs.infra.app/advanced/clusters-with-rbac"
+    },
+    {
+      "type": "CPU & memory utilization | Infra App Docs",
+      "url": "https://docs.infra.app/features/cpu-and-memory-utilization"
+    },
+    {
+      "type": "Digital Ocean (DOKS) | Infra App Docs",
+      "url": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks"
+    },
+    {
+      "type": "FAQs | Infra App Docs",
+      "url": "https://docs.infra.app/advanced/faq"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/master.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/getting-started.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/features/cpu-and-memory-utilization.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/features/container-shell-access.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/connect-your-cluster/minikube.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/features/editing-workloads.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/features/log-streaming.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/features/deleting-pods.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/advanced/faq.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/connect-your-cluster/other-clusters.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/connect-your-cluster/docker-desktop.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.infra.app/advanced/clusters-with-rbac.md"
+    },
+    {
+      "type": "Clusters with RBAC | Infra App Docs",
+      "url": "https://docs.infra.app/advanced"
+    },
+    {
+      "type": "CPU & memory utilization | Infra App Docs",
+      "url": "https://docs.infra.app/features"
+    },
+    {
+      "type": "Amazon Web Services (EKS) | Infra App Docs",
+      "url": "https://docs.infra.app/connect-your-cluster"
+    }
+  ],
+  "latestVersion": "9dfaf926df35f59fefc2effff568896734b41af084c67101c8cfcabd6f02945f",
+  "versions": [
+    {
+      "version": "9dfaf926df35f59fefc2effff568896734b41af084c67101c8cfcabd6f02945f",
+      "label": "latest",
+      "timestamp": "2026-09-08T15:06:09.550Z",
+      "filename": "documentation_2026-09-08T15:06:09.550Z.md",
+      "totalPages": 34,
+      "successfulPages": 34,
+      "url": "https://docs.infra.app/",
+      "snapshotId": "9dfaf926df35f59fefc2effff568896734b41af084c67101c8cfcabd6f02945f",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.infra.app/",
+      "canonicalSeedUrl": "https://docs.infra.app/",
+      "configuration": {
+        "url": "https://docs.infra.app/",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-08T15:05:54.250Z",
+      "completedAt": "2026-09-08T15:06:09.550Z",
+      "providerTotals": {
+        "discovered": 34,
+        "returned": 34,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 34,
+        "returned": 34,
+        "valid": 34,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.infra.app/",
+          "canonicalUrl": "https://docs.infra.app/",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/getting-started",
+          "canonicalUrl": "https://docs.infra.app/getting-started",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/container-shell-access",
+          "canonicalUrl": "https://docs.infra.app/features/container-shell-access",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/minikube",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/minikube",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/docker-desktop",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/docker-desktop",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/other-clusters",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/other-clusters",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/deleting-pods",
+          "canonicalUrl": "https://docs.infra.app/features/deleting-pods",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/editing-workloads",
+          "canonicalUrl": "https://docs.infra.app/features/editing-workloads",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/log-streaming",
+          "canonicalUrl": "https://docs.infra.app/features/log-streaming",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/advanced/clusters-with-rbac",
+          "canonicalUrl": "https://docs.infra.app/advanced/clusters-with-rbac",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/cpu-and-memory-utilization",
+          "canonicalUrl": "https://docs.infra.app/features/cpu-and-memory-utilization",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/advanced/faq",
+          "canonicalUrl": "https://docs.infra.app/advanced/faq",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/llms.txt",
+          "canonicalUrl": "https://docs.infra.app/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/master.md",
+          "canonicalUrl": "https://docs.infra.app/master.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/getting-started.md",
+          "canonicalUrl": "https://docs.infra.app/getting-started.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/cpu-and-memory-utilization.md",
+          "canonicalUrl": "https://docs.infra.app/features/cpu-and-memory-utilization.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/container-shell-access.md",
+          "canonicalUrl": "https://docs.infra.app/features/container-shell-access.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/minikube.md",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/minikube.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks.md",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke.md",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/editing-workloads.md",
+          "canonicalUrl": "https://docs.infra.app/features/editing-workloads.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/log-streaming.md",
+          "canonicalUrl": "https://docs.infra.app/features/log-streaming.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features/deleting-pods.md",
+          "canonicalUrl": "https://docs.infra.app/features/deleting-pods.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/advanced/faq.md",
+          "canonicalUrl": "https://docs.infra.app/advanced/faq.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/other-clusters.md",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/other-clusters.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks.md",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster/docker-desktop.md",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster/docker-desktop.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/advanced/clusters-with-rbac.md",
+          "canonicalUrl": "https://docs.infra.app/advanced/clusters-with-rbac.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/advanced",
+          "canonicalUrl": "https://docs.infra.app/advanced",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/features",
+          "canonicalUrl": "https://docs.infra.app/features",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.infra.app/connect-your-cluster",
+          "canonicalUrl": "https://docs.infra.app/connect-your-cluster",
+          "status": "valid"
+        }
+      ],
+      "id": "d00c580937f15edd40aa69c9efe8fd9b70626af1fefdbc4f4dd013f93f41ac20"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "9dfaf926df35f59fefc2effff568896734b41af084c67101c8cfcabd6f02945f",
+      "filename": "documentation_2026-09-08T15:06:09.550Z.md",
+      "contentHash": "c85589b600ffb787913ff136c58a2a082f7e6d3244bf1e42ebfad01e9f18256c",
+      "sourceUrl": "https://docs.infra.app/",
+      "canonicalSourceUrl": "https://docs.infra.app/",
+      "capturedAt": "2026-09-08T15:06:09.550Z",
+      "crawlRunId": "d00c580937f15edd40aa69c9efe8fd9b70626af1fefdbc4f4dd013f93f41ac20",
+      "totalPages": 34,
+      "successfulPages": 34,
+      "structure": [
+        {
+          "type": "Overview | Infra App Docs",
+          "url": "https://docs.infra.app/"
+        },
+        {
+          "type": "Getting started | Infra App Docs",
+          "url": "https://docs.infra.app/getting-started"
+        },
+        {
+          "type": "Container shell access | Infra App Docs",
+          "url": "https://docs.infra.app/features/container-shell-access"
+        },
+        {
+          "type": "Amazon Web Services (EKS) | Infra App Docs",
+          "url": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks"
+        },
+        {
+          "type": "Google Cloud Platform (GKE) | Infra App Docs",
+          "url": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke"
+        },
+        {
+          "type": "Minikube | Infra App Docs",
+          "url": "https://docs.infra.app/connect-your-cluster/minikube"
+        },
+        {
+          "type": "Docker Desktop | Infra App Docs",
+          "url": "https://docs.infra.app/connect-your-cluster/docker-desktop"
+        },
+        {
+          "type": "Other Clusters | Infra App Docs",
+          "url": "https://docs.infra.app/connect-your-cluster/other-clusters"
+        },
+        {
+          "type": "Deleting Pods | Infra App Docs",
+          "url": "https://docs.infra.app/features/deleting-pods"
+        },
+        {
+          "type": "Editing Resources / Nodes | Infra App Docs",
+          "url": "https://docs.infra.app/features/editing-workloads"
+        },
+        {
+          "type": "Log search & filtering | Infra App Docs",
+          "url": "https://docs.infra.app/features/log-streaming"
+        },
+        {
+          "type": "Clusters with RBAC | Infra App Docs",
+          "url": "https://docs.infra.app/advanced/clusters-with-rbac"
+        },
+        {
+          "type": "CPU & memory utilization | Infra App Docs",
+          "url": "https://docs.infra.app/features/cpu-and-memory-utilization"
+        },
+        {
+          "type": "Digital Ocean (DOKS) | Infra App Docs",
+          "url": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks"
+        },
+        {
+          "type": "FAQs | Infra App Docs",
+          "url": "https://docs.infra.app/advanced/faq"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/master.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/getting-started.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/features/cpu-and-memory-utilization.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/features/container-shell-access.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/connect-your-cluster/minikube.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/connect-your-cluster/digital-ocean-doks.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/connect-your-cluster/google-cloud-platform-gke.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/features/editing-workloads.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/features/log-streaming.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/features/deleting-pods.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/advanced/faq.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/connect-your-cluster/other-clusters.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/connect-your-cluster/amazon-web-services-eks.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/connect-your-cluster/docker-desktop.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.infra.app/advanced/clusters-with-rbac.md"
+        },
+        {
+          "type": "Clusters with RBAC | Infra App Docs",
+          "url": "https://docs.infra.app/advanced"
+        },
+        {
+          "type": "CPU & memory utilization | Infra App Docs",
+          "url": "https://docs.infra.app/features"
+        },
+        {
+          "type": "Amazon Web Services (EKS) | Infra App Docs",
+          "url": "https://docs.infra.app/connect-your-cluster"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    }
+  ],
+  "currentSnapshotId": "9dfaf926df35f59fefc2effff568896734b41af084c67101c8cfcabd6f02945f"
+}

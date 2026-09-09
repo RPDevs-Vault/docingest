@@ -1,0 +1,456 @@
+{
+  "url": "https://synthesise-ai.gitbook.io",
+  "domain": "synthesise-ai.gitbook.io",
+  "lastScraped": "2026-09-08T07:31:40.831Z",
+  "totalPages": 28,
+  "successfulPages": 28,
+  "failedPages": [],
+  "structure": [
+    {
+      "type": "Introduction | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io"
+    },
+    {
+      "type": "Introduction | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai"
+    },
+    {
+      "type": "Supporters | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters"
+    },
+    {
+      "type": "Key Features | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features"
+    },
+    {
+      "type": "Products | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products"
+    },
+    {
+      "type": "Architecture | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture"
+    },
+    {
+      "type": "Roadmap | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap"
+    },
+    {
+      "type": "Chatbots | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots"
+    },
+    {
+      "type": "AI Agents | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents"
+    },
+    {
+      "type": "Tokenomics | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics"
+    },
+    {
+      "type": "Automations | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations"
+    },
+    {
+      "type": "Holder Benefits | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/introduction.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters.md"
+    },
+    {
+      "type": "Introduction | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics.md"
+    },
+    {
+      "type": "Architecture | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure"
+    },
+    {
+      "type": "Tokenomics | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information"
+    },
+    {
+      "type": "AI Agents | Synthesise AI",
+      "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules"
+    }
+  ],
+  "latestVersion": "cf5935d713acc9e0764c3f7061699ed6cc432786b402f8c90bfac4eed13c430e",
+  "versions": [
+    {
+      "version": "cf5935d713acc9e0764c3f7061699ed6cc432786b402f8c90bfac4eed13c430e",
+      "label": "latest",
+      "timestamp": "2026-09-08T07:31:40.831Z",
+      "filename": "documentation_2026-09-08T07:31:40.831Z.md",
+      "totalPages": 28,
+      "successfulPages": 28,
+      "url": "https://synthesise-ai.gitbook.io",
+      "snapshotId": "cf5935d713acc9e0764c3f7061699ed6cc432786b402f8c90bfac4eed13c430e",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://synthesise-ai.gitbook.io",
+      "canonicalSeedUrl": "https://synthesise-ai.gitbook.io/",
+      "configuration": {
+        "url": "https://synthesise-ai.gitbook.io",
+        "limit": 1000,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-08T07:31:24.164Z",
+      "completedAt": "2026-09-08T07:31:40.831Z",
+      "providerTotals": {
+        "discovered": 28,
+        "returned": 28,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 28,
+        "returned": 28,
+        "valid": 28,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://synthesise-ai.gitbook.io",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/llms.txt",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/introduction.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/introduction.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics.md",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information",
+          "status": "valid"
+        },
+        {
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules",
+          "canonicalUrl": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules",
+          "status": "valid"
+        }
+      ],
+      "id": "5e77dd2eb1de88953abec60ca102db42fe9e361c79719b09d889d7d80be7db6d"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "cf5935d713acc9e0764c3f7061699ed6cc432786b402f8c90bfac4eed13c430e",
+      "filename": "documentation_2026-09-08T07:31:40.831Z.md",
+      "contentHash": "8ad6b4bc3a575de48b55f4c947fc22c3f0145ba44bb035bdb394b0c9c79be298",
+      "sourceUrl": "https://synthesise-ai.gitbook.io",
+      "canonicalSourceUrl": "https://synthesise-ai.gitbook.io/",
+      "capturedAt": "2026-09-08T07:31:40.831Z",
+      "crawlRunId": "5e77dd2eb1de88953abec60ca102db42fe9e361c79719b09d889d7d80be7db6d",
+      "totalPages": 28,
+      "successfulPages": 28,
+      "structure": [
+        {
+          "type": "Introduction | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io"
+        },
+        {
+          "type": "Introduction | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai"
+        },
+        {
+          "type": "Supporters | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters"
+        },
+        {
+          "type": "Key Features | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features"
+        },
+        {
+          "type": "Products | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products"
+        },
+        {
+          "type": "Architecture | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture"
+        },
+        {
+          "type": "Roadmap | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap"
+        },
+        {
+          "type": "Chatbots | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots"
+        },
+        {
+          "type": "AI Agents | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents"
+        },
+        {
+          "type": "Tokenomics | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics"
+        },
+        {
+          "type": "Automations | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations"
+        },
+        {
+          "type": "Holder Benefits | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/introduction.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/supporters.md"
+        },
+        {
+          "type": "Introduction | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/key-features.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/getting-started/products.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/architecture.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure/roadmap.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/automations.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/chatbots.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules/ai-agents.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/holder-benefits.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information/tokenomics.md"
+        },
+        {
+          "type": "Architecture | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/platform-infrastructure"
+        },
+        {
+          "type": "Tokenomics | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/usdsynai-information"
+        },
+        {
+          "type": "AI Agents | Synthesise AI",
+          "url": "https://synthesise-ai.gitbook.io/synthesise-ai/core-modules"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    }
+  ],
+  "currentSnapshotId": "cf5935d713acc9e0764c3f7061699ed6cc432786b402f8c90bfac4eed13c430e"
+}
