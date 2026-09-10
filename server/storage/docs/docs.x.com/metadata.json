@@ -1,63 +1,421 @@
 {
   "url": "https://docs.x.com/overview",
   "domain": "docs.x.com",
-  "lastScraped": "2026-02-13T05:38:11.655Z",
-  "totalPages": 10,
-  "successfulPages": 10,
+  "lastScraped": "2026-09-09T18:49:45.015Z",
+  "totalPages": 250,
+  "successfulPages": 97,
   "failedPages": [],
   "structure": [
     {
-      "type": "X Developer Platform - X",
-      "url": "https://docs.x.com/overview"
+      "type": "X API - X",
+      "url": "https://docs.x.com/x-api/"
     },
     {
-      "type": "Billing support form - X",
-      "url": "https://docs.x.com/forms/billing-support"
+      "type": "AGENT - X",
+      "url": "https://docs.x.com/AGENT"
     },
     {
-      "type": "Survey: Product Tracks & Commercial Use - X",
-      "url": "https://docs.x.com/forms/survey"
+      "type": "AGENTS - X",
+      "url": "https://docs.x.com/AGENTS"
     },
     {
-      "type": "Prospective Customer - Initial Application - X",
-      "url": "https://docs.x.com/forms/use-case/initial"
+      "type": "Developer Guidelines - X",
+      "url": "https://docs.x.com/developer-guidelines"
     },
     {
-      "type": "Application for Trial Enterprise Access - X",
-      "url": "https://docs.x.com/forms/application-trial"
+      "type": "Policies and agreements - X",
+      "url": "https://docs.x.com/developer-terms"
     },
     {
-      "type": "X Official Partner - X",
-      "url": "https://docs.x.com/enterprise/partner-directory"
+      "type": "X API changelog and release notes - X",
+      "url": "https://docs.x.com/changelog"
     },
     {
-      "type": "Existing Customer - Add New Data Product(s) - X",
-      "url": "https://docs.x.com/forms/use-case/upgrade"
+      "type": "Currency - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/currency"
     },
     {
-      "type": "Existing Customer - Use Case Modification - X",
-      "url": "https://docs.x.com/forms/use-case/modification"
+      "type": "Sandbox - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/sandbox"
     },
     {
-      "type": "Existing Customer - Public Sector Request - X",
-      "url": "https://docs.x.com/forms/use-case/public-sector"
+      "type": "X Developer Agreement - X",
+      "url": "https://docs.x.com/developer-terms/agreement"
     },
     {
-      "type": "Enterprise Access Form - X",
-      "url": "https://docs.x.com/forms/enterprise-api-interest"
+      "type": "Tools and libraries - X",
+      "url": "https://docs.x.com/x-ads-api/tools-and-libraries"
+    },
+    {
+      "type": "Introduction - X",
+      "url": "https://docs.x.com/x-ads-api/introduction"
+    },
+    {
+      "type": "Pagination - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/pagination"
+    },
+    {
+      "type": "Timezones - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/timezones"
+    },
+    {
+      "type": "Versions - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/versioning"
+    },
+    {
+      "type": "X Ads MCP API Reference - X",
+      "url": "https://docs.x.com/x-ads-api/mcp/reference"
+    },
+    {
+      "type": "Download Chat Media - X",
+      "url": "https://docs.x.com/x-api/chat/download-chat-media"
+    },
+    {
+      "type": "Error codes and responses - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/error-codes-and-responses"
+    },
+    {
+      "type": "Increasing access - X",
+      "url": "https://docs.x.com/x-ads-api/getting-started/increasing-access"
+    },
+    {
+      "type": "Rate limiting - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/rate-limiting"
+    },
+    {
+      "type": "Get public keys - X",
+      "url": "https://docs.x.com/x-api/chat/get-user-public-keys"
+    },
+    {
+      "type": "Catalog Management - X",
+      "url": "https://docs.x.com/x-ads-api/catalog-management"
+    },
+    {
+      "type": "Making Authenticated Requests - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/making-authenticated-requests"
+    },
+    {
+      "type": "Ads API hierarchy and terminology - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/hierarchy-and-terminology"
+    },
+    {
+      "type": "Delete Bot - X",
+      "url": "https://docs.x.com/x-api/bots/delete-bot"
+    },
+    {
+      "type": "Rotate Bot Token - X",
+      "url": "https://docs.x.com/x-api/bots/rotate-bot-token"
+    },
+    {
+      "type": "Accessing Ads accounts - X",
+      "url": "https://docs.x.com/x-ads-api/fundamentals/accessing-ads-accounts"
+    },
+    {
+      "type": "Update Bot - X",
+      "url": "https://docs.x.com/x-api/bots/update-bot"
+    },
+    {
+      "type": "Initialize Chat Media Upload - X",
+      "url": "https://docs.x.com/x-api/chat/initialize-chat-media-upload"
+    },
+    {
+      "type": "Add public key - X",
+      "url": "https://docs.x.com/x-api/chat/add-public-key"
+    },
+    {
+      "type": "X Ads MCP - X",
+      "url": "https://docs.x.com/x-ads-api/mcp"
+    },
+    {
+      "type": "Revoke Bot Token - X",
+      "url": "https://docs.x.com/x-api/bots/revoke-bot-token"
+    },
+    {
+      "type": "Step-by-step guide - X",
+      "url": "https://docs.x.com/x-ads-api/getting-started/step-by-step-guide"
+    },
+    {
+      "type": "Create a bot - X",
+      "url": "https://docs.x.com/x-api/bots/create-a-bot"
+    },
+    {
+      "type": "Mobile Conversions - X",
+      "url": "https://docs.x.com/x-ads-api/measurement/mobile-conversions"
+    },
+    {
+      "type": "Append Chat Media Upload - X",
+      "url": "https://docs.x.com/x-api/chat/append-chat-media-upload"
+    },
+    {
+      "type": "Send Typing Indicator - X",
+      "url": "https://docs.x.com/x-api/chat/send-typing-indicator"
+    },
+    {
+      "type": "Mark Conversation as Read - X",
+      "url": "https://docs.x.com/x-api/chat/mark-conversation-as-read"
+    },
+    {
+      "type": "Delete Chat messages - X",
+      "url": "https://docs.x.com/x-api/chat/delete-chat-messages"
+    },
+    {
+      "type": "Send Chat Message - X",
+      "url": "https://docs.x.com/x-api/chat/send-chat-message"
+    },
+    {
+      "type": "Add Conversation Keys - X",
+      "url": "https://docs.x.com/x-api/chat/add-conversation-keys"
+    },
+    {
+      "type": "Get Chat Conversation Events - X",
+      "url": "https://docs.x.com/x-api/chat/get-chat-conversation-events"
+    },
+    {
+      "type": "Create Chat Group Conversation - X",
+      "url": "https://docs.x.com/x-api/chat/create-chat-group-conversation"
+    },
+    {
+      "type": "Initialize Chat Group - X",
+      "url": "https://docs.x.com/x-api/chat/initialize-chat-group"
+    },
+    {
+      "type": "Add members to a Chat group conversation - X",
+      "url": "https://docs.x.com/x-api/chat/add-members-to-a-chat-group-conversation"
+    },
+    {
+      "type": "Get Chat Conversations - X",
+      "url": "https://docs.x.com/x-api/chat/get-chat-conversations"
+    },
+    {
+      "type": "Delete a Community Note - X",
+      "url": "https://docs.x.com/x-api/community-notes/delete-a-community-note"
+    },
+    {
+      "type": "Terminate connections by endpoint - X",
+      "url": "https://docs.x.com/x-api/connections/terminate-connections-by-endpoint"
+    },
+    {
+      "type": "Get Connection History - X",
+      "url": "https://docs.x.com/x-api/connections/get-connection-history"
+    },
+    {
+      "type": "Get Communities by ID - X",
+      "url": "https://docs.x.com/x-api/communities/get-community-by-id"
+    },
+    {
+      "type": "Search Communities - X",
+      "url": "https://docs.x.com/x-api/communities/search-communities"
+    },
+    {
+      "type": "Communities Search - X",
+      "url": "https://docs.x.com/x-api/communities/search/introduction"
+    },
+    {
+      "type": "Integration guide - X",
+      "url": "https://docs.x.com/x-api/compliance/batch-compliance/integrate"
+    },
+    {
+      "type": "Stream Connections - X",
+      "url": "https://docs.x.com/x-api/connections/introduction"
+    },
+    {
+      "type": "Evaluate Community Notes - X",
+      "url": "https://docs.x.com/x-api/community-notes/evaluate-a-community-note"
+    },
+    {
+      "type": "Communities Lookup - X",
+      "url": "https://docs.x.com/x-api/communities/lookup/introduction"
+    },
+    {
+      "type": "Get Compliance Job by ID - X",
+      "url": "https://docs.x.com/x-api/compliance/get-compliance-job-by-id"
+    },
+    {
+      "type": "Create DM message by participant ID - X",
+      "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-participant-id"
+    },
+    {
+      "type": "Get Compliance Jobs - X",
+      "url": "https://docs.x.com/x-api/compliance/get-compliance-jobs"
+    },
+    {
+      "type": "Create Compliance Job - X",
+      "url": "https://docs.x.com/x-api/compliance/create-compliance-job"
+    },
+    {
+      "type": "Batch Compliance - X",
+      "url": "https://docs.x.com/x-api/compliance/batch-compliance/introduction"
+    },
+    {
+      "type": "Create DM conversation - X",
+      "url": "https://docs.x.com/x-api/direct-messages/create-dm-conversation"
+    },
+    {
+      "type": "Delete DM event - X",
+      "url": "https://docs.x.com/x-api/direct-messages/delete-dm-event"
+    },
+    {
+      "type": "Search Community Notes Written - X",
+      "url": "https://docs.x.com/x-api/community-notes/search-for-community-notes-written"
+    },
+    {
+      "type": "Manage Direct Message blocks on the X API v2 - X",
+      "url": "https://docs.x.com/x-api/direct-messages/blocks/introduction"
+    },
+    {
+      "type": "Quickstart - X",
+      "url": "https://docs.x.com/x-api/compliance/batch-compliance/quickstart"
+    },
+    {
+      "type": "Terminate multiple connections - X",
+      "url": "https://docs.x.com/x-api/connections/terminate-multiple-connections"
+    },
+    {
+      "type": "Terminate all connections - X",
+      "url": "https://docs.x.com/x-api/connections/terminate-all-connections"
+    },
+    {
+      "type": "Create Community Notes - X",
+      "url": "https://docs.x.com/x-api/community-notes/create-a-community-note"
+    },
+    {
+      "type": "Community Notes API for X API v2 - X",
+      "url": "https://docs.x.com/x-api/community-notes/introduction"
+    },
+    {
+      "type": "Direct Messages Lookup - X",
+      "url": "https://docs.x.com/x-api/direct-messages/lookup/introduction"
+    },
+    {
+      "type": "Create Direct Messages by Conversation ID - X",
+      "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-conversation-id"
+    },
+    {
+      "type": "Unmute a user in a broadcast chat - X",
+      "url": "https://docs.x.com/x-api/broadcasts/unmute-a-user-in-a-broadcast-chat"
+    },
+    {
+      "type": "Manage Direct Messages - X",
+      "url": "https://docs.x.com/x-api/direct-messages/manage/introduction"
+    },
+    {
+      "type": "Get Chat Conversation - X",
+      "url": "https://docs.x.com/x-api/chat/get-chat-conversation"
+    },
+    {
+      "type": "Send a chat message to a live broadcast - X",
+      "url": "https://docs.x.com/x-api/broadcasts/send-a-chat-message-to-a-live-broadcast"
+    },
+    {
+      "type": "Integration Guide - X",
+      "url": "https://docs.x.com/x-api/direct-messages/lookup/integrate"
+    },
+    {
+      "type": "Community Notes API quickstart for X API v2 - X",
+      "url": "https://docs.x.com/x-api/community-notes/quickstart"
+    },
+    {
+      "type": "Integration Guide - X",
+      "url": "https://docs.x.com/x-api/direct-messages/manage/integrate"
+    },
+    {
+      "type": "Quickstart - X",
+      "url": "https://docs.x.com/x-api/direct-messages/lookup/quickstart"
+    },
+    {
+      "type": "Compliance event streams on the X API v2 - X",
+      "url": "https://docs.x.com/x-api/compliance/streams/introduction"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/skill.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/AGENTS.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/x-ads-api/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/xdks/typescript/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/enterprise-api/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/x-api/llms.txt"
+    },
+    {
+      "type": "Pagination - X",
+      "url": "https://docs.x.com/xdks/python/pagination"
+    },
+    {
+      "type": "Quickstart - X",
+      "url": "https://docs.x.com/xdks/python/quickstart"
+    },
+    {
+      "type": "Install - X",
+      "url": "https://docs.x.com/xdks/python/install"
+    },
+    {
+      "type": "Authentication - X",
+      "url": "https://docs.x.com/xdks/python/authentication"
+    },
+    {
+      "type": "Streaming - X",
+      "url": "https://docs.x.com/xdks/typescript/streaming"
+    },
+    {
+      "type": "Authentication - X",
+      "url": "https://docs.x.com/xdks/typescript/authentication"
+    },
+    {
+      "type": "Pagination - X",
+      "url": "https://docs.x.com/xdks/typescript/pagination"
+    },
+    {
+      "type": "Streaming - X",
+      "url": "https://docs.x.com/xdks/python/streaming"
+    },
+    {
+      "type": "Installation - X",
+      "url": "https://docs.x.com/xdks/typescript/install"
+    },
+    {
+      "type": "Get public keys - X",
+      "url": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users"
     }
   ],
-  "latestVersion": "1.0.1",
+  "latestVersion": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
   "versions": [
     {
-      "version": "1.0.1",
+      "version": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
       "label": "latest",
+      "timestamp": "2026-09-09T18:49:45.015Z",
+      "filename": "documentation_2026-09-09T18:49:45.015Z.md",
+      "totalPages": 250,
+      "successfulPages": 97,
+      "url": "https://docs.x.com/x-api/",
+      "snapshotId": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
+      "isLatest": true
+    },
+    {
+      "version": "1.0.1",
       "timestamp": "2026-02-13T05:38:11.655Z",
       "filename": "documentation_2026-02-13T05:38:11.655Z.md",
       "totalPages": 10,
       "successfulPages": 10,
       "url": "https://docs.x.com/overview",
-      "isLatest": true
+      "isLatest": false
     },
     {
       "version": "1.0.0",
@@ -104,6 +462,536 @@
         "rejected": 0,
         "failed": 0
       }
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.x.com/x-api/",
+      "canonicalSeedUrl": "https://docs.x.com/x-api",
+      "configuration": {
+        "url": "https://docs.x.com/x-api/",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-09T18:44:58.217Z",
+      "completedAt": "2026-09-09T18:49:45.015Z",
+      "providerTotals": {
+        "discovered": 250,
+        "returned": 97,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 250,
+        "returned": 97,
+        "valid": 97,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.x.com/x-api/",
+          "canonicalUrl": "https://docs.x.com/x-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/AGENT",
+          "canonicalUrl": "https://docs.x.com/AGENT",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/AGENTS",
+          "canonicalUrl": "https://docs.x.com/AGENTS",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/developer-guidelines",
+          "canonicalUrl": "https://docs.x.com/developer-guidelines",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/developer-terms",
+          "canonicalUrl": "https://docs.x.com/developer-terms",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/changelog",
+          "canonicalUrl": "https://docs.x.com/changelog",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/currency",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/currency",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/sandbox",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/sandbox",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/developer-terms/agreement",
+          "canonicalUrl": "https://docs.x.com/developer-terms/agreement",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/tools-and-libraries",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/tools-and-libraries",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/introduction",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/pagination",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/pagination",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/timezones",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/timezones",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/versioning",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/versioning",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/mcp/reference",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/mcp/reference",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/download-chat-media",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/download-chat-media",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/error-codes-and-responses",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/error-codes-and-responses",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/getting-started/increasing-access",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/getting-started/increasing-access",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/rate-limiting",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/rate-limiting",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/get-user-public-keys",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/get-user-public-keys",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/catalog-management",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/catalog-management",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/making-authenticated-requests",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/making-authenticated-requests",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/hierarchy-and-terminology",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/hierarchy-and-terminology",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/bots/delete-bot",
+          "canonicalUrl": "https://docs.x.com/x-api/bots/delete-bot",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/bots/rotate-bot-token",
+          "canonicalUrl": "https://docs.x.com/x-api/bots/rotate-bot-token",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/fundamentals/accessing-ads-accounts",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/fundamentals/accessing-ads-accounts",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/bots/update-bot",
+          "canonicalUrl": "https://docs.x.com/x-api/bots/update-bot",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/initialize-chat-media-upload",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/initialize-chat-media-upload",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/add-public-key",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/add-public-key",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/mcp",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/mcp",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/bots/revoke-bot-token",
+          "canonicalUrl": "https://docs.x.com/x-api/bots/revoke-bot-token",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/getting-started/step-by-step-guide",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/getting-started/step-by-step-guide",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/bots/create-a-bot",
+          "canonicalUrl": "https://docs.x.com/x-api/bots/create-a-bot",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/measurement/mobile-conversions",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/measurement/mobile-conversions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/append-chat-media-upload",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/append-chat-media-upload",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/send-typing-indicator",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/send-typing-indicator",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/mark-conversation-as-read",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/mark-conversation-as-read",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/delete-chat-messages",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/delete-chat-messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/send-chat-message",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/send-chat-message",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/add-conversation-keys",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/add-conversation-keys",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/get-chat-conversation-events",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/get-chat-conversation-events",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/create-chat-group-conversation",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/create-chat-group-conversation",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/initialize-chat-group",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/initialize-chat-group",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/add-members-to-a-chat-group-conversation",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/add-members-to-a-chat-group-conversation",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/get-chat-conversations",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/get-chat-conversations",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/community-notes/delete-a-community-note",
+          "canonicalUrl": "https://docs.x.com/x-api/community-notes/delete-a-community-note",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/connections/terminate-connections-by-endpoint",
+          "canonicalUrl": "https://docs.x.com/x-api/connections/terminate-connections-by-endpoint",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/connections/get-connection-history",
+          "canonicalUrl": "https://docs.x.com/x-api/connections/get-connection-history",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/communities/get-community-by-id",
+          "canonicalUrl": "https://docs.x.com/x-api/communities/get-community-by-id",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/communities/search-communities",
+          "canonicalUrl": "https://docs.x.com/x-api/communities/search-communities",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/communities/search/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/communities/search/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/compliance/batch-compliance/integrate",
+          "canonicalUrl": "https://docs.x.com/x-api/compliance/batch-compliance/integrate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/connections/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/connections/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/community-notes/evaluate-a-community-note",
+          "canonicalUrl": "https://docs.x.com/x-api/community-notes/evaluate-a-community-note",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/communities/lookup/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/communities/lookup/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/compliance/get-compliance-job-by-id",
+          "canonicalUrl": "https://docs.x.com/x-api/compliance/get-compliance-job-by-id",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-participant-id",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-participant-id",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/compliance/get-compliance-jobs",
+          "canonicalUrl": "https://docs.x.com/x-api/compliance/get-compliance-jobs",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/compliance/create-compliance-job",
+          "canonicalUrl": "https://docs.x.com/x-api/compliance/create-compliance-job",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/compliance/batch-compliance/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/compliance/batch-compliance/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/create-dm-conversation",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/create-dm-conversation",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/delete-dm-event",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/delete-dm-event",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/community-notes/search-for-community-notes-written",
+          "canonicalUrl": "https://docs.x.com/x-api/community-notes/search-for-community-notes-written",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/blocks/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/blocks/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/compliance/batch-compliance/quickstart",
+          "canonicalUrl": "https://docs.x.com/x-api/compliance/batch-compliance/quickstart",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/connections/terminate-multiple-connections",
+          "canonicalUrl": "https://docs.x.com/x-api/connections/terminate-multiple-connections",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/connections/terminate-all-connections",
+          "canonicalUrl": "https://docs.x.com/x-api/connections/terminate-all-connections",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/community-notes/create-a-community-note",
+          "canonicalUrl": "https://docs.x.com/x-api/community-notes/create-a-community-note",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/community-notes/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/community-notes/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/lookup/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/lookup/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-conversation-id",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-conversation-id",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/broadcasts/unmute-a-user-in-a-broadcast-chat",
+          "canonicalUrl": "https://docs.x.com/x-api/broadcasts/unmute-a-user-in-a-broadcast-chat",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/manage/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/manage/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/chat/get-chat-conversation",
+          "canonicalUrl": "https://docs.x.com/x-api/chat/get-chat-conversation",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/broadcasts/send-a-chat-message-to-a-live-broadcast",
+          "canonicalUrl": "https://docs.x.com/x-api/broadcasts/send-a-chat-message-to-a-live-broadcast",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/lookup/integrate",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/lookup/integrate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/community-notes/quickstart",
+          "canonicalUrl": "https://docs.x.com/x-api/community-notes/quickstart",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/manage/integrate",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/manage/integrate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/direct-messages/lookup/quickstart",
+          "canonicalUrl": "https://docs.x.com/x-api/direct-messages/lookup/quickstart",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/compliance/streams/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/compliance/streams/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/skill.md",
+          "canonicalUrl": "https://docs.x.com/skill.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/AGENTS.md",
+          "canonicalUrl": "https://docs.x.com/AGENTS.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/llms.txt",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/llms.txt",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/llms.txt",
+          "canonicalUrl": "https://docs.x.com/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/enterprise-api/llms.txt",
+          "canonicalUrl": "https://docs.x.com/enterprise-api/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/llms.txt",
+          "canonicalUrl": "https://docs.x.com/x-api/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/pagination",
+          "canonicalUrl": "https://docs.x.com/xdks/python/pagination",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/quickstart",
+          "canonicalUrl": "https://docs.x.com/xdks/python/quickstart",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/install",
+          "canonicalUrl": "https://docs.x.com/xdks/python/install",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/authentication",
+          "canonicalUrl": "https://docs.x.com/xdks/python/authentication",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/streaming",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/streaming",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/authentication",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/authentication",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/pagination",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/pagination",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/streaming",
+          "canonicalUrl": "https://docs.x.com/xdks/python/streaming",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/install",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/install",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users",
+          "canonicalUrl": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users",
+          "status": "valid"
+        }
+      ],
+      "id": "1d770f1ab875510fce384529269826e7fac8a4589dd6c614fec8dfc089da39f7"
     }
   ],
   "snapshots": [
@@ -165,7 +1053,412 @@
         "status": "approved",
         "reasons": []
       }
+    },
+    {
+      "id": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
+      "filename": "documentation_2026-09-09T18:49:45.015Z.md",
+      "contentHash": "3429af9a452422371f1732f779a9bf596f934a6ca3e1a29f71a4359e4421cc1b",
+      "sourceUrl": "https://docs.x.com/x-api/",
+      "canonicalSourceUrl": "https://docs.x.com/x-api",
+      "capturedAt": "2026-09-09T18:49:45.015Z",
+      "crawlRunId": "1d770f1ab875510fce384529269826e7fac8a4589dd6c614fec8dfc089da39f7",
+      "totalPages": 250,
+      "successfulPages": 97,
+      "structure": [
+        {
+          "type": "X API - X",
+          "url": "https://docs.x.com/x-api/"
+        },
+        {
+          "type": "AGENT - X",
+          "url": "https://docs.x.com/AGENT"
+        },
+        {
+          "type": "AGENTS - X",
+          "url": "https://docs.x.com/AGENTS"
+        },
+        {
+          "type": "Developer Guidelines - X",
+          "url": "https://docs.x.com/developer-guidelines"
+        },
+        {
+          "type": "Policies and agreements - X",
+          "url": "https://docs.x.com/developer-terms"
+        },
+        {
+          "type": "X API changelog and release notes - X",
+          "url": "https://docs.x.com/changelog"
+        },
+        {
+          "type": "Currency - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/currency"
+        },
+        {
+          "type": "Sandbox - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/sandbox"
+        },
+        {
+          "type": "X Developer Agreement - X",
+          "url": "https://docs.x.com/developer-terms/agreement"
+        },
+        {
+          "type": "Tools and libraries - X",
+          "url": "https://docs.x.com/x-ads-api/tools-and-libraries"
+        },
+        {
+          "type": "Introduction - X",
+          "url": "https://docs.x.com/x-ads-api/introduction"
+        },
+        {
+          "type": "Pagination - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/pagination"
+        },
+        {
+          "type": "Timezones - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/timezones"
+        },
+        {
+          "type": "Versions - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/versioning"
+        },
+        {
+          "type": "X Ads MCP API Reference - X",
+          "url": "https://docs.x.com/x-ads-api/mcp/reference"
+        },
+        {
+          "type": "Download Chat Media - X",
+          "url": "https://docs.x.com/x-api/chat/download-chat-media"
+        },
+        {
+          "type": "Error codes and responses - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/error-codes-and-responses"
+        },
+        {
+          "type": "Increasing access - X",
+          "url": "https://docs.x.com/x-ads-api/getting-started/increasing-access"
+        },
+        {
+          "type": "Rate limiting - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/rate-limiting"
+        },
+        {
+          "type": "Get public keys - X",
+          "url": "https://docs.x.com/x-api/chat/get-user-public-keys"
+        },
+        {
+          "type": "Catalog Management - X",
+          "url": "https://docs.x.com/x-ads-api/catalog-management"
+        },
+        {
+          "type": "Making Authenticated Requests - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/making-authenticated-requests"
+        },
+        {
+          "type": "Ads API hierarchy and terminology - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/hierarchy-and-terminology"
+        },
+        {
+          "type": "Delete Bot - X",
+          "url": "https://docs.x.com/x-api/bots/delete-bot"
+        },
+        {
+          "type": "Rotate Bot Token - X",
+          "url": "https://docs.x.com/x-api/bots/rotate-bot-token"
+        },
+        {
+          "type": "Accessing Ads accounts - X",
+          "url": "https://docs.x.com/x-ads-api/fundamentals/accessing-ads-accounts"
+        },
+        {
+          "type": "Update Bot - X",
+          "url": "https://docs.x.com/x-api/bots/update-bot"
+        },
+        {
+          "type": "Initialize Chat Media Upload - X",
+          "url": "https://docs.x.com/x-api/chat/initialize-chat-media-upload"
+        },
+        {
+          "type": "Add public key - X",
+          "url": "https://docs.x.com/x-api/chat/add-public-key"
+        },
+        {
+          "type": "X Ads MCP - X",
+          "url": "https://docs.x.com/x-ads-api/mcp"
+        },
+        {
+          "type": "Revoke Bot Token - X",
+          "url": "https://docs.x.com/x-api/bots/revoke-bot-token"
+        },
+        {
+          "type": "Step-by-step guide - X",
+          "url": "https://docs.x.com/x-ads-api/getting-started/step-by-step-guide"
+        },
+        {
+          "type": "Create a bot - X",
+          "url": "https://docs.x.com/x-api/bots/create-a-bot"
+        },
+        {
+          "type": "Mobile Conversions - X",
+          "url": "https://docs.x.com/x-ads-api/measurement/mobile-conversions"
+        },
+        {
+          "type": "Append Chat Media Upload - X",
+          "url": "https://docs.x.com/x-api/chat/append-chat-media-upload"
+        },
+        {
+          "type": "Send Typing Indicator - X",
+          "url": "https://docs.x.com/x-api/chat/send-typing-indicator"
+        },
+        {
+          "type": "Mark Conversation as Read - X",
+          "url": "https://docs.x.com/x-api/chat/mark-conversation-as-read"
+        },
+        {
+          "type": "Delete Chat messages - X",
+          "url": "https://docs.x.com/x-api/chat/delete-chat-messages"
+        },
+        {
+          "type": "Send Chat Message - X",
+          "url": "https://docs.x.com/x-api/chat/send-chat-message"
+        },
+        {
+          "type": "Add Conversation Keys - X",
+          "url": "https://docs.x.com/x-api/chat/add-conversation-keys"
+        },
+        {
+          "type": "Get Chat Conversation Events - X",
+          "url": "https://docs.x.com/x-api/chat/get-chat-conversation-events"
+        },
+        {
+          "type": "Create Chat Group Conversation - X",
+          "url": "https://docs.x.com/x-api/chat/create-chat-group-conversation"
+        },
+        {
+          "type": "Initialize Chat Group - X",
+          "url": "https://docs.x.com/x-api/chat/initialize-chat-group"
+        },
+        {
+          "type": "Add members to a Chat group conversation - X",
+          "url": "https://docs.x.com/x-api/chat/add-members-to-a-chat-group-conversation"
+        },
+        {
+          "type": "Get Chat Conversations - X",
+          "url": "https://docs.x.com/x-api/chat/get-chat-conversations"
+        },
+        {
+          "type": "Delete a Community Note - X",
+          "url": "https://docs.x.com/x-api/community-notes/delete-a-community-note"
+        },
+        {
+          "type": "Terminate connections by endpoint - X",
+          "url": "https://docs.x.com/x-api/connections/terminate-connections-by-endpoint"
+        },
+        {
+          "type": "Get Connection History - X",
+          "url": "https://docs.x.com/x-api/connections/get-connection-history"
+        },
+        {
+          "type": "Get Communities by ID - X",
+          "url": "https://docs.x.com/x-api/communities/get-community-by-id"
+        },
+        {
+          "type": "Search Communities - X",
+          "url": "https://docs.x.com/x-api/communities/search-communities"
+        },
+        {
+          "type": "Communities Search - X",
+          "url": "https://docs.x.com/x-api/communities/search/introduction"
+        },
+        {
+          "type": "Integration guide - X",
+          "url": "https://docs.x.com/x-api/compliance/batch-compliance/integrate"
+        },
+        {
+          "type": "Stream Connections - X",
+          "url": "https://docs.x.com/x-api/connections/introduction"
+        },
+        {
+          "type": "Evaluate Community Notes - X",
+          "url": "https://docs.x.com/x-api/community-notes/evaluate-a-community-note"
+        },
+        {
+          "type": "Communities Lookup - X",
+          "url": "https://docs.x.com/x-api/communities/lookup/introduction"
+        },
+        {
+          "type": "Get Compliance Job by ID - X",
+          "url": "https://docs.x.com/x-api/compliance/get-compliance-job-by-id"
+        },
+        {
+          "type": "Create DM message by participant ID - X",
+          "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-participant-id"
+        },
+        {
+          "type": "Get Compliance Jobs - X",
+          "url": "https://docs.x.com/x-api/compliance/get-compliance-jobs"
+        },
+        {
+          "type": "Create Compliance Job - X",
+          "url": "https://docs.x.com/x-api/compliance/create-compliance-job"
+        },
+        {
+          "type": "Batch Compliance - X",
+          "url": "https://docs.x.com/x-api/compliance/batch-compliance/introduction"
+        },
+        {
+          "type": "Create DM conversation - X",
+          "url": "https://docs.x.com/x-api/direct-messages/create-dm-conversation"
+        },
+        {
+          "type": "Delete DM event - X",
+          "url": "https://docs.x.com/x-api/direct-messages/delete-dm-event"
+        },
+        {
+          "type": "Search Community Notes Written - X",
+          "url": "https://docs.x.com/x-api/community-notes/search-for-community-notes-written"
+        },
+        {
+          "type": "Manage Direct Message blocks on the X API v2 - X",
+          "url": "https://docs.x.com/x-api/direct-messages/blocks/introduction"
+        },
+        {
+          "type": "Quickstart - X",
+          "url": "https://docs.x.com/x-api/compliance/batch-compliance/quickstart"
+        },
+        {
+          "type": "Terminate multiple connections - X",
+          "url": "https://docs.x.com/x-api/connections/terminate-multiple-connections"
+        },
+        {
+          "type": "Terminate all connections - X",
+          "url": "https://docs.x.com/x-api/connections/terminate-all-connections"
+        },
+        {
+          "type": "Create Community Notes - X",
+          "url": "https://docs.x.com/x-api/community-notes/create-a-community-note"
+        },
+        {
+          "type": "Community Notes API for X API v2 - X",
+          "url": "https://docs.x.com/x-api/community-notes/introduction"
+        },
+        {
+          "type": "Direct Messages Lookup - X",
+          "url": "https://docs.x.com/x-api/direct-messages/lookup/introduction"
+        },
+        {
+          "type": "Create Direct Messages by Conversation ID - X",
+          "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-conversation-id"
+        },
+        {
+          "type": "Unmute a user in a broadcast chat - X",
+          "url": "https://docs.x.com/x-api/broadcasts/unmute-a-user-in-a-broadcast-chat"
+        },
+        {
+          "type": "Manage Direct Messages - X",
+          "url": "https://docs.x.com/x-api/direct-messages/manage/introduction"
+        },
+        {
+          "type": "Get Chat Conversation - X",
+          "url": "https://docs.x.com/x-api/chat/get-chat-conversation"
+        },
+        {
+          "type": "Send a chat message to a live broadcast - X",
+          "url": "https://docs.x.com/x-api/broadcasts/send-a-chat-message-to-a-live-broadcast"
+        },
+        {
+          "type": "Integration Guide - X",
+          "url": "https://docs.x.com/x-api/direct-messages/lookup/integrate"
+        },
+        {
+          "type": "Community Notes API quickstart for X API v2 - X",
+          "url": "https://docs.x.com/x-api/community-notes/quickstart"
+        },
+        {
+          "type": "Integration Guide - X",
+          "url": "https://docs.x.com/x-api/direct-messages/manage/integrate"
+        },
+        {
+          "type": "Quickstart - X",
+          "url": "https://docs.x.com/x-api/direct-messages/lookup/quickstart"
+        },
+        {
+          "type": "Compliance event streams on the X API v2 - X",
+          "url": "https://docs.x.com/x-api/compliance/streams/introduction"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/skill.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/AGENTS.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/x-ads-api/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/xdks/typescript/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/enterprise-api/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/x-api/llms.txt"
+        },
+        {
+          "type": "Pagination - X",
+          "url": "https://docs.x.com/xdks/python/pagination"
+        },
+        {
+          "type": "Quickstart - X",
+          "url": "https://docs.x.com/xdks/python/quickstart"
+        },
+        {
+          "type": "Install - X",
+          "url": "https://docs.x.com/xdks/python/install"
+        },
+        {
+          "type": "Authentication - X",
+          "url": "https://docs.x.com/xdks/python/authentication"
+        },
+        {
+          "type": "Streaming - X",
+          "url": "https://docs.x.com/xdks/typescript/streaming"
+        },
+        {
+          "type": "Authentication - X",
+          "url": "https://docs.x.com/xdks/typescript/authentication"
+        },
+        {
+          "type": "Pagination - X",
+          "url": "https://docs.x.com/xdks/typescript/pagination"
+        },
+        {
+          "type": "Streaming - X",
+          "url": "https://docs.x.com/xdks/python/streaming"
+        },
+        {
+          "type": "Installation - X",
+          "url": "https://docs.x.com/xdks/typescript/install"
+        },
+        {
+          "type": "Get public keys - X",
+          "url": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
     }
   ],
-  "currentSnapshotId": "c1fc74c5c2db8d619c81ee2a95c87975d4b2b7c4dc097921cab3d193e9364fc2"
+  "currentSnapshotId": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb"
 }

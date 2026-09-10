@@ -1,0 +1,916 @@
+{
+  "url": "https://docs.twitterapi.io/introduction",
+  "domain": "docs.twitterapi.io",
+  "lastScraped": "2026-09-09T18:52:50.658Z",
+  "totalPages": 62,
+  "successfulPages": 61,
+  "failedPages": [
+    "https://docs.twitterapi.io/api-reference/endpoint/get_user_batch_info_by_ids (error-or-authentication-title)"
+  ],
+  "structure": [
+    {
+      "type": "Introduction - twitterapi.io",
+      "url": "https://docs.twitterapi.io/introduction"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.twitterapi.io/llms.txt"
+    },
+    {
+      "type": "Add  a twitter user to monitor his tweets - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/add_user_to_monitor_tweet"
+    },
+    {
+      "type": "Batch Get User Info By UserIds - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/batch_get_user_by_userids"
+    },
+    {
+      "type": "Bookmark Tweet - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/bookmark_tweet_v2"
+    },
+    {
+      "type": "Create Community V2 - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/create_community_v2"
+    },
+    {
+      "type": "Create/Reply tweet v2 - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/create_tweet_v2"
+    },
+    {
+      "type": "Delete Community V2 - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_community_v2"
+    },
+    {
+      "type": "Delete Tweet - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_tweet_v2"
+    },
+    {
+      "type": "Delete Webhook/Websocket Tweet Filter Rule - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_webhook_rule"
+    },
+    {
+      "type": "Add Webhook/Websocket Tweet Filter Rule - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/add_webhook_rule"
+    },
+    {
+      "type": "Get Bookmarks - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/bookmarks_v2"
+    },
+    {
+      "type": "Get Community Members - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_members"
+    },
+    {
+      "type": "Get Community Info By Id - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_by_id"
+    },
+    {
+      "type": "Authentication - twitterapi.io",
+      "url": "https://docs.twitterapi.io/authentication"
+    },
+    {
+      "type": "Remove a user from  monitor list - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/remove_user_to_monitor_tweet"
+    },
+    {
+      "type": "Update Banner - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/update_banner_v2"
+    },
+    {
+      "type": "Update Webhook/Websocket Tweet Filter Rule - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/update_webhook_rule"
+    },
+    {
+      "type": "Unfollow User - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/unfollow_user_v2"
+    },
+    {
+      "type": "Get List Members - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_list_members"
+    },
+    {
+      "type": "Follow User - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/follow_user_v2"
+    },
+    {
+      "type": "Get User Profile About - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_about"
+    },
+    {
+      "type": "Check Follow Relationship - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/check_follow_relationship"
+    },
+    {
+      "type": "Update Avatar - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/update_avatar_v2"
+    },
+    {
+      "type": "Join Community v2 - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/join_community_v2"
+    },
+    {
+      "type": "Log in - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/user_login_v2"
+    },
+    {
+      "type": "Retweet Tweet  - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/retweet_tweet_v2"
+    },
+    {
+      "type": "Get Trends - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_trends"
+    },
+    {
+      "type": "Get Article - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_article"
+    },
+    {
+      "type": "Get Community Moderators - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_moderators"
+    },
+    {
+      "type": "Get My Account Info - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_my_info"
+    },
+    {
+      "type": "Get User Followers - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers"
+    },
+    {
+      "type": "Search Tweets From All Community  - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_all_community_tweets"
+    },
+    {
+      "type": "Get Space Detail - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_space_detail"
+    },
+    {
+      "type": "Get Tweet Replies - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_reply"
+    },
+    {
+      "type": "Get User Last Tweets - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_last_tweets"
+    },
+    {
+      "type": "Get List Followers - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_list_followers"
+    },
+    {
+      "type": "Get ALL test Webhook/Websocket Tweet Filter Rules - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_webhook_rules"
+    },
+    {
+      "type": "Leave Community V2  - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/leave_community_v2"
+    },
+    {
+      "type": "Like Tweet - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/like_tweet_v2"
+    },
+    {
+      "type": "Unbookmark Tweet - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/unbookmark_tweet_v2"
+    },
+    {
+      "type": "Get Users to Monitor Tweet - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_to_monitor_tweet"
+    },
+    {
+      "type": "Update Profile - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/update_profile_v2"
+    },
+    {
+      "type": "Upload media - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/upload_media_v2"
+    },
+    {
+      "type": "Send DM V2 - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/send_dm_v2"
+    },
+    {
+      "type": "Get User Verified Followers - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_verified_followers"
+    },
+    {
+      "type": "Unlike Tweet - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/unlike_tweet_v2"
+    },
+    {
+      "type": "Search user by keyword - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/search_user"
+    },
+    {
+      "type": "Get User Followings - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followings"
+    },
+    {
+      "type": "Get Tweet Retweeters - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_retweeter"
+    },
+    {
+      "type": "Get User Info - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_by_username"
+    },
+    {
+      "type": "Get User Followers IDs (Bulk) - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers_ids"
+    },
+    {
+      "type": "Get Tweets by IDs - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_by_ids"
+    },
+    {
+      "type": "Get List Tweet TimeLine - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/list_timeline"
+    },
+    {
+      "type": "Get Community Tweets - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_tweets"
+    },
+    {
+      "type": "Get User TimeLine - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_timeline"
+    },
+    {
+      "type": "Get Tweet Replies V2 - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_replies_v2"
+    },
+    {
+      "type": "Get Tweet Thread Context - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_thread_context"
+    },
+    {
+      "type": "Get User Mentions - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_mention"
+    },
+    {
+      "type": "Advanced Search - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/tweet_advanced_search"
+    },
+    {
+      "type": "Get Tweet Quotations - twitterapi.io",
+      "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_quote"
+    }
+  ],
+  "latestVersion": "50938379d97b7d4e04f5f8979cdc75af3e68b97d00a51ccbd297592c43609e48",
+  "versions": [
+    {
+      "version": "50938379d97b7d4e04f5f8979cdc75af3e68b97d00a51ccbd297592c43609e48",
+      "label": "latest",
+      "timestamp": "2026-09-09T18:52:50.658Z",
+      "filename": "documentation_2026-09-09T18:52:50.658Z.md",
+      "totalPages": 62,
+      "successfulPages": 61,
+      "url": "https://docs.twitterapi.io/introduction",
+      "snapshotId": "50938379d97b7d4e04f5f8979cdc75af3e68b97d00a51ccbd297592c43609e48",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.twitterapi.io/introduction",
+      "canonicalSeedUrl": "https://docs.twitterapi.io/introduction",
+      "configuration": {
+        "url": "https://docs.twitterapi.io/introduction",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-09T18:52:06.058Z",
+      "completedAt": "2026-09-09T18:52:50.658Z",
+      "providerTotals": {
+        "discovered": 62,
+        "returned": 62,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 62,
+        "returned": 62,
+        "valid": 61,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 1,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.twitterapi.io/introduction",
+          "canonicalUrl": "https://docs.twitterapi.io/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/llms.txt",
+          "canonicalUrl": "https://docs.twitterapi.io/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/add_user_to_monitor_tweet",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/add_user_to_monitor_tweet",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/batch_get_user_by_userids",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/batch_get_user_by_userids",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/bookmark_tweet_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/bookmark_tweet_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/create_community_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/create_community_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/create_tweet_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/create_tweet_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_community_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/delete_community_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_tweet_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/delete_tweet_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_webhook_rule",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/delete_webhook_rule",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/add_webhook_rule",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/add_webhook_rule",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/bookmarks_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/bookmarks_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_members",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_community_members",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_by_id",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_community_by_id",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/authentication",
+          "canonicalUrl": "https://docs.twitterapi.io/authentication",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/remove_user_to_monitor_tweet",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/remove_user_to_monitor_tweet",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_banner_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/update_banner_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_webhook_rule",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/update_webhook_rule",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/unfollow_user_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/unfollow_user_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_list_members",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_list_members",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/follow_user_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/follow_user_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_about",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_about",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/check_follow_relationship",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/check_follow_relationship",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_avatar_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/update_avatar_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/join_community_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/join_community_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/user_login_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/user_login_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/retweet_tweet_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/retweet_tweet_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_trends",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_trends",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_article",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_article",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_moderators",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_community_moderators",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_my_info",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_my_info",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_all_community_tweets",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_all_community_tweets",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_space_detail",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_space_detail",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_reply",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_reply",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_last_tweets",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_last_tweets",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_list_followers",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_list_followers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_webhook_rules",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_webhook_rules",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/leave_community_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/leave_community_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/like_tweet_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/like_tweet_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/unbookmark_tweet_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/unbookmark_tweet_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_to_monitor_tweet",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_to_monitor_tweet",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_profile_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/update_profile_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/upload_media_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/upload_media_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/send_dm_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/send_dm_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_verified_followers",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_verified_followers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/unlike_tweet_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/unlike_tweet_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/search_user",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/search_user",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followings",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followings",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_retweeter",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_retweeter",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_by_username",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_by_username",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers_ids",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers_ids",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_by_ids",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_by_ids",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/list_timeline",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/list_timeline",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_tweets",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_community_tweets",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_timeline",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_timeline",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_replies_v2",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_replies_v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_thread_context",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_thread_context",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_mention",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_mention",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/tweet_advanced_search",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/tweet_advanced_search",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_quote",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_quote",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_batch_info_by_ids",
+          "canonicalUrl": "https://docs.twitterapi.io/api-reference/endpoint/get_user_batch_info_by_ids",
+          "status": "rejected",
+          "reason": "error-or-authentication-title"
+        }
+      ],
+      "id": "10ff6acbc35459a13f7908d8ae45f8aea702cf277c3873b07955f51bbcf25f65"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "50938379d97b7d4e04f5f8979cdc75af3e68b97d00a51ccbd297592c43609e48",
+      "filename": "documentation_2026-09-09T18:52:50.658Z.md",
+      "contentHash": "c4e55d164055cc04d5e4487d905ae54fa011bf6bc1ff35c1b1fe926f1e2c27f3",
+      "sourceUrl": "https://docs.twitterapi.io/introduction",
+      "canonicalSourceUrl": "https://docs.twitterapi.io/introduction",
+      "capturedAt": "2026-09-09T18:52:50.658Z",
+      "crawlRunId": "10ff6acbc35459a13f7908d8ae45f8aea702cf277c3873b07955f51bbcf25f65",
+      "totalPages": 62,
+      "successfulPages": 61,
+      "structure": [
+        {
+          "type": "Introduction - twitterapi.io",
+          "url": "https://docs.twitterapi.io/introduction"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.twitterapi.io/llms.txt"
+        },
+        {
+          "type": "Add  a twitter user to monitor his tweets - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/add_user_to_monitor_tweet"
+        },
+        {
+          "type": "Batch Get User Info By UserIds - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/batch_get_user_by_userids"
+        },
+        {
+          "type": "Bookmark Tweet - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/bookmark_tweet_v2"
+        },
+        {
+          "type": "Create Community V2 - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/create_community_v2"
+        },
+        {
+          "type": "Create/Reply tweet v2 - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/create_tweet_v2"
+        },
+        {
+          "type": "Delete Community V2 - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_community_v2"
+        },
+        {
+          "type": "Delete Tweet - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_tweet_v2"
+        },
+        {
+          "type": "Delete Webhook/Websocket Tweet Filter Rule - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/delete_webhook_rule"
+        },
+        {
+          "type": "Add Webhook/Websocket Tweet Filter Rule - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/add_webhook_rule"
+        },
+        {
+          "type": "Get Bookmarks - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/bookmarks_v2"
+        },
+        {
+          "type": "Get Community Members - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_members"
+        },
+        {
+          "type": "Get Community Info By Id - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_by_id"
+        },
+        {
+          "type": "Authentication - twitterapi.io",
+          "url": "https://docs.twitterapi.io/authentication"
+        },
+        {
+          "type": "Remove a user from  monitor list - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/remove_user_to_monitor_tweet"
+        },
+        {
+          "type": "Update Banner - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_banner_v2"
+        },
+        {
+          "type": "Update Webhook/Websocket Tweet Filter Rule - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_webhook_rule"
+        },
+        {
+          "type": "Unfollow User - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/unfollow_user_v2"
+        },
+        {
+          "type": "Get List Members - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_list_members"
+        },
+        {
+          "type": "Follow User - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/follow_user_v2"
+        },
+        {
+          "type": "Get User Profile About - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_about"
+        },
+        {
+          "type": "Check Follow Relationship - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/check_follow_relationship"
+        },
+        {
+          "type": "Update Avatar - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_avatar_v2"
+        },
+        {
+          "type": "Join Community v2 - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/join_community_v2"
+        },
+        {
+          "type": "Log in - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/user_login_v2"
+        },
+        {
+          "type": "Retweet Tweet  - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/retweet_tweet_v2"
+        },
+        {
+          "type": "Get Trends - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_trends"
+        },
+        {
+          "type": "Get Article - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_article"
+        },
+        {
+          "type": "Get Community Moderators - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_moderators"
+        },
+        {
+          "type": "Get My Account Info - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_my_info"
+        },
+        {
+          "type": "Get User Followers - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers"
+        },
+        {
+          "type": "Search Tweets From All Community  - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_all_community_tweets"
+        },
+        {
+          "type": "Get Space Detail - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_space_detail"
+        },
+        {
+          "type": "Get Tweet Replies - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_reply"
+        },
+        {
+          "type": "Get User Last Tweets - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_last_tweets"
+        },
+        {
+          "type": "Get List Followers - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_list_followers"
+        },
+        {
+          "type": "Get ALL test Webhook/Websocket Tweet Filter Rules - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_webhook_rules"
+        },
+        {
+          "type": "Leave Community V2  - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/leave_community_v2"
+        },
+        {
+          "type": "Like Tweet - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/like_tweet_v2"
+        },
+        {
+          "type": "Unbookmark Tweet - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/unbookmark_tweet_v2"
+        },
+        {
+          "type": "Get Users to Monitor Tweet - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_to_monitor_tweet"
+        },
+        {
+          "type": "Update Profile - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/update_profile_v2"
+        },
+        {
+          "type": "Upload media - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/upload_media_v2"
+        },
+        {
+          "type": "Send DM V2 - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/send_dm_v2"
+        },
+        {
+          "type": "Get User Verified Followers - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_verified_followers"
+        },
+        {
+          "type": "Unlike Tweet - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/unlike_tweet_v2"
+        },
+        {
+          "type": "Search user by keyword - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/search_user"
+        },
+        {
+          "type": "Get User Followings - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followings"
+        },
+        {
+          "type": "Get Tweet Retweeters - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_retweeter"
+        },
+        {
+          "type": "Get User Info - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_by_username"
+        },
+        {
+          "type": "Get User Followers IDs (Bulk) - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_followers_ids"
+        },
+        {
+          "type": "Get Tweets by IDs - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_by_ids"
+        },
+        {
+          "type": "Get List Tweet TimeLine - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/list_timeline"
+        },
+        {
+          "type": "Get Community Tweets - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_community_tweets"
+        },
+        {
+          "type": "Get User TimeLine - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_timeline"
+        },
+        {
+          "type": "Get Tweet Replies V2 - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_replies_v2"
+        },
+        {
+          "type": "Get Tweet Thread Context - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_thread_context"
+        },
+        {
+          "type": "Get User Mentions - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_mention"
+        },
+        {
+          "type": "Advanced Search - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/tweet_advanced_search"
+        },
+        {
+          "type": "Get Tweet Quotations - twitterapi.io",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_tweet_quote"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    },
+    {
+      "id": "41f328671bd228636b87f759e6345160686552b2cec5cacb96aa8ed54b5680fa",
+      "filename": "evidence_2026-09-09T18:52:50.658Z.md",
+      "contentHash": "2d7399128f7442d28704cf18932422b43214879932095a9bce8fddaf85baca9e",
+      "sourceUrl": "https://docs.twitterapi.io/introduction",
+      "canonicalSourceUrl": "https://docs.twitterapi.io/introduction",
+      "capturedAt": "2026-09-09T18:52:50.658Z",
+      "crawlRunId": "10ff6acbc35459a13f7908d8ae45f8aea702cf277c3873b07955f51bbcf25f65",
+      "totalPages": 1,
+      "successfulPages": 0,
+      "structure": [
+        {
+          "type": "Page Not Found",
+          "url": "https://docs.twitterapi.io/api-reference/endpoint/get_user_batch_info_by_ids"
+        }
+      ],
+      "quality": {
+        "status": "quarantined",
+        "reasons": [
+          "error-or-authentication-title"
+        ]
+      }
+    }
+  ],
+  "currentSnapshotId": "50938379d97b7d4e04f5f8979cdc75af3e68b97d00a51ccbd297592c43609e48"
+}

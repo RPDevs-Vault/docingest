@@ -1,16 +1,16 @@
 {
   "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes",
   "domain": "x3m1sec.gitbook.io",
-  "lastScraped": "2026-07-30T06:45:58.376Z",
-  "totalPages": 250,
-  "successfulPages": 107,
+  "lastScraped": "2026-09-09T11:57:21.489Z",
+  "totalPages": 253,
+  "successfulPages": 146,
   "failedPages": [
-    "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-services/4.sql-databases (server-detected-blocked-content)"
+    "https://x3m1sec.gitbook.io/www.linkedin.com/in/josemiguelromeroflores (error-page-content)"
   ],
   "structure": [
     {
-      "type": "CPTS | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts"
+      "type": "/home/x3m1Sec/.pt-notes | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io"
     },
     {
       "type": "/home/x3m1Sec/.pt-notes | Pentest Notes",
@@ -21,44 +21,92 @@
       "url": "https://x3m1sec.gitbook.io/notes/pentest-notes"
     },
     {
+      "type": "Unknown",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://x3m1sec.gitbook.io/notes/readme.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://x3m1sec.gitbook.io/notes/llms.txt"
+    },
+    {
       "type": "Protocols and Services | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services"
-    },
-    {
-      "type": "DNS Port (53) | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-53-dns"
-    },
-    {
-      "type": "FTP Port (21) | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp"
     },
     {
       "type": "Information Gathering | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering"
     },
     {
+      "type": "Unknown",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services.md"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering.md"
+    },
+    {
+      "type": "FTP Port (21) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp"
+    },
+    {
+      "type": "IMAP Ports (143,993) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap"
+    },
+    {
+      "type": "DNS Port (53) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-53-dns"
+    },
+    {
       "type": "TryHackMe | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/ctfs/tryhackme"
+    },
+    {
+      "type": "Resources | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources"
+    },
+    {
+      "type": "CTFs | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/ctfs"
     },
     {
       "type": "Hack The Box | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box"
     },
     {
-      "type": "Windows | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows"
+      "type": "Cheatsheets | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/cheatsheets"
     },
     {
-      "type": "Hard | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/hard"
+      "type": "Road to certification | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp.md"
     },
     {
       "type": "Linux | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux"
     },
     {
-      "type": "CTFs | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs"
+      "type": "Hard | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/hard"
+    },
+    {
+      "type": "Hard | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/hard"
+    },
+    {
+      "type": "Easy | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy"
+    },
+    {
+      "type": "eJPTv2 | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt"
     },
     {
       "type": "Medium | Pentest Notes",
@@ -69,108 +117,84 @@
       "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium"
     },
     {
-      "type": "Hard | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/hard"
-    },
-    {
-      "type": "Road to certification | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications"
-    },
-    {
-      "type": "Easy | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy"
-    },
-    {
       "type": "Easy | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy"
     },
     {
-      "type": "Bug Bounty Tools | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting/bug-bounty-tools"
-    },
-    {
-      "type": "Utilities, Scripts and Payloads | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads"
-    },
-    {
-      "type": "Initial Enumeration | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration"
-    },
-    {
-      "type": "Bug Bounty Hunting | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting"
+      "type": "Windows | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows"
     },
     {
       "type": "My review | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/cpts"
     },
     {
-      "type": "File System ACLs | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/file-system-acls"
+      "type": "Default Passwords | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/default-passwords"
     },
     {
-      "type": "Web Applications | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications"
+      "type": "Bug Bounty Tools | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting/bug-bounty-tools"
     },
     {
-      "type": "eJPTv2 | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt"
+      "type": "CPTS | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts"
     },
     {
-      "type": "Jerry | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/jerry"
-    },
-    {
-      "type": "User Account Control (UAC) Bypass | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/user-account-control-uac-bypass"
-    },
-    {
-      "type": "Windows Privilege Escalation | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation"
-    },
-    {
-      "type": "Living off the Land | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/living-off-the-land"
-    },
-    {
-      "type": "Active Directory Pentesting | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting"
-    },
-    {
-      "type": "Linux Privilege Escalation | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation"
-    },
-    {
-      "type": "Sunday | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/sunday"
-    },
-    {
-      "type": "Arctic | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/arctic"
+      "type": "OSCP | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp"
     },
     {
       "type": "My review | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt/ejptv2"
     },
     {
-      "type": "Tools | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools"
+      "type": "Bug Bounty Hunting | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting"
     },
     {
-      "type": "Privileged Groups | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privileged-groups"
+      "type": "Cheat Sheets | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets"
     },
     {
-      "type": "Splunk | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/splunk"
+      "type": "Misc Snippets | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/misc-snippets"
     },
     {
-      "type": "osTicket | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/osticket"
+      "type": "Powerup | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/powerup"
     },
     {
-      "type": "Capabilities Abuse | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/capabilities-abuse"
+      "type": "Preparation | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/oscp-preparation"
+    },
+    {
+      "type": "Web Applications | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications"
+    },
+    {
+      "type": "Mimikatz | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/mimikatz"
+    },
+    {
+      "type": "Kerberoast | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/kerberoast"
+    },
+    {
+      "type": "Utilities, Scripts and Payloads | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads"
+    },
+    {
+      "type": "Hashcat Word lists and Rules | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/hashcat-word-lists-and-rules"
+    },
+    {
+      "type": "Active Directory Pentesting | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting"
+    },
+    {
+      "type": "Windows Privilege Escalation | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation"
     },
     {
       "type": "File Transfers | Pentest Notes",
@@ -181,274 +205,416 @@
       "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/attacking-kerberos"
     },
     {
-      "type": "Knife | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/knife"
-    },
-    {
-      "type": "Web Attacks | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks"
-    },
-    {
-      "type": "Services Hijacking | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/unquoted-service-paths"
-    },
-    {
-      "type": "CGI Applications | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/cgi-applications"
-    },
-    {
-      "type": "Remote File Inclusion (RFI) | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/remote-file-inclusion-rfi"
-    },
-    {
-      "type": "Environment Variables Abuse | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/environment-variables-abuse"
-    },
-    {
-      "type": "Fuzzing | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/fuzzing"
-    },
-    {
-      "type": "Analytics | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/analytics"
-    },
-    {
-      "type": "Insecure Direct Object References (IDOR) | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/insecure-direct-object-references-idor"
-    },
-    {
-      "type": "Web Technologies | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies"
-    },
-    {
-      "type": "Irked | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/irked"
-    },
-    {
-      "type": "Broker | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/broker"
-    },
-    {
-      "type": "Swagshop | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/swagshop"
-    },
-    {
-      "type": "PRTG Network Monitor | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/prtg-network-monitor"
-    },
-    {
-      "type": "HTTP Verb Tampering | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/http-verb-tampering"
+      "type": "Unknown",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap.md"
     },
     {
       "type": "Programs, Jobs and Services | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/programs-jobs-and-services"
     },
     {
-      "type": "Built-in Groups Abuse | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/built-in-groups-abuse"
+      "type": "Privileged Groups | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privileged-groups"
     },
     {
-      "type": "Sau | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/sau"
+      "type": "File System ACLs | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/file-system-acls"
     },
     {
-      "type": "Kerbrute | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/kerbrute"
+      "type": "Living off the Land | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/living-off-the-land"
     },
     {
-      "type": "Miscellaneous Techniques | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/miscellaneous-techniques"
+      "type": "Linux Privilege Escalation | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation"
     },
     {
-      "type": "Password Attacks | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/password-attacks"
+      "type": "Services Hijacking | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/unquoted-service-paths"
+    },
+    {
+      "type": "Metasploit Modules | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/metasploit-modules"
+    },
+    {
+      "type": "Capabilities Abuse | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/capabilities-abuse"
+    },
+    {
+      "type": "Recent CVEs | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/recent-cves"
+    },
+    {
+      "type": "Initial Enumeration | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration"
     },
     {
       "type": "Shells and Payloads | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/shells-and-payloads"
     },
     {
-      "type": "Poison | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium/poison"
+      "type": "Environment Variables Abuse | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/environment-variables-abuse"
     },
     {
-      "type": "Bashed | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/bashed"
+      "type": "Enumerating Users | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration/ad-userenum"
     },
     {
-      "type": "Access | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/access"
+      "type": "IPMI Port (623) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-623-ipmi"
+    },
+    {
+      "type": "Tools | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools"
+    },
+    {
+      "type": "Fuzzing | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/fuzzing"
+    },
+    {
+      "type": "User Account Control (UAC) Bypass | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/user-account-control-uac-bypass"
+    },
+    {
+      "type": "Password Attacks | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/password-attacks"
     },
     {
       "type": "Spawn TTY Shells | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/spawn_tty_shell"
     },
     {
-      "type": "Nmap | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/nmap"
+      "type": "HTTP Verb Tampering | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/http-verb-tampering"
     },
     {
-      "type": "Pilgrimage | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/pilgrimage"
+      "type": "PriveEsc Checklist | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privilege-escalation-checklist"
     },
     {
-      "type": "Precious | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/precious"
+      "type": "Kerberos Port (88) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-88-or-kerberos"
     },
     {
-      "type": "Networked | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/networked"
+      "type": "Web Attacks | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks"
+    },
+    {
+      "type": "Linux PrivEsc Summary | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/linux-privilege-escalation-techniques"
+    },
+    {
+      "type": "NFS Ports (111,2049) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-2049-nfs"
+    },
+    {
+      "type": "Remote File Inclusion (RFI) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/remote-file-inclusion-rfi"
+    },
+    {
+      "type": "Built-in Groups Abuse | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/built-in-groups-abuse"
+    },
+    {
+      "type": "WordPress | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/wordpress"
+    },
+    {
+      "type": "Tomcat | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/tomcat"
+    },
+    {
+      "type": "Drupal | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/drupal"
+    },
+    {
+      "type": "Pivoting, Tunneling, Port Forwarding | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/pivoting-tunneling-port-forwarding"
+    },
+    {
+      "type": "Gitlab | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/gitlab"
+    },
+    {
+      "type": "CGI Applications | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/cgi-applications"
+    },
+    {
+      "type": "osTicket | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/osticket"
+    },
+    {
+      "type": "SMB Ports (139,445) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-139-445-smb"
+    },
+    {
+      "type": "Impacket | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/impacket"
+    },
+    {
+      "type": "Miscellaneous Techniques | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/miscellaneous-techniques"
+    },
+    {
+      "type": "Enumerating Attack Vectors | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/enumerating-attack-vectors"
+    },
+    {
+      "type": "Reverse shells | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/rev-shells"
+    },
+    {
+      "type": "OS Command Injection | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/os-command-injection"
+    },
+    {
+      "type": "PostgreSQL Port (5432) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-5432-postgres"
+    },
+    {
+      "type": "Apache Tomcat Ports (8080,8180) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-8080-8180-apache-tomcat"
+    },
+    {
+      "type": "File Upload Vulnerabilities | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/file-uploads"
+    },
+    {
+      "type": "NetBIOS Ports (137,138,139) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-137-or-138-or-139-or-netbios"
+    },
+    {
+      "type": "Joomla | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/joomla"
+    },
+    {
+      "type": "Jenkins | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/jenkins"
+    },
+    {
+      "type": "SAP Netweaver | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/sap-netweaver"
+    },
+    {
+      "type": "Insecure Direct Object References (IDOR) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/insecure-direct-object-references-idor"
+    },
+    {
+      "type": "Metasploit Framework | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/metasploit-framework"
+    },
+    {
+      "type": "Active Directory Certificate Services (ADCS) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/acds"
+    },
+    {
+      "type": "RDP Port (3389) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-3389-or-rdp"
+    },
+    {
+      "type": "RPCBind Ports (111,32771) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-111-or-32771-or-rpcbind"
+    },
+    {
+      "type": "SQL Injection (SQLi) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sql-injection"
+    },
+    {
+      "type": "Bloodhound | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/bloodhound"
+    },
+    {
+      "type": "SNMP Ports (161,162) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-161-162-snmp"
+    },
+    {
+      "type": "Java RMI Port (1099) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1099-or-java-rmi"
+    },
+    {
+      "type": "Port 123 - NTP | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-123-or-ntp"
+    },
+    {
+      "type": "Kerbrute | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/kerbrute"
+    },
+    {
+      "type": "Excessive User Rights Abuse | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/excessive-user-rights-abuse"
+    },
+    {
+      "type": "POP3 Port (110) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/pop3-port-110"
+    },
+    {
+      "type": "PRTG Network Monitor | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/prtg-network-monitor"
+    },
+    {
+      "type": "BloodyAD | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/bloodyad"
+    },
+    {
+      "type": "Enumerating Attack Vectors | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/enumerating-attack-vectors"
+    },
+    {
+      "type": "SMTP Port (25) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/25-smtp"
     },
     {
       "type": "Enumeration | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/enumeration"
     },
     {
-      "type": "4. Customer Service Mgmt & Configuration Management | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/4.-customer-service-mgmt-and-configuration-management"
+      "type": "Web Service & API Attacks | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-service-and-api-attacks"
     },
     {
-      "type": "NetMon | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/netmon"
+      "type": "Web Attacks | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-attacks"
     },
     {
-      "type": "Boardlight | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy/boardlight"
+      "type": "MSSQL Port (1433) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1433-mssql"
     },
     {
-      "type": "5. Common Gateway Interfaces | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/5.-common-gateway-interfaces"
+      "type": "Nmap | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/nmap"
     },
     {
-      "type": "2. Servlet Containers and Software Development | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/2.-servlet-containers-and-software-development"
+      "type": "Server-side Attacks | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/server-side-attacks"
     },
     {
-      "type": "6. Thick Client Applications | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/6.-thick-client-applications"
-    },
-    {
-      "type": "8. Closing Out | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/8.-closing-out"
-    },
-    {
-      "type": "Solidstate | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium/solidstate"
-    },
-    {
-      "type": "Updown | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium/updown"
-    },
-    {
-      "type": "1.Content Management Systems (CMS) | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/1.content-management-systems-cms"
-    },
-    {
-      "type": "Attacking Common Services | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-services"
+      "type": "LDAP Ports (389,636) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-389-636-ldap"
     },
     {
       "type": "Attacking Common Applications | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications"
     },
     {
-      "type": "Active Directory Enumeration & Attacks | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/active-directory-enumeration-and-attacks"
+      "type": "Linux Privilege Escalation | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/linux-privilege-escalation"
+    },
+    {
+      "type": "Password-cracking | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-cracking"
+    },
+    {
+      "type": "Splunk | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/splunk"
+    },
+    {
+      "type": "Sub-domain Enumeration | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sub-domain-enumeration"
+    },
+    {
+      "type": "TIPS | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/cpts-tips"
+    },
+    {
+      "type": "Local File Inclusion (LFI) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/local-file-inclusion-lfi"
+    },
+    {
+      "type": "Attacking Common Services | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-services"
+    },
+    {
+      "type": "Web Technologies | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies"
+    },
+    {
+      "type": "Windows Privilege Escalation | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/windows-privilege-escalation"
     },
     {
       "type": "Notes | Pentest Notes",
       "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes"
     },
     {
-      "type": "0. AD Pentest | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/active-directory-enumeration-and-attacks/0.-ad-pentest"
+      "type": "Active Directory Enumeration & Attacks | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/active-directory-enumeration-and-attacks"
     },
     {
-      "type": "Love | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/love"
+      "type": "PriveEsc checklist | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/privilege-escalation-checklist"
     },
     {
-      "type": "Active | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/active"
+      "type": "Oracle TNS Port (1521) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/oracle-tns-port-1521"
     },
     {
-      "type": "Chatterbox | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/chatterbox"
+      "type": "Abusing ACLs/ACEs | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/ad-acl-abuse"
     },
     {
-      "type": "Return | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/return"
+      "type": "Upgrading-tty-shell | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/upgrading-tty-shell"
     },
     {
-      "type": "Jeeves | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/jeeves"
+      "type": "Nmap Commands for Port Discovery | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/nmap-commands-for-port-discovery"
     },
     {
-      "type": "SecNotes | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/secnotes"
+      "type": "LDAPSearch | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/ldapsearch"
     },
     {
-      "type": "Giddy | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/giddy"
+      "type": "PowerView.py | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/powerview"
     },
     {
-      "type": "3. Infrastructure and Network Monitoring Tools | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/3.-infrastructure-and-network-monitoring-tools"
+      "type": "XML External Entities (XXE) | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/xml-external-entities-xxe"
     },
     {
-      "type": "Thefrizz | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/thefrizz"
+      "type": "Microsoft IIS | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/microsoft-iis"
     },
     {
-      "type": "Magic | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium/magic"
+      "type": "Command-injections | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/command-injections"
     },
     {
-      "type": "7. Miscellaneous Applications | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications/7.-miscellaneous-applications"
+      "type": "Password-attacks | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-attacks"
     },
     {
-      "type": "Querier | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/querier"
+      "type": "Ligolo-ng | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/ligolo-ng"
     },
     {
-      "type": "Heist | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/heist"
-    },
-    {
-      "type": "Sauna | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/sauna"
-    },
-    {
-      "type": "Remote | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/remote"
-    },
-    {
-      "type": "Cicada | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy/cicada"
-    },
-    {
-      "type": "Monteverde | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium/monteverde"
-    },
-    {
-      "type": "3.Sighting In, Hunting For A User | Pentest Notes",
-      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/active-directory-enumeration-and-attacks/3.sighting-in-hunting-for-a-user"
+      "type": "XSS | Pentest Notes",
+      "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/xss"
     }
   ],
-  "latestVersion": "90181b89b31dc66c7652825fd2e643482bd58284ecbe5e6863c32e0724b02411",
+  "latestVersion": "6dce834ee17388f753b129d9f8469bdc8aa790eaaf70866544d2a9d25bfc56b8",
   "versions": [
     {
-      "version": "90181b89b31dc66c7652825fd2e643482bd58284ecbe5e6863c32e0724b02411",
+      "version": "6dce834ee17388f753b129d9f8469bdc8aa790eaaf70866544d2a9d25bfc56b8",
       "label": "latest",
+      "timestamp": "2026-09-09T11:57:21.489Z",
+      "filename": "documentation_2026-09-09T11:57:21.489Z.md",
+      "totalPages": 253,
+      "successfulPages": 146,
+      "url": "https://x3m1sec.gitbook.io",
+      "snapshotId": "6dce834ee17388f753b129d9f8469bdc8aa790eaaf70866544d2a9d25bfc56b8",
+      "isLatest": true
+    },
+    {
+      "version": "90181b89b31dc66c7652825fd2e643482bd58284ecbe5e6863c32e0724b02411",
       "timestamp": "2026-07-30T06:45:58.376Z",
       "filename": "documentation_2026-07-30T06:45:58.376Z.md",
       "totalPages": 250,
       "successfulPages": 107,
       "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts",
       "snapshotId": "90181b89b31dc66c7652825fd2e643482bd58284ecbe5e6863c32e0724b02411",
-      "isLatest": true
+      "isLatest": false
     },
     {
       "version": "1.2.3",
@@ -1126,6 +1292,787 @@
         }
       ],
       "id": "f47c0baf2e2d22f6926608dce5186d5809ee8edb0f1051f959c71f693623c6f9"
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://x3m1sec.gitbook.io",
+      "canonicalSeedUrl": "https://x3m1sec.gitbook.io/",
+      "configuration": {
+        "url": "https://x3m1sec.gitbook.io",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-09T11:56:19.805Z",
+      "completedAt": "2026-09-09T11:57:21.489Z",
+      "providerTotals": {
+        "discovered": 253,
+        "returned": 147,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 253,
+        "returned": 147,
+        "valid": 146,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 1,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://x3m1sec.gitbook.io",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes.md",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/readme.md",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/readme.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/llms.txt",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services.md",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering.md",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-53-dns",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-53-dns",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/tryhackme",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/tryhackme",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/cheatsheets",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/cheatsheets",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp.md",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/hard",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/hard",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/hard",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/hard",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/cpts",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/cpts",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/default-passwords",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/default-passwords",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting/bug-bounty-tools",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting/bug-bounty-tools",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt/ejptv2",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt/ejptv2",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/misc-snippets",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/misc-snippets",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/powerup",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/powerup",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/oscp-preparation",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/oscp-preparation",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/mimikatz",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/mimikatz",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/kerberoast",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/kerberoast",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/hashcat-word-lists-and-rules",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/hashcat-word-lists-and-rules",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/file-transfers",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/file-transfers",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/attacking-kerberos",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/attacking-kerberos",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap.md",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/programs-jobs-and-services",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/programs-jobs-and-services",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privileged-groups",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privileged-groups",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/file-system-acls",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/file-system-acls",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/living-off-the-land",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/living-off-the-land",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/www.linkedin.com/in/josemiguelromeroflores",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/www.linkedin.com/in/josemiguelromeroflores",
+          "status": "rejected",
+          "reason": "error-page-content"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/unquoted-service-paths",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/unquoted-service-paths",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/metasploit-modules",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/metasploit-modules",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/capabilities-abuse",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/capabilities-abuse",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/recent-cves",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/recent-cves",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/shells-and-payloads",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/shells-and-payloads",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/environment-variables-abuse",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/environment-variables-abuse",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration/ad-userenum",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration/ad-userenum",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-623-ipmi",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-623-ipmi",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/fuzzing",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/fuzzing",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/user-account-control-uac-bypass",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/user-account-control-uac-bypass",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/password-attacks",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/password-attacks",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/spawn_tty_shell",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/spawn_tty_shell",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/http-verb-tampering",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/http-verb-tampering",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privilege-escalation-checklist",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privilege-escalation-checklist",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-88-or-kerberos",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-88-or-kerberos",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/linux-privilege-escalation-techniques",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/linux-privilege-escalation-techniques",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-2049-nfs",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-2049-nfs",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/remote-file-inclusion-rfi",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/remote-file-inclusion-rfi",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/built-in-groups-abuse",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/built-in-groups-abuse",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/wordpress",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/wordpress",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/tomcat",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/tomcat",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/drupal",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/drupal",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/pivoting-tunneling-port-forwarding",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/pivoting-tunneling-port-forwarding",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/gitlab",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/gitlab",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/cgi-applications",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/cgi-applications",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/osticket",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/osticket",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-139-445-smb",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-139-445-smb",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/impacket",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/impacket",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/miscellaneous-techniques",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/miscellaneous-techniques",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/enumerating-attack-vectors",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/enumerating-attack-vectors",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/rev-shells",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/rev-shells",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/os-command-injection",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/os-command-injection",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-5432-postgres",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-5432-postgres",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-8080-8180-apache-tomcat",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-8080-8180-apache-tomcat",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/file-uploads",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/file-uploads",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-137-or-138-or-139-or-netbios",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-137-or-138-or-139-or-netbios",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/joomla",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/joomla",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/jenkins",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/jenkins",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/sap-netweaver",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/sap-netweaver",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/insecure-direct-object-references-idor",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/insecure-direct-object-references-idor",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/metasploit-framework",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/metasploit-framework",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/acds",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/acds",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-3389-or-rdp",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-3389-or-rdp",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-111-or-32771-or-rpcbind",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-111-or-32771-or-rpcbind",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sql-injection",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sql-injection",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/bloodhound",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/bloodhound",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-161-162-snmp",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-161-162-snmp",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1099-or-java-rmi",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1099-or-java-rmi",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-123-or-ntp",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-123-or-ntp",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/kerbrute",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/kerbrute",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/excessive-user-rights-abuse",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/excessive-user-rights-abuse",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/pop3-port-110",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/pop3-port-110",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/prtg-network-monitor",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/prtg-network-monitor",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/bloodyad",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/bloodyad",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/enumerating-attack-vectors",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/enumerating-attack-vectors",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/25-smtp",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/25-smtp",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/enumeration",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/enumeration",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-service-and-api-attacks",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-service-and-api-attacks",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-attacks",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-attacks",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1433-mssql",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1433-mssql",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/nmap",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/nmap",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/server-side-attacks",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/server-side-attacks",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-389-636-ldap",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-389-636-ldap",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/linux-privilege-escalation",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/linux-privilege-escalation",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-cracking",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-cracking",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/splunk",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/splunk",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sub-domain-enumeration",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sub-domain-enumeration",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/cpts-tips",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/cpts-tips",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/local-file-inclusion-lfi",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/local-file-inclusion-lfi",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-services",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-services",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/windows-privilege-escalation",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/windows-privilege-escalation",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/active-directory-enumeration-and-attacks",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/active-directory-enumeration-and-attacks",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/privilege-escalation-checklist",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/privilege-escalation-checklist",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/oracle-tns-port-1521",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/oracle-tns-port-1521",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/ad-acl-abuse",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/ad-acl-abuse",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/upgrading-tty-shell",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/upgrading-tty-shell",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/nmap-commands-for-port-discovery",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/nmap-commands-for-port-discovery",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/ldapsearch",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/ldapsearch",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/powerview",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/powerview",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/xml-external-entities-xxe",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/xml-external-entities-xxe",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/microsoft-iis",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/microsoft-iis",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/command-injections",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/command-injections",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-attacks",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-attacks",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/ligolo-ng",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/ligolo-ng",
+          "status": "valid"
+        },
+        {
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/xss",
+          "canonicalUrl": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/xss",
+          "status": "valid"
+        }
+      ],
+      "id": "97edefaf35a1ad76e5afa490369c17a7c31ae928a998b513afd98704bdf0c39d"
     }
   ],
   "snapshots": [
@@ -2107,7 +3054,631 @@
           "server-detected-blocked-content"
         ]
       }
+    },
+    {
+      "id": "6dce834ee17388f753b129d9f8469bdc8aa790eaaf70866544d2a9d25bfc56b8",
+      "filename": "documentation_2026-09-09T11:57:21.489Z.md",
+      "contentHash": "81bbbeddb2c3f33c8611996c9b574e376db95408fdd386e64ee7abb177bb1635",
+      "sourceUrl": "https://x3m1sec.gitbook.io",
+      "canonicalSourceUrl": "https://x3m1sec.gitbook.io/",
+      "capturedAt": "2026-09-09T11:57:21.489Z",
+      "crawlRunId": "97edefaf35a1ad76e5afa490369c17a7c31ae928a998b513afd98704bdf0c39d",
+      "totalPages": 253,
+      "successfulPages": 146,
+      "structure": [
+        {
+          "type": "/home/x3m1Sec/.pt-notes | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io"
+        },
+        {
+          "type": "/home/x3m1Sec/.pt-notes | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes"
+        },
+        {
+          "type": "Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://x3m1sec.gitbook.io/notes/readme.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://x3m1sec.gitbook.io/notes/llms.txt"
+        },
+        {
+          "type": "Protocols and Services | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services"
+        },
+        {
+          "type": "Information Gathering | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/information-gathering.md"
+        },
+        {
+          "type": "FTP Port (21) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp"
+        },
+        {
+          "type": "IMAP Ports (143,993) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap"
+        },
+        {
+          "type": "DNS Port (53) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-53-dns"
+        },
+        {
+          "type": "TryHackMe | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/tryhackme"
+        },
+        {
+          "type": "Resources | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources"
+        },
+        {
+          "type": "CTFs | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs"
+        },
+        {
+          "type": "Hack The Box | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box"
+        },
+        {
+          "type": "Cheatsheets | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/cheatsheets"
+        },
+        {
+          "type": "Road to certification | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-21-or-ftp.md"
+        },
+        {
+          "type": "Linux | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux"
+        },
+        {
+          "type": "Hard | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/hard"
+        },
+        {
+          "type": "Hard | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/hard"
+        },
+        {
+          "type": "Easy | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/easy"
+        },
+        {
+          "type": "eJPTv2 | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt"
+        },
+        {
+          "type": "Medium | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows/medium"
+        },
+        {
+          "type": "Medium | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/medium"
+        },
+        {
+          "type": "Easy | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/linux/easy"
+        },
+        {
+          "type": "Windows | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/ctfs/hack-the-box/windows"
+        },
+        {
+          "type": "My review | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/cpts"
+        },
+        {
+          "type": "Default Passwords | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/default-passwords"
+        },
+        {
+          "type": "Bug Bounty Tools | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting/bug-bounty-tools"
+        },
+        {
+          "type": "CPTS | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts"
+        },
+        {
+          "type": "OSCP | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp"
+        },
+        {
+          "type": "My review | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/ejpt/ejptv2"
+        },
+        {
+          "type": "Bug Bounty Hunting | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/bug-bounty-hunting"
+        },
+        {
+          "type": "Cheat Sheets | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets"
+        },
+        {
+          "type": "Misc Snippets | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/misc-snippets"
+        },
+        {
+          "type": "Powerup | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/powerup"
+        },
+        {
+          "type": "Preparation | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/oscp/oscp-preparation"
+        },
+        {
+          "type": "Web Applications | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications"
+        },
+        {
+          "type": "Mimikatz | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/mimikatz"
+        },
+        {
+          "type": "Kerberoast | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/kerberoast"
+        },
+        {
+          "type": "Utilities, Scripts and Payloads | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads"
+        },
+        {
+          "type": "Hashcat Word lists and Rules | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/hashcat-word-lists-and-rules"
+        },
+        {
+          "type": "Active Directory Pentesting | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting"
+        },
+        {
+          "type": "Windows Privilege Escalation | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation"
+        },
+        {
+          "type": "File Transfers | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/file-transfers"
+        },
+        {
+          "type": "Attacking Kerberos | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/attacking-kerberos"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-143-993-imap.md"
+        },
+        {
+          "type": "Programs, Jobs and Services | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/programs-jobs-and-services"
+        },
+        {
+          "type": "Privileged Groups | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privileged-groups"
+        },
+        {
+          "type": "File System ACLs | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/file-system-acls"
+        },
+        {
+          "type": "Living off the Land | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/living-off-the-land"
+        },
+        {
+          "type": "Linux Privilege Escalation | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation"
+        },
+        {
+          "type": "Services Hijacking | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/unquoted-service-paths"
+        },
+        {
+          "type": "Metasploit Modules | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/metasploit-modules"
+        },
+        {
+          "type": "Capabilities Abuse | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/capabilities-abuse"
+        },
+        {
+          "type": "Recent CVEs | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/recent-cves"
+        },
+        {
+          "type": "Initial Enumeration | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration"
+        },
+        {
+          "type": "Shells and Payloads | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/shells-and-payloads"
+        },
+        {
+          "type": "Environment Variables Abuse | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/environment-variables-abuse"
+        },
+        {
+          "type": "Enumerating Users | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/initial-enumeration/ad-userenum"
+        },
+        {
+          "type": "IPMI Port (623) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-623-ipmi"
+        },
+        {
+          "type": "Tools | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools"
+        },
+        {
+          "type": "Fuzzing | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/fuzzing"
+        },
+        {
+          "type": "User Account Control (UAC) Bypass | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/user-account-control-uac-bypass"
+        },
+        {
+          "type": "Password Attacks | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/password-attacks"
+        },
+        {
+          "type": "Spawn TTY Shells | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/spawn_tty_shell"
+        },
+        {
+          "type": "HTTP Verb Tampering | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/http-verb-tampering"
+        },
+        {
+          "type": "PriveEsc Checklist | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/privilege-escalation-checklist"
+        },
+        {
+          "type": "Kerberos Port (88) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-88-or-kerberos"
+        },
+        {
+          "type": "Web Attacks | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks"
+        },
+        {
+          "type": "Linux PrivEsc Summary | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/linux-privilege-escalation-techniques"
+        },
+        {
+          "type": "NFS Ports (111,2049) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-2049-nfs"
+        },
+        {
+          "type": "Remote File Inclusion (RFI) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/remote-file-inclusion-rfi"
+        },
+        {
+          "type": "Built-in Groups Abuse | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/built-in-groups-abuse"
+        },
+        {
+          "type": "WordPress | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/wordpress"
+        },
+        {
+          "type": "Tomcat | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/tomcat"
+        },
+        {
+          "type": "Drupal | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/drupal"
+        },
+        {
+          "type": "Pivoting, Tunneling, Port Forwarding | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/pivoting-tunneling-port-forwarding"
+        },
+        {
+          "type": "Gitlab | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/gitlab"
+        },
+        {
+          "type": "CGI Applications | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/cgi-applications"
+        },
+        {
+          "type": "osTicket | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/osticket"
+        },
+        {
+          "type": "SMB Ports (139,445) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-139-445-smb"
+        },
+        {
+          "type": "Impacket | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/impacket"
+        },
+        {
+          "type": "Miscellaneous Techniques | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/miscellaneous-techniques"
+        },
+        {
+          "type": "Enumerating Attack Vectors | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/linux-privilege-escalation/enumerating-attack-vectors"
+        },
+        {
+          "type": "Reverse shells | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/resources/cheat-sheets/rev-shells"
+        },
+        {
+          "type": "OS Command Injection | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/os-command-injection"
+        },
+        {
+          "type": "PostgreSQL Port (5432) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-5432-postgres"
+        },
+        {
+          "type": "Apache Tomcat Ports (8080,8180) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-8080-8180-apache-tomcat"
+        },
+        {
+          "type": "File Upload Vulnerabilities | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/file-uploads"
+        },
+        {
+          "type": "NetBIOS Ports (137,138,139) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-137-or-138-or-139-or-netbios"
+        },
+        {
+          "type": "Joomla | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/joomla"
+        },
+        {
+          "type": "Jenkins | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/jenkins"
+        },
+        {
+          "type": "SAP Netweaver | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/sap-netweaver"
+        },
+        {
+          "type": "Insecure Direct Object References (IDOR) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/insecure-direct-object-references-idor"
+        },
+        {
+          "type": "Metasploit Framework | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/utilities-scripts-and-payloads/metasploit-framework"
+        },
+        {
+          "type": "Active Directory Certificate Services (ADCS) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/acds"
+        },
+        {
+          "type": "RDP Port (3389) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-3389-or-rdp"
+        },
+        {
+          "type": "RPCBind Ports (111,32771) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-111-or-32771-or-rpcbind"
+        },
+        {
+          "type": "SQL Injection (SQLi) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sql-injection"
+        },
+        {
+          "type": "Bloodhound | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/bloodhound"
+        },
+        {
+          "type": "SNMP Ports (161,162) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-161-162-snmp"
+        },
+        {
+          "type": "Java RMI Port (1099) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1099-or-java-rmi"
+        },
+        {
+          "type": "Port 123 - NTP | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/port-123-or-ntp"
+        },
+        {
+          "type": "Kerbrute | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/kerbrute"
+        },
+        {
+          "type": "Excessive User Rights Abuse | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/excessive-user-rights-abuse"
+        },
+        {
+          "type": "POP3 Port (110) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/pop3-port-110"
+        },
+        {
+          "type": "PRTG Network Monitor | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/prtg-network-monitor"
+        },
+        {
+          "type": "BloodyAD | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/bloodyad"
+        },
+        {
+          "type": "Enumerating Attack Vectors | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/enumerating-attack-vectors"
+        },
+        {
+          "type": "SMTP Port (25) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/25-smtp"
+        },
+        {
+          "type": "Enumeration | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/enumeration"
+        },
+        {
+          "type": "Web Service & API Attacks | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-service-and-api-attacks"
+        },
+        {
+          "type": "Web Attacks | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/web-attacks"
+        },
+        {
+          "type": "MSSQL Port (1433) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-1433-mssql"
+        },
+        {
+          "type": "Nmap | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/nmap"
+        },
+        {
+          "type": "Server-side Attacks | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/server-side-attacks"
+        },
+        {
+          "type": "LDAP Ports (389,636) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/ports-389-636-ldap"
+        },
+        {
+          "type": "Attacking Common Applications | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-applications"
+        },
+        {
+          "type": "Linux Privilege Escalation | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/linux-privilege-escalation"
+        },
+        {
+          "type": "Password-cracking | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-cracking"
+        },
+        {
+          "type": "Splunk | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/splunk"
+        },
+        {
+          "type": "Sub-domain Enumeration | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/sub-domain-enumeration"
+        },
+        {
+          "type": "TIPS | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/cpts-tips"
+        },
+        {
+          "type": "Local File Inclusion (LFI) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/local-file-inclusion-lfi"
+        },
+        {
+          "type": "Attacking Common Services | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/attacking-common-services"
+        },
+        {
+          "type": "Web Technologies | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies"
+        },
+        {
+          "type": "Windows Privilege Escalation | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/windows-privilege-escalation"
+        },
+        {
+          "type": "Notes | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes"
+        },
+        {
+          "type": "Active Directory Enumeration & Attacks | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/active-directory-enumeration-and-attacks"
+        },
+        {
+          "type": "PriveEsc checklist | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/windows-privilege-escalation/privilege-escalation-checklist"
+        },
+        {
+          "type": "Oracle TNS Port (1521) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/oracle-tns-port-1521"
+        },
+        {
+          "type": "Abusing ACLs/ACEs | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/ad-acl-abuse"
+        },
+        {
+          "type": "Upgrading-tty-shell | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/upgrading-tty-shell"
+        },
+        {
+          "type": "Nmap Commands for Port Discovery | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/protocols-and-services/nmap-commands-for-port-discovery"
+        },
+        {
+          "type": "LDAPSearch | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/ldapsearch"
+        },
+        {
+          "type": "PowerView.py | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/active-directory-pentesting/tools/powerview"
+        },
+        {
+          "type": "XML External Entities (XXE) | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-attacks/xml-external-entities-xxe"
+        },
+        {
+          "type": "Microsoft IIS | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/pentest-notes/web-applications/web-technologies/microsoft-iis"
+        },
+        {
+          "type": "Command-injections | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/command-injections"
+        },
+        {
+          "type": "Password-attacks | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/password-attacks"
+        },
+        {
+          "type": "Ligolo-ng | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/ligolo-ng"
+        },
+        {
+          "type": "XSS | Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/notes/my-certifications/cpts/notes/xss"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    },
+    {
+      "id": "8043e97ea5204e4ba3876fb02aa3f6eedbe08979eea505b9c4f51172747dda64",
+      "filename": "evidence_2026-09-09T11:57:21.489Z.md",
+      "contentHash": "9c936815f25adc8956de5e95568b7354c8676556f607542e5fc74ae279f23064",
+      "sourceUrl": "https://x3m1sec.gitbook.io",
+      "canonicalSourceUrl": "https://x3m1sec.gitbook.io/",
+      "capturedAt": "2026-09-09T11:57:21.489Z",
+      "crawlRunId": "97edefaf35a1ad76e5afa490369c17a7c31ae928a998b513afd98704bdf0c39d",
+      "totalPages": 1,
+      "successfulPages": 0,
+      "structure": [
+        {
+          "type": "Pentest Notes",
+          "url": "https://x3m1sec.gitbook.io/www.linkedin.com/in/josemiguelromeroflores"
+        }
+      ],
+      "quality": {
+        "status": "quarantined",
+        "reasons": [
+          "error-page-content"
+        ]
+      }
     }
   ],
-  "currentSnapshotId": "e27c3c0ab9cdd7cad2c019c92a703484574f45cf0dd794a35878ace0a03f9a70"
+  "currentSnapshotId": "6dce834ee17388f753b129d9f8469bdc8aa790eaaf70866544d2a9d25bfc56b8"
 }
