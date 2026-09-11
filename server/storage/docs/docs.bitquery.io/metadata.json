@@ -1,0 +1,2071 @@
+{
+  "url": "https://docs.bitquery.io/docs/blockchain/robinhood/pons-api",
+  "domain": "docs.bitquery.io",
+  "lastScraped": "2026-09-10T18:53:11.427Z",
+  "totalPages": 180,
+  "successfulPages": 152,
+  "failedPages": [],
+  "structure": [
+    {
+      "type": "Bitquery API Product Comparison | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/api-comparison/"
+    },
+    {
+      "type": "Generate a Bitquery API Token | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/authorization/how-to-generate/"
+    },
+    {
+      "type": "How to Use Bitquery API Token - Authorization Examples",
+      "url": "https://docs.bitquery.io/docs/authorization/how-to-use/"
+    },
+    {
+      "type": "Authenticate Bitquery WebSockets | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/authorization/websocket/"
+    },
+    {
+      "type": "Algorand Arguments API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-arguments-api/"
+    },
+    {
+      "type": "Algorand Coinpath API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-coinpath-api/"
+    },
+    {
+      "type": "Algorand Blocks API - Query Blocks by Proposer",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-blocks-api/"
+    },
+    {
+      "type": "Algorand API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/"
+    },
+    {
+      "type": "Optimism NFT API: ERC-721 Transfers, Collections and Owners",
+      "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-nft/"
+    },
+    {
+      "type": "Optimism Address Balance API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-balance-api/"
+    },
+    {
+      "type": "Migrate from Bitquery API v1 to v2 | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/API-Blog/migrate-v1-v2/"
+    },
+    {
+      "type": "Polygon (MATIC) API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/"
+    },
+    {
+      "type": "Polygon Matic Slippage API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-slippage-api/"
+    },
+    {
+      "type": "Polygon (MATIC) Address Balance API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-balance-api/"
+    },
+    {
+      "type": "Polygon Matic Liquidity API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-liquidity-api/"
+    },
+    {
+      "type": "Polygon Uniswap V4 API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/uniswap-v4-api/"
+    },
+    {
+      "type": "Track Token Lock Unlock | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/API-Blog/track-token-lock-unlock/"
+    },
+    {
+      "type": "Polymarket API Vs Bitquery Polymarket | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/API-Blog/polymarket-api-vs-bitquery-polymarket-api/"
+    },
+    {
+      "type": "Algorand Transfers API - Track ALGO & ASA Token Transfers",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transfers-api/"
+    },
+    {
+      "type": "Algorand Transactions API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transactions-api/"
+    },
+    {
+      "type": "Bitcoin Coinpath API - Trace BTC Fund Flows Across Addresses",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-coinpath-api/"
+    },
+    {
+      "type": "Bitcoin Inputs Outputs | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-inputs-outputs/"
+    },
+    {
+      "type": "Base Miner Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-miner-balance-tracker/"
+    },
+    {
+      "type": "BNB Chain NFT API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-nft/"
+    },
+    {
+      "type": "Polygon Matic Uniswap API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-uniswap-api/"
+    },
+    {
+      "type": "esGMX (Escrowed) and vGLP (Vested) API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/esgmx-api/"
+    },
+    {
+      "type": "Base NFT Trades and Metadata API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-nft/"
+    },
+    {
+      "type": "Bitcoin Address API - Get BTC Balance | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-address-api/"
+    },
+    {
+      "type": "Use Regular Expressions To Search Solana Logs",
+      "url": "https://docs.bitquery.io/docs/API-Blog/use-regular-expressions-to-search-solana-logs/"
+    },
+    {
+      "type": "RWA (Real World Assets) API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/rwa-api/"
+    },
+    {
+      "type": "Token Transaction API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transactions/transaction-api/"
+    },
+    {
+      "type": "Usage API - Track Billing and Quota Programmatically",
+      "url": "https://docs.bitquery.io/docs/authorization/usage-api/"
+    },
+    {
+      "type": "Smart Contract Creation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/contract-creation/"
+    },
+    {
+      "type": "Ethereum Balance API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/balance-api/"
+    },
+    {
+      "type": "Analyze a Token ICO with the Transfers API: Mint, Distributor, Investors",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/ico-token-ownership-transfer/"
+    },
+    {
+      "type": "NFT Token Transfers API: ERC-721 and ERC-1155 Transfers on Ethereum",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/nft-token-transfer-api/"
+    },
+    {
+      "type": "Base Jump API: Trace a Launchpad Token on Base from Mint to First Trades",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-jump-base-api/"
+    },
+    {
+      "type": "BSC Smart Contract Events API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-events-api/"
+    },
+    {
+      "type": "BSC Smart Contract Calls API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-calls-api/"
+    },
+    {
+      "type": "Robinhood Chain API: Trades, Pons Launchpad and Real-Time Streams",
+      "url": "https://docs.bitquery.io/docs/blockchain/robinhood/"
+    },
+    {
+      "type": "EVM Token Supply API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-supply/evm-token-supply/"
+    },
+    {
+      "type": "APE Store API - Base Chain Token Trades & Transaction Data",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/apestore-base-api/"
+    },
+    {
+      "type": "Ethereum Eth Getlogs | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getLogs/"
+    },
+    {
+      "type": "What are Internal Transactions & How to Get Them?",
+      "url": "https://docs.bitquery.io/docs/API-Blog/what-are-internal-transactions-how-to-get-them/"
+    },
+    {
+      "type": "Robinhood Transactions & Receipts API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-transactions-receipts-api/"
+    },
+    {
+      "type": "Arbitrum Token Market Cap API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-token-marketcap-api/"
+    },
+    {
+      "type": "Base Chain Token Transfers API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-transfers/"
+    },
+    {
+      "type": "Ethereum NFT API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-api/"
+    },
+    {
+      "type": "Ethereum NFT Transfer API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-transfer-api/"
+    },
+    {
+      "type": "Ethereum Pancakeswap API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pancakeswap-api/"
+    },
+    {
+      "type": "Base Slippage API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-slippage-api/"
+    },
+    {
+      "type": "BSC Token Market Cap API: Market Cap, FDV and Supply of BNB Chain Tokens",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-token-marketcap-api/"
+    },
+    {
+      "type": "Ethereum Pepe API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/pepe-api/"
+    },
+    {
+      "type": "eth_getTransactionByHash | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionByHash/"
+    },
+    {
+      "type": "Base Gas Balance Tracker: Fees Paid by Senders and Collected by Vaults",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-gas-balance-tracker/"
+    },
+    {
+      "type": "Robinhood Token Supply API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-token-supply/"
+    },
+    {
+      "type": "Robinhood Calls & Traces API — WebSocket Streams",
+      "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-calls-api/"
+    },
+    {
+      "type": "trench.today API on Robinhood | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/robinhood/trench-today-api/"
+    },
+    {
+      "type": "BSC Miner Balance Tracker: Block Producer Rewards on BNB Chain",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-miner-balance-tracker/"
+    },
+    {
+      "type": "Base Network Coins API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-coins-api/"
+    },
+    {
+      "type": "debug_traceCall with Bitquery: Trace Internal Calls Without a Node",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceCall/"
+    },
+    {
+      "type": "Ethereum Self-Destruct Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-self-destruct-balance-api/"
+    },
+    {
+      "type": "Base Token Market Cap API: Market Cap, FDV and Supply for Tokens on Base",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-token-marketcap-api/"
+    },
+    {
+      "type": "BNB Chain Gra Fun API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/gra-fun-api/"
+    },
+    {
+      "type": "Base API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/"
+    },
+    {
+      "type": "BSC Transaction Balance Tracker: Balances Before and After a Transaction",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-transaction-balance-tracker/"
+    },
+    {
+      "type": "Ethereum Token Holder API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-holders/token-holder-api/"
+    },
+    {
+      "type": "Base Transaction Balance Tracker: Balances Before and After a Transaction",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transaction-balance-tracker/"
+    },
+    {
+      "type": "Base Liquidity API: Uniswap and PancakeSwap Pool Reserves in Real Time",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-liquidity-api/"
+    },
+    {
+      "type": "Aerodrome Finance API — Base DEX Trades & Liquidity",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/aerodrome-base-api/"
+    },
+    {
+      "type": "Ethereum Uniswap v4 API: Swaps, PoolIds, Pool Stats, Traders and Reserves",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-v4-api/"
+    },
+    {
+      "type": "Uniswap V3 Position API: Mints, Burns, Liquidity Changes and Fee Collections",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-position-api/"
+    },
+    {
+      "type": "BSC Mempool Stream - Real-Time Transaction Monitoring",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-mempool-stream/"
+    },
+    {
+      "type": "Cardano Coinpath API - Trace ADA Flows Across Multiple Hops",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/coinpath/"
+    },
+    {
+      "type": "Polygon (MATIC) NFT API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-nft/"
+    },
+    {
+      "type": "Cardano Blocks API - Query Blocks by Height, Slot & Epoch",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/blocks/"
+    },
+    {
+      "type": "Cardano Transactions API - Fees, Inputs, Outputs & Mints",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/transactions/"
+    },
+    {
+      "type": "Cardano Inputs and Outputs API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/inputs-outputs/"
+    },
+    {
+      "type": "Cardano Mints API - Track Native Token Mints | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/mints/"
+    },
+    {
+      "type": "Cardano Address API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/address/"
+    },
+    {
+      "type": "Bitcoin Fee API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-fee-api/"
+    },
+    {
+      "type": "Bitcoin Omni Transactions | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-omni-transactions/"
+    },
+    {
+      "type": "Algorand Smart Contract Calls API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-smart-contract-calls-api/"
+    },
+    {
+      "type": "Algorand Address API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-address-api/"
+    },
+    {
+      "type": "Bitcoin Blocks API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-blocks-api/"
+    },
+    {
+      "type": "Optimism Transfers API: Token and ETH Transfers, Whale Alerts, Backfills",
+      "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-transfers/"
+    },
+    {
+      "type": "Bitcoin Transactions API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-transactions-api/"
+    },
+    {
+      "type": "Arbitrum Cross Chain API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-cross-chain/"
+    },
+    {
+      "type": "Arbitrum Smart Contract Calls API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Calls/"
+    },
+    {
+      "type": "Arbitrum Smart Contract Events API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Events/"
+    },
+    {
+      "type": "Optimism API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Optimism/"
+    },
+    {
+      "type": "Arbitrum TimeBoost API & Streams | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-timeboost-api/"
+    },
+    {
+      "type": "Cardano API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/"
+    },
+    {
+      "type": "GMX Staking API on Arbitrum | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/gmx-api/"
+    },
+    {
+      "type": "Arbitrum Transactions API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Blocks_Transactions/"
+    },
+    {
+      "type": "Optimism DEX Trades API: Every Swap on Optimism, Pairs, Traders and Prices",
+      "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-dextrades/"
+    },
+    {
+      "type": "Ethereum Blocks API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/blocks/blocks-api/"
+    },
+    {
+      "type": "Optimism Uniswap v4 API: Pools by PoolId, Swaps, Traders and Reserves",
+      "url": "https://docs.bitquery.io/docs/blockchain/Optimism/uniswap-v4-api/"
+    },
+    {
+      "type": "SmartContract Calls API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract/"
+    },
+    {
+      "type": "Polygon Transfers API: Token and POL Transfers, Whale Alerts, Backfills",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-transfers/"
+    },
+    {
+      "type": "Bitcoin API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/"
+    },
+    {
+      "type": "Get Supply and Marketcap of a Token | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/total-supply/"
+    },
+    {
+      "type": "Ethereum Fees API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/fees/fees-api/"
+    },
+    {
+      "type": "Cardano Djed Stablecoin API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Cardano/djed/"
+    },
+    {
+      "type": "BNB Chain Transfers API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-transfers/"
+    },
+    {
+      "type": "Arbitrum Address Balance API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-balance-api/"
+    },
+    {
+      "type": "BNB Chain Slippage API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-slippage-api/"
+    },
+    {
+      "type": "Base Clanker API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-clanker-api/"
+    },
+    {
+      "type": "Polygon (Matic) Token Market Cap API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-token-marketcap-api/"
+    },
+    {
+      "type": "Lighter Perp DEX on Robinhood Chain API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/robinhood/lighter-perp-dex-api/"
+    },
+    {
+      "type": "Ethereum Transaction Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-transaction-balance-tracker/"
+    },
+    {
+      "type": "Ethereum NFT Calls API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-calls-api/"
+    },
+    {
+      "type": "Getting Latest Pairs | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/latest-trading-pairs-api/"
+    },
+    {
+      "type": "Pair Creation Time API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pair-creation-time/"
+    },
+    {
+      "type": "Ethereum Transaction Balance Tracker API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/"
+    },
+    {
+      "type": "Solana Fee Anatomy - Base, Priority and Jito Tips",
+      "url": "https://docs.bitquery.io/docs/blockchain/Solana/solana-fee-anatomy/"
+    },
+    {
+      "type": "Ethereum NFT Balance API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/nft-balance-api/"
+    },
+    {
+      "type": "Ethereum Smartcontract Filterby | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract-filterby/"
+    },
+    {
+      "type": "Ethereum Mempool API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/mempool/mempool-api/"
+    },
+    {
+      "type": "Ethereum MEV Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-mev-balance-tracker/"
+    },
+    {
+      "type": "Ethereum Miner Balance Tracker: Block Producer Income After the Merge",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-miner-balance-tracker/"
+    },
+    {
+      "type": "Arbitrum Slippage API: How Much a Pool Can Absorb at Each Slippage Level",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-slippage-api/"
+    },
+    {
+      "type": "Ethereum Eth Gasprice | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_gasPrice/"
+    },
+    {
+      "type": "debug_traceTransaction | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceTransaction/"
+    },
+    {
+      "type": "Ethereum Fluid DEX API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/fluid-dex-api/"
+    },
+    {
+      "type": "Ethereum NFT Metadata API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-metadata-api/"
+    },
+    {
+      "type": "Base MEV Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-mev-balance-tracker/"
+    },
+    {
+      "type": "Ethereum Gas Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-gas-balance-tracker/"
+    },
+    {
+      "type": "Ethereum Validator Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-validator-balance-tracker/"
+    },
+    {
+      "type": "BNB Chain Uniswap API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-uniswap-api/"
+    },
+    {
+      "type": "Crypto Coin Ticker API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/crypto-coin-ticker/"
+    },
+    {
+      "type": "eth_getTransactionReceipt | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionReceipt/"
+    },
+    {
+      "type": "Ethereum Eth Subscribe | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_subscribe/"
+    },
+    {
+      "type": "Ethereum Eth Getcode | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getCode/"
+    },
+    {
+      "type": "eth_getBlockReceipts | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getBlockReceipts/"
+    },
+    {
+      "type": "Ethereum Eth Getbalance API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth-getbalance/"
+    },
+    {
+      "type": "Arbitrum Liquidity API: Pool Reserves and Liquidity Changes in Real Time",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-liquidity-api/"
+    },
+    {
+      "type": "Base Address Balance API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/base-balance-updates/"
+    },
+    {
+      "type": "Ethereum NFT Collection API: Token List, Holders and Transfers",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-collection-api/"
+    },
+    {
+      "type": "Arbitrum API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/"
+    },
+    {
+      "type": "Base Transfer Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transfer-balance-tracker/"
+    },
+    {
+      "type": "Balances API Documentation | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/"
+    },
+    {
+      "type": "Ethereum Token Balance API: ERC-20 Balances, Supply and Market Cap",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/token-balance-api/"
+    },
+    {
+      "type": "Solana Raydium Cpmm API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Solana/raydium-cpmm-API/"
+    },
+    {
+      "type": "Ethereum NFT Ownership API | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-ownership-api/"
+    },
+    {
+      "type": "BSC MEV Balance Tracker: Priority Fees and Block Producer Income",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-mev-balance-tracker/"
+    },
+    {
+      "type": "BSC Gas Balance Tracker: Gas Bought, Refunded and Collected on BNB Chain",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-gas-balance-tracker/"
+    },
+    {
+      "type": "Pump.fun to PumpSwap API - Token Migration Tracking",
+      "url": "https://docs.bitquery.io/docs/blockchain/Solana/Pumpfun/pump-fun-to-pump-swap/"
+    },
+    {
+      "type": "BSC Validator Balance Tracker | Bitquery Docs",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-validator-balance-tracker/"
+    },
+    {
+      "type": "BNB Chain Uniswap v4 API: Stablecoin Pools, Swaps, Traders and Reserves",
+      "url": "https://docs.bitquery.io/docs/blockchain/BSC/uniswap-v4-api/"
+    },
+    {
+      "type": "Get the Latest Block Number with Bitquery Instead of eth_blockNumber",
+      "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_blockNumber/"
+    },
+    {
+      "type": "Base Self-Destruct Balance Tracker: Why Base Shows None, and What to Watch",
+      "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-self-destruct-balance-api/"
+    }
+  ],
+  "latestVersion": "23b20e7f8e211cfa20f9f51ff01f5ed82d2c8b49dede9875a36aa52bae07a85d",
+  "versions": [
+    {
+      "version": "23b20e7f8e211cfa20f9f51ff01f5ed82d2c8b49dede9875a36aa52bae07a85d",
+      "label": "latest",
+      "timestamp": "2026-09-10T18:53:11.427Z",
+      "filename": "documentation_2026-09-10T18:53:11.427Z.md",
+      "totalPages": 180,
+      "successfulPages": 152,
+      "url": "https://docs.bitquery.io/docs/blockchain/robinhood/pons-api",
+      "snapshotId": "23b20e7f8e211cfa20f9f51ff01f5ed82d2c8b49dede9875a36aa52bae07a85d",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/pons-api",
+      "canonicalSeedUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/pons-api",
+      "configuration": {
+        "url": "https://docs.bitquery.io/docs/blockchain/robinhood/pons-api",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "includePaths": [
+          "/docs/*"
+        ],
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-10T18:51:42.695Z",
+      "completedAt": "2026-09-10T18:53:11.427Z",
+      "providerTotals": {
+        "discovered": 180,
+        "returned": 152,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 180,
+        "returned": 152,
+        "valid": 152,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.bitquery.io/docs/api-comparison/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/api-comparison",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/authorization/how-to-generate/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/authorization/how-to-generate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/authorization/how-to-use/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/authorization/how-to-use",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/authorization/websocket/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/authorization/websocket",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-arguments-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-arguments-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-coinpath-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-coinpath-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-blocks-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-blocks-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-nft/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-nft",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-balance-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/API-Blog/migrate-v1-v2/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/API-Blog/migrate-v1-v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-slippage-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/matic-slippage-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/matic-balance-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-liquidity-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/matic-liquidity-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/uniswap-v4-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/uniswap-v4-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/API-Blog/track-token-lock-unlock/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/API-Blog/track-token-lock-unlock",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/API-Blog/polymarket-api-vs-bitquery-polymarket-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/API-Blog/polymarket-api-vs-bitquery-polymarket-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transfers-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transfers-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transactions-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transactions-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-coinpath-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-coinpath-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-inputs-outputs/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-inputs-outputs",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-miner-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-miner-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-nft/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-nft",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-uniswap-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/matic-uniswap-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/esgmx-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/esgmx-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-nft/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-nft",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-address-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-address-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/API-Blog/use-regular-expressions-to-search-solana-logs/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/API-Blog/use-regular-expressions-to-search-solana-logs",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/rwa-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/rwa-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transactions/transaction-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/transactions/transaction-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/authorization/usage-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/authorization/usage-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/contract-creation/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/contract-creation",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/balance-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/ico-token-ownership-transfer/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/ico-token-ownership-transfer",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/nft-token-transfer-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/nft-token-transfer-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-jump-base-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-jump-base-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-events-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-events-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-calls-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-calls-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/robinhood",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-supply/evm-token-supply/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-supply/evm-token-supply",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/apestore-base-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/apestore-base-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getLogs/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getLogs",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/API-Blog/what-are-internal-transactions-how-to-get-them/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/API-Blog/what-are-internal-transactions-how-to-get-them",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-transactions-receipts-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-transactions-receipts-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-token-marketcap-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-token-marketcap-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-transfers/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-transfers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-transfer-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-transfer-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pancakeswap-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pancakeswap-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-slippage-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-slippage-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-token-marketcap-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-token-marketcap-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/pepe-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/pepe-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionByHash/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionByHash",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-gas-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-gas-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-token-supply/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-token-supply",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-calls-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-calls-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/trench-today-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/trench-today-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-miner-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-miner-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-coins-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-coins-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceCall/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceCall",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-self-destruct-balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-self-destruct-balance-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-token-marketcap-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-token-marketcap-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/gra-fun-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/gra-fun-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-transaction-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-transaction-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-holders/token-holder-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-holders/token-holder-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transaction-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transaction-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-liquidity-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-liquidity-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/aerodrome-base-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/aerodrome-base-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-v4-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-v4-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-position-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-position-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-mempool-stream/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-mempool-stream",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/coinpath/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano/coinpath",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-nft/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/matic-nft",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/blocks/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano/blocks",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/transactions/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano/transactions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/inputs-outputs/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano/inputs-outputs",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/mints/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano/mints",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/address/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano/address",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-fee-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-fee-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-omni-transactions/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-omni-transactions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-smart-contract-calls-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-smart-contract-calls-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-address-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-address-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-blocks-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-blocks-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-transfers/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-transfers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-transactions-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-transactions-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-cross-chain/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-cross-chain",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Calls/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Calls",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Events/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Events",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Optimism",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-timeboost-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-timeboost-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/gmx-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/gmx-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Blocks_Transactions/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Blocks_Transactions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-dextrades/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-dextrades",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/blocks/blocks-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/blocks/blocks-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/uniswap-v4-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Optimism/uniswap-v4-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-transfers/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/matic-transfers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Bitcoin",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/total-supply/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/total-supply",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/fees/fees-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/fees/fees-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/djed/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Cardano/djed",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-transfers/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-transfers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-balance-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-slippage-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-slippage-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-clanker-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-clanker-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-token-marketcap-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Matic/matic-token-marketcap-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/lighter-perp-dex-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/lighter-perp-dex-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-transaction-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-transaction-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-calls-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-calls-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/latest-trading-pairs-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/latest-trading-pairs-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pair-creation-time/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pair-creation-time",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Solana/solana-fee-anatomy/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Solana/solana-fee-anatomy",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/nft-balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/nft-balance-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract-filterby/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract-filterby",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/mempool/mempool-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/mempool/mempool-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-mev-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-mev-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-miner-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-miner-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-slippage-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-slippage-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_gasPrice/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_gasPrice",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceTransaction/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceTransaction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/fluid-dex-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/fluid-dex-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-metadata-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-metadata-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-mev-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-mev-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-gas-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-gas-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-validator-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-validator-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-uniswap-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-uniswap-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/crypto-coin-ticker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/crypto-coin-ticker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionReceipt/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionReceipt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_subscribe/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_subscribe",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getCode/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getCode",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getBlockReceipts/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getBlockReceipts",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth-getbalance/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth-getbalance",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-liquidity-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-liquidity-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-balance-updates/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/base-balance-updates",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-collection-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-collection-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Arbitrum",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transfer-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transfer-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/token-balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/token-balance-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Solana/raydium-cpmm-API/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Solana/raydium-cpmm-API",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-ownership-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-ownership-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-mev-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-mev-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-gas-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-gas-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Solana/Pumpfun/pump-fun-to-pump-swap/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Solana/Pumpfun/pump-fun-to-pump-swap",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-validator-balance-tracker/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-validator-balance-tracker",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/uniswap-v4-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/BSC/uniswap-v4-api",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_blockNumber/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_blockNumber",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-self-destruct-balance-api/",
+          "canonicalUrl": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-self-destruct-balance-api",
+          "status": "valid"
+        }
+      ],
+      "id": "56fd44db05f99aed4095ceedeb054a420a447693a89e2485a6de77ed242fb1fe"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "23b20e7f8e211cfa20f9f51ff01f5ed82d2c8b49dede9875a36aa52bae07a85d",
+      "filename": "documentation_2026-09-10T18:53:11.427Z.md",
+      "contentHash": "158bb490e8845d979826fd2b71f83dfdf068cc54be8f3569e16ab117f9604aea",
+      "sourceUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/pons-api",
+      "canonicalSourceUrl": "https://docs.bitquery.io/docs/blockchain/robinhood/pons-api",
+      "capturedAt": "2026-09-10T18:53:11.427Z",
+      "crawlRunId": "56fd44db05f99aed4095ceedeb054a420a447693a89e2485a6de77ed242fb1fe",
+      "totalPages": 180,
+      "successfulPages": 152,
+      "structure": [
+        {
+          "type": "Bitquery API Product Comparison | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/api-comparison/"
+        },
+        {
+          "type": "Generate a Bitquery API Token | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/authorization/how-to-generate/"
+        },
+        {
+          "type": "How to Use Bitquery API Token - Authorization Examples",
+          "url": "https://docs.bitquery.io/docs/authorization/how-to-use/"
+        },
+        {
+          "type": "Authenticate Bitquery WebSockets | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/authorization/websocket/"
+        },
+        {
+          "type": "Algorand Arguments API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-arguments-api/"
+        },
+        {
+          "type": "Algorand Coinpath API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-coinpath-api/"
+        },
+        {
+          "type": "Algorand Blocks API - Query Blocks by Proposer",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-blocks-api/"
+        },
+        {
+          "type": "Algorand API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/"
+        },
+        {
+          "type": "Optimism NFT API: ERC-721 Transfers, Collections and Owners",
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-nft/"
+        },
+        {
+          "type": "Optimism Address Balance API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-balance-api/"
+        },
+        {
+          "type": "Migrate from Bitquery API v1 to v2 | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/API-Blog/migrate-v1-v2/"
+        },
+        {
+          "type": "Polygon (MATIC) API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/"
+        },
+        {
+          "type": "Polygon Matic Slippage API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-slippage-api/"
+        },
+        {
+          "type": "Polygon (MATIC) Address Balance API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-balance-api/"
+        },
+        {
+          "type": "Polygon Matic Liquidity API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-liquidity-api/"
+        },
+        {
+          "type": "Polygon Uniswap V4 API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/uniswap-v4-api/"
+        },
+        {
+          "type": "Track Token Lock Unlock | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/API-Blog/track-token-lock-unlock/"
+        },
+        {
+          "type": "Polymarket API Vs Bitquery Polymarket | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/API-Blog/polymarket-api-vs-bitquery-polymarket-api/"
+        },
+        {
+          "type": "Algorand Transfers API - Track ALGO & ASA Token Transfers",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transfers-api/"
+        },
+        {
+          "type": "Algorand Transactions API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-transactions-api/"
+        },
+        {
+          "type": "Bitcoin Coinpath API - Trace BTC Fund Flows Across Addresses",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-coinpath-api/"
+        },
+        {
+          "type": "Bitcoin Inputs Outputs | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-inputs-outputs/"
+        },
+        {
+          "type": "Base Miner Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-miner-balance-tracker/"
+        },
+        {
+          "type": "BNB Chain NFT API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-nft/"
+        },
+        {
+          "type": "Polygon Matic Uniswap API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-uniswap-api/"
+        },
+        {
+          "type": "esGMX (Escrowed) and vGLP (Vested) API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/esgmx-api/"
+        },
+        {
+          "type": "Base NFT Trades and Metadata API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-nft/"
+        },
+        {
+          "type": "Bitcoin Address API - Get BTC Balance | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-address-api/"
+        },
+        {
+          "type": "Use Regular Expressions To Search Solana Logs",
+          "url": "https://docs.bitquery.io/docs/API-Blog/use-regular-expressions-to-search-solana-logs/"
+        },
+        {
+          "type": "RWA (Real World Assets) API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/rwa-api/"
+        },
+        {
+          "type": "Token Transaction API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transactions/transaction-api/"
+        },
+        {
+          "type": "Usage API - Track Billing and Quota Programmatically",
+          "url": "https://docs.bitquery.io/docs/authorization/usage-api/"
+        },
+        {
+          "type": "Smart Contract Creation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/contract-creation/"
+        },
+        {
+          "type": "Ethereum Balance API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/balance-api/"
+        },
+        {
+          "type": "Analyze a Token ICO with the Transfers API: Mint, Distributor, Investors",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/ico-token-ownership-transfer/"
+        },
+        {
+          "type": "NFT Token Transfers API: ERC-721 and ERC-1155 Transfers on Ethereum",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/nft-token-transfer-api/"
+        },
+        {
+          "type": "Base Jump API: Trace a Launchpad Token on Base from Mint to First Trades",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-jump-base-api/"
+        },
+        {
+          "type": "BSC Smart Contract Events API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-events-api/"
+        },
+        {
+          "type": "BSC Smart Contract Calls API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-calls-api/"
+        },
+        {
+          "type": "Robinhood Chain API: Trades, Pons Launchpad and Real-Time Streams",
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/"
+        },
+        {
+          "type": "EVM Token Supply API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-supply/evm-token-supply/"
+        },
+        {
+          "type": "APE Store API - Base Chain Token Trades & Transaction Data",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/apestore-base-api/"
+        },
+        {
+          "type": "Ethereum Eth Getlogs | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getLogs/"
+        },
+        {
+          "type": "What are Internal Transactions & How to Get Them?",
+          "url": "https://docs.bitquery.io/docs/API-Blog/what-are-internal-transactions-how-to-get-them/"
+        },
+        {
+          "type": "Robinhood Transactions & Receipts API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-transactions-receipts-api/"
+        },
+        {
+          "type": "Arbitrum Token Market Cap API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-token-marketcap-api/"
+        },
+        {
+          "type": "Base Chain Token Transfers API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-transfers/"
+        },
+        {
+          "type": "Ethereum NFT API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-api/"
+        },
+        {
+          "type": "Ethereum NFT Transfer API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-transfer-api/"
+        },
+        {
+          "type": "Ethereum Pancakeswap API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pancakeswap-api/"
+        },
+        {
+          "type": "Base Slippage API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-slippage-api/"
+        },
+        {
+          "type": "BSC Token Market Cap API: Market Cap, FDV and Supply of BNB Chain Tokens",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-token-marketcap-api/"
+        },
+        {
+          "type": "Ethereum Pepe API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/pepe-api/"
+        },
+        {
+          "type": "eth_getTransactionByHash | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionByHash/"
+        },
+        {
+          "type": "Base Gas Balance Tracker: Fees Paid by Senders and Collected by Vaults",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-gas-balance-tracker/"
+        },
+        {
+          "type": "Robinhood Token Supply API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-token-supply/"
+        },
+        {
+          "type": "Robinhood Calls & Traces API — WebSocket Streams",
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/robinhood-calls-api/"
+        },
+        {
+          "type": "trench.today API on Robinhood | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/trench-today-api/"
+        },
+        {
+          "type": "BSC Miner Balance Tracker: Block Producer Rewards on BNB Chain",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-miner-balance-tracker/"
+        },
+        {
+          "type": "Base Network Coins API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-coins-api/"
+        },
+        {
+          "type": "debug_traceCall with Bitquery: Trace Internal Calls Without a Node",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceCall/"
+        },
+        {
+          "type": "Ethereum Self-Destruct Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-self-destruct-balance-api/"
+        },
+        {
+          "type": "Base Token Market Cap API: Market Cap, FDV and Supply for Tokens on Base",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-token-marketcap-api/"
+        },
+        {
+          "type": "BNB Chain Gra Fun API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/gra-fun-api/"
+        },
+        {
+          "type": "Base API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/"
+        },
+        {
+          "type": "BSC Transaction Balance Tracker: Balances Before and After a Transaction",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-transaction-balance-tracker/"
+        },
+        {
+          "type": "Ethereum Token Holder API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/token-holders/token-holder-api/"
+        },
+        {
+          "type": "Base Transaction Balance Tracker: Balances Before and After a Transaction",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transaction-balance-tracker/"
+        },
+        {
+          "type": "Base Liquidity API: Uniswap and PancakeSwap Pool Reserves in Real Time",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-liquidity-api/"
+        },
+        {
+          "type": "Aerodrome Finance API — Base DEX Trades & Liquidity",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/aerodrome-base-api/"
+        },
+        {
+          "type": "Ethereum Uniswap v4 API: Swaps, PoolIds, Pool Stats, Traders and Reserves",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-v4-api/"
+        },
+        {
+          "type": "Uniswap V3 Position API: Mints, Burns, Liquidity Changes and Fee Collections",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/uniswap-position-api/"
+        },
+        {
+          "type": "BSC Mempool Stream - Real-Time Transaction Monitoring",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-mempool-stream/"
+        },
+        {
+          "type": "Cardano Coinpath API - Trace ADA Flows Across Multiple Hops",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/coinpath/"
+        },
+        {
+          "type": "Polygon (MATIC) NFT API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-nft/"
+        },
+        {
+          "type": "Cardano Blocks API - Query Blocks by Height, Slot & Epoch",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/blocks/"
+        },
+        {
+          "type": "Cardano Transactions API - Fees, Inputs, Outputs & Mints",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/transactions/"
+        },
+        {
+          "type": "Cardano Inputs and Outputs API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/inputs-outputs/"
+        },
+        {
+          "type": "Cardano Mints API - Track Native Token Mints | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/mints/"
+        },
+        {
+          "type": "Cardano Address API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/address/"
+        },
+        {
+          "type": "Bitcoin Fee API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-fee-api/"
+        },
+        {
+          "type": "Bitcoin Omni Transactions | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-omni-transactions/"
+        },
+        {
+          "type": "Algorand Smart Contract Calls API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-smart-contract-calls-api/"
+        },
+        {
+          "type": "Algorand Address API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Algorand/algorand-address-api/"
+        },
+        {
+          "type": "Bitcoin Blocks API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-blocks-api/"
+        },
+        {
+          "type": "Optimism Transfers API: Token and ETH Transfers, Whale Alerts, Backfills",
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-transfers/"
+        },
+        {
+          "type": "Bitcoin Transactions API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/bitcoin-transactions-api/"
+        },
+        {
+          "type": "Arbitrum Cross Chain API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-cross-chain/"
+        },
+        {
+          "type": "Arbitrum Smart Contract Calls API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Calls/"
+        },
+        {
+          "type": "Arbitrum Smart Contract Events API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Smart_Contract_Events/"
+        },
+        {
+          "type": "Optimism API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/"
+        },
+        {
+          "type": "Arbitrum TimeBoost API & Streams | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-timeboost-api/"
+        },
+        {
+          "type": "Cardano API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/"
+        },
+        {
+          "type": "GMX Staking API on Arbitrum | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/gmx-api/"
+        },
+        {
+          "type": "Arbitrum Transactions API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/Blocks_Transactions/"
+        },
+        {
+          "type": "Optimism DEX Trades API: Every Swap on Optimism, Pairs, Traders and Prices",
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/optimism-dextrades/"
+        },
+        {
+          "type": "Ethereum Blocks API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/blocks/blocks-api/"
+        },
+        {
+          "type": "Optimism Uniswap v4 API: Pools by PoolId, Swaps, Traders and Reserves",
+          "url": "https://docs.bitquery.io/docs/blockchain/Optimism/uniswap-v4-api/"
+        },
+        {
+          "type": "SmartContract Calls API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract/"
+        },
+        {
+          "type": "Polygon Transfers API: Token and POL Transfers, Whale Alerts, Backfills",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-transfers/"
+        },
+        {
+          "type": "Bitcoin API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Bitcoin/"
+        },
+        {
+          "type": "Get Supply and Marketcap of a Token | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/transfers/total-supply/"
+        },
+        {
+          "type": "Ethereum Fees API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/fees/fees-api/"
+        },
+        {
+          "type": "Cardano Djed Stablecoin API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Cardano/djed/"
+        },
+        {
+          "type": "BNB Chain Transfers API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-transfers/"
+        },
+        {
+          "type": "Arbitrum Address Balance API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-balance-api/"
+        },
+        {
+          "type": "BNB Chain Slippage API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-slippage-api/"
+        },
+        {
+          "type": "Base Clanker API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-clanker-api/"
+        },
+        {
+          "type": "Polygon (Matic) Token Market Cap API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Matic/matic-token-marketcap-api/"
+        },
+        {
+          "type": "Lighter Perp DEX on Robinhood Chain API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/robinhood/lighter-perp-dex-api/"
+        },
+        {
+          "type": "Ethereum Transaction Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-transaction-balance-tracker/"
+        },
+        {
+          "type": "Ethereum NFT Calls API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-calls-api/"
+        },
+        {
+          "type": "Getting Latest Pairs | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/latest-trading-pairs-api/"
+        },
+        {
+          "type": "Pair Creation Time API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/pair-creation-time/"
+        },
+        {
+          "type": "Ethereum Transaction Balance Tracker API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/"
+        },
+        {
+          "type": "Solana Fee Anatomy - Base, Priority and Jito Tips",
+          "url": "https://docs.bitquery.io/docs/blockchain/Solana/solana-fee-anatomy/"
+        },
+        {
+          "type": "Ethereum NFT Balance API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/nft-balance-api/"
+        },
+        {
+          "type": "Ethereum Smartcontract Filterby | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/calls/smartcontract-filterby/"
+        },
+        {
+          "type": "Ethereum Mempool API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/mempool/mempool-api/"
+        },
+        {
+          "type": "Ethereum MEV Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-mev-balance-tracker/"
+        },
+        {
+          "type": "Ethereum Miner Balance Tracker: Block Producer Income After the Merge",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-miner-balance-tracker/"
+        },
+        {
+          "type": "Arbitrum Slippage API: How Much a Pool Can Absorb at Each Slippage Level",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-slippage-api/"
+        },
+        {
+          "type": "Ethereum Eth Gasprice | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_gasPrice/"
+        },
+        {
+          "type": "debug_traceTransaction | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/debug_traceTransaction/"
+        },
+        {
+          "type": "Ethereum Fluid DEX API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/fluid-dex-api/"
+        },
+        {
+          "type": "Ethereum NFT Metadata API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-metadata-api/"
+        },
+        {
+          "type": "Base MEV Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-mev-balance-tracker/"
+        },
+        {
+          "type": "Ethereum Gas Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-gas-balance-tracker/"
+        },
+        {
+          "type": "Ethereum Validator Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/eth-validator-balance-tracker/"
+        },
+        {
+          "type": "BNB Chain Uniswap API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/bsc-uniswap-api/"
+        },
+        {
+          "type": "Crypto Coin Ticker API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/dextrades/crypto-coin-ticker/"
+        },
+        {
+          "type": "eth_getTransactionReceipt | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getTransactionReceipt/"
+        },
+        {
+          "type": "Ethereum Eth Subscribe | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_subscribe/"
+        },
+        {
+          "type": "Ethereum Eth Getcode | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getCode/"
+        },
+        {
+          "type": "eth_getBlockReceipts | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_getBlockReceipts/"
+        },
+        {
+          "type": "Ethereum Eth Getbalance API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth-getbalance/"
+        },
+        {
+          "type": "Arbitrum Liquidity API: Pool Reserves and Liquidity Changes in Real Time",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/arbitrum-liquidity-api/"
+        },
+        {
+          "type": "Base Address Balance API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/base-balance-updates/"
+        },
+        {
+          "type": "Ethereum NFT Collection API: Token List, Holders and Transfers",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-collection-api/"
+        },
+        {
+          "type": "Arbitrum API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Arbitrum/"
+        },
+        {
+          "type": "Base Transfer Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-transfer-balance-tracker/"
+        },
+        {
+          "type": "Balances API Documentation | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/"
+        },
+        {
+          "type": "Ethereum Token Balance API: ERC-20 Balances, Supply and Market Cap",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/token-balance-api/"
+        },
+        {
+          "type": "Solana Raydium Cpmm API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Solana/raydium-cpmm-API/"
+        },
+        {
+          "type": "Ethereum NFT Ownership API | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/nft/nft-ownership-api/"
+        },
+        {
+          "type": "BSC MEV Balance Tracker: Priority Fees and Block Producer Income",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-mev-balance-tracker/"
+        },
+        {
+          "type": "BSC Gas Balance Tracker: Gas Bought, Refunded and Collected on BNB Chain",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-gas-balance-tracker/"
+        },
+        {
+          "type": "Pump.fun to PumpSwap API - Token Migration Tracking",
+          "url": "https://docs.bitquery.io/docs/blockchain/Solana/Pumpfun/pump-fun-to-pump-swap/"
+        },
+        {
+          "type": "BSC Validator Balance Tracker | Bitquery Docs",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/transaction-balance-tracker/bsc-validator-balance-tracker/"
+        },
+        {
+          "type": "BNB Chain Uniswap v4 API: Stablecoin Pools, Swaps, Traders and Reserves",
+          "url": "https://docs.bitquery.io/docs/blockchain/BSC/uniswap-v4-api/"
+        },
+        {
+          "type": "Get the Latest Block Number with Bitquery Instead of eth_blockNumber",
+          "url": "https://docs.bitquery.io/docs/blockchain/Ethereum/ethers-library/eth_blockNumber/"
+        },
+        {
+          "type": "Base Self-Destruct Balance Tracker: Why Base Shows None, and What to Watch",
+          "url": "https://docs.bitquery.io/docs/blockchain/Base/transaction-balance-tracker/base-self-destruct-balance-api/"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    }
+  ],
+  "currentSnapshotId": "23b20e7f8e211cfa20f9f51ff01f5ed82d2c8b49dede9875a36aa52bae07a85d"
+}

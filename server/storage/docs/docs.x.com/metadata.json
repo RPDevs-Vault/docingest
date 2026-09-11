@@ -1,342 +1,438 @@
 {
   "url": "https://docs.x.com/overview",
   "domain": "docs.x.com",
-  "lastScraped": "2026-09-09T18:49:45.015Z",
-  "totalPages": 250,
-  "successfulPages": 97,
+  "lastScraped": "2026-09-10T10:43:21.599Z",
+  "totalPages": 114,
+  "successfulPages": 114,
   "failedPages": [],
   "structure": [
     {
-      "type": "X API - X",
-      "url": "https://docs.x.com/x-api/"
+      "type": "X Developer Platform - X",
+      "url": "https://docs.x.com/overview"
     },
     {
       "type": "AGENT - X",
       "url": "https://docs.x.com/AGENT"
     },
     {
-      "type": "AGENTS - X",
-      "url": "https://docs.x.com/AGENTS"
+      "type": "Python XDK - X",
+      "url": "https://docs.x.com/xdks/python/overview"
     },
     {
-      "type": "Developer Guidelines - X",
-      "url": "https://docs.x.com/developer-guidelines"
+      "type": "Usage.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.usage.models"
     },
     {
-      "type": "Policies and agreements - X",
-      "url": "https://docs.x.com/developer-terms"
+      "type": "Quickstart - X",
+      "url": "https://docs.x.com/xdks/python/quickstart"
     },
     {
-      "type": "X API changelog and release notes - X",
-      "url": "https://docs.x.com/changelog"
+      "type": "Account_activity.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity.models"
     },
     {
-      "type": "Currency - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/currency"
+      "type": "Communities.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.communities.models"
     },
     {
-      "type": "Sandbox - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/sandbox"
+      "type": "ConnectionsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.connections.client"
     },
     {
-      "type": "X Developer Agreement - X",
-      "url": "https://docs.x.com/developer-terms/agreement"
+      "type": "Connections.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.connections.models"
     },
     {
-      "type": "Tools and libraries - X",
-      "url": "https://docs.x.com/x-ads-api/tools-and-libraries"
+      "type": "General.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.general.models"
     },
     {
-      "type": "Introduction - X",
-      "url": "https://docs.x.com/x-ads-api/introduction"
+      "type": "Trends.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.trends.models"
+    },
+    {
+      "type": "Install - X",
+      "url": "https://docs.x.com/xdks/python/install"
     },
     {
       "type": "Pagination - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/pagination"
+      "url": "https://docs.x.com/xdks/python/pagination"
     },
     {
-      "type": "Timezones - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/timezones"
+      "type": "Activity.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.activity.models"
     },
     {
-      "type": "Versions - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/versioning"
+      "type": "Compliance.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.compliance.models"
     },
     {
-      "type": "X Ads MCP API Reference - X",
-      "url": "https://docs.x.com/x-ads-api/mcp/reference"
+      "type": "Lists.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.lists.models"
     },
     {
-      "type": "Download Chat Media - X",
-      "url": "https://docs.x.com/x-api/chat/download-chat-media"
+      "type": "News.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.news.models"
     },
     {
-      "type": "Error codes and responses - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/error-codes-and-responses"
+      "type": "UsageClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.usage.client"
     },
     {
-      "type": "Increasing access - X",
-      "url": "https://docs.x.com/x-ads-api/getting-started/increasing-access"
+      "type": "Installation - X",
+      "url": "https://docs.x.com/xdks/typescript/install"
     },
     {
-      "type": "Rate limiting - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/rate-limiting"
+      "type": "Community_notes.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes.models"
+    },
+    {
+      "type": "Direct_messages.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.direct_messages.models"
+    },
+    {
+      "type": "GeneralClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.general.client"
+    },
+    {
+      "type": "paginator - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.paginator"
+    },
+    {
+      "type": "Spaces.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.spaces.models"
+    },
+    {
+      "type": "TrendsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.trends.client"
+    },
+    {
+      "type": "HttpClientRequestOptions - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpClientRequestOptions"
+    },
+    {
+      "type": "Send encrypted direct messages with the X Chat API - X",
+      "url": "https://docs.x.com/xchat/introduction"
+    },
+    {
+      "type": "GeneralClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.general"
+    },
+    {
+      "type": "UsageClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.usage"
+    },
+    {
+      "type": "Webhooks.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks.models"
+    },
+    {
+      "type": "CommunitiesClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.communities.client"
+    },
+    {
+      "type": "ComplianceClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.compliance.client"
+    },
+    {
+      "type": "NewsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.news.client"
+    },
+    {
+      "type": "AccountActivityClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity.client"
+    },
+    {
+      "type": "Authentication - X",
+      "url": "https://docs.x.com/xdks/python/authentication"
+    },
+    {
+      "type": "ActivityClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.activity.client"
+    },
+    {
+      "type": "Media.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.media.models"
+    },
+    {
+      "type": "Posts.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.posts.models"
+    },
+    {
+      "type": "HttpResponse - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpResponse"
+    },
+    {
+      "type": "CommunitiesClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.communities"
+    },
+    {
+      "type": "ConnectionsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.connections"
+    },
+    {
+      "type": "NewsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.news"
+    },
+    {
+      "type": "Stream.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.stream.models"
+    },
+    {
+      "type": "Client - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.client"
+    },
+    {
+      "type": "WebhooksClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks.client"
+    },
+    {
+      "type": "Streaming - X",
+      "url": "https://docs.x.com/xdks/python/streaming"
+    },
+    {
+      "type": "ComplianceClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.compliance"
+    },
+    {
+      "type": "CommunityNotesClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes.client"
+    },
+    {
+      "type": "Users.Models - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.users.models"
+    },
+    {
+      "type": "GeneralClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/GeneralClient"
+    },
+    {
+      "type": "ClientConfig - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/interfaces/ClientConfig"
+    },
+    {
+      "type": "Manage bot accounts with the Chat API - X",
+      "url": "https://docs.x.com/xchat/bots"
+    },
+    {
+      "type": "Best practices for handling X Chat private keys and PINs - X",
+      "url": "https://docs.x.com/xchat/handling-private-keys"
+    },
+    {
+      "type": "AccountActivityClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity"
+    },
+    {
+      "type": "TrendsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.trends"
+    },
+    {
+      "type": "oauth1_auth - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.oauth1_auth"
+    },
+    {
+      "type": "OAuth2PKCEAuth - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.oauth2_auth"
+    },
+    {
+      "type": "ActivityClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.activity"
+    },
+    {
+      "type": "UsageClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/UsageClient"
+    },
+    {
+      "type": "CommunityNotesClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes"
+    },
+    {
+      "type": "WebhooksClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks"
+    },
+    {
+      "type": "How X Chat keeps your messages secure - X",
+      "url": "https://docs.x.com/xchat/cryptography-primer"
+    },
+    {
+      "type": "NewsClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/NewsClient"
+    },
+    {
+      "type": "TypeScript XDK - X",
+      "url": "https://docs.x.com/xdks/typescript/overview"
+    },
+    {
+      "type": "MediaClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.media.client"
+    },
+    {
+      "type": "SpacesClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.spaces.client"
+    },
+    {
+      "type": "Build X Chat UI apps with WASM so private keys never leave the browser - X",
+      "url": "https://docs.x.com/xchat/building-ui-apps-with-wasm"
+    },
+    {
+      "type": "ApiError - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/ApiError"
     },
     {
       "type": "Get public keys - X",
-      "url": "https://docs.x.com/x-api/chat/get-user-public-keys"
+      "url": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users"
     },
     {
-      "type": "Catalog Management - X",
-      "url": "https://docs.x.com/x-ads-api/catalog-management"
+      "type": "Pagination - X",
+      "url": "https://docs.x.com/xdks/typescript/pagination"
     },
     {
-      "type": "Making Authenticated Requests - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/making-authenticated-requests"
+      "type": "streaming - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.streaming"
     },
     {
-      "type": "Ads API hierarchy and terminology - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/hierarchy-and-terminology"
+      "type": "MediaClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.media"
     },
     {
-      "type": "Delete Bot - X",
-      "url": "https://docs.x.com/x-api/bots/delete-bot"
+      "type": "ListsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.lists.client"
     },
     {
-      "type": "Rotate Bot Token - X",
-      "url": "https://docs.x.com/x-api/bots/rotate-bot-token"
+      "type": "Create encrypted group conversations in X Chat - X",
+      "url": "https://docs.x.com/xchat/groups"
     },
     {
-      "type": "Accessing Ads accounts - X",
-      "url": "https://docs.x.com/x-ads-api/fundamentals/accessing-ads-accounts"
+      "type": "CommunitiesClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/CommunitiesClient"
     },
     {
-      "type": "Update Bot - X",
-      "url": "https://docs.x.com/x-api/bots/update-bot"
+      "type": "TrendsClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/TrendsClient"
     },
     {
-      "type": "Initialize Chat Media Upload - X",
-      "url": "https://docs.x.com/x-api/chat/initialize-chat-media-upload"
+      "type": "ConnectionsClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/ConnectionsClient"
     },
     {
-      "type": "Add public key - X",
-      "url": "https://docs.x.com/x-api/chat/add-public-key"
+      "type": "Get new X Chat messages as they arrive - X",
+      "url": "https://docs.x.com/xchat/real-time-events"
     },
     {
-      "type": "X Ads MCP - X",
-      "url": "https://docs.x.com/x-ads-api/mcp"
+      "type": "DirectMessagesClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.direct_messages"
     },
     {
-      "type": "Revoke Bot Token - X",
-      "url": "https://docs.x.com/x-api/bots/revoke-bot-token"
+      "type": "HttpClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/HttpClient"
     },
     {
-      "type": "Step-by-step guide - X",
-      "url": "https://docs.x.com/x-ads-api/getting-started/step-by-step-guide"
+      "type": "ComplianceClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/ComplianceClient"
     },
     {
-      "type": "Create a bot - X",
-      "url": "https://docs.x.com/x-api/bots/create-a-bot"
+      "type": "SpacesClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.spaces"
     },
     {
-      "type": "Mobile Conversions - X",
-      "url": "https://docs.x.com/x-ads-api/measurement/mobile-conversions"
+      "type": "ListsClient - X",
+      "url": "https://docs.x.com/xdks/python/reference/xdk.lists"
     },
     {
-      "type": "Append Chat Media Upload - X",
-      "url": "https://docs.x.com/x-api/chat/append-chat-media-upload"
+      "type": "ActivityClient - X",
+      "url": "https://docs.x.com/xdks/typescript/reference/classes/ActivityClient"
     },
     {
-      "type": "Send Typing Indicator - X",
-      "url": "https://docs.x.com/x-api/chat/send-typing-indicator"
+      "type": "Recovery and redundancy - X",
+      "url": "https://docs.x.com/x-api/powerstream/recovery-and-redundancy"
     },
     {
-      "type": "Mark Conversation as Read - X",
-      "url": "https://docs.x.com/x-api/chat/mark-conversation-as-read"
+      "type": "Handling disconnections - X",
+      "url": "https://docs.x.com/x-api/powerstream/handling-disconnections"
     },
     {
-      "type": "Delete Chat messages - X",
-      "url": "https://docs.x.com/x-api/chat/delete-chat-messages"
+      "type": "Volume streams (1% sampled and Decahose) on the X API v2 - X",
+      "url": "https://docs.x.com/x-api/posts/volume-streams/introduction"
     },
     {
-      "type": "Send Chat Message - X",
-      "url": "https://docs.x.com/x-api/chat/send-chat-message"
+      "type": "Powerstream Operators - X",
+      "url": "https://docs.x.com/x-api/powerstream/operators"
     },
     {
-      "type": "Add Conversation Keys - X",
-      "url": "https://docs.x.com/x-api/chat/add-conversation-keys"
+      "type": "Likes Streams - X",
+      "url": "https://docs.x.com/x-api/stream/likes-streams-introduction"
     },
     {
-      "type": "Get Chat Conversation Events - X",
-      "url": "https://docs.x.com/x-api/chat/get-chat-conversation-events"
+      "type": "Filtered Stream Webhooks API - X",
+      "url": "https://docs.x.com/x-api/webhooks/stream/introduction"
     },
     {
-      "type": "Create Chat Group Conversation - X",
-      "url": "https://docs.x.com/x-api/chat/create-chat-group-conversation"
+      "type": "Create stream link - X",
+      "url": "https://docs.x.com/x-api/webhooks/create-stream-link"
     },
     {
-      "type": "Initialize Chat Group - X",
-      "url": "https://docs.x.com/x-api/chat/initialize-chat-group"
+      "type": "Quickstart - X",
+      "url": "https://docs.x.com/x-api/webhooks/stream/quickstart"
     },
     {
-      "type": "Add members to a Chat group conversation - X",
-      "url": "https://docs.x.com/x-api/chat/add-members-to-a-chat-group-conversation"
+      "type": "News lookup endpoint on the X API v2 - X",
+      "url": "https://docs.x.com/x-api/news/introduction"
     },
     {
-      "type": "Get Chat Conversations - X",
-      "url": "https://docs.x.com/x-api/chat/get-chat-conversations"
+      "type": "Media upload endpoints on the X API v2 - X",
+      "url": "https://docs.x.com/x-api/media/introduction"
     },
     {
-      "type": "Delete a Community Note - X",
-      "url": "https://docs.x.com/x-api/community-notes/delete-a-community-note"
+      "type": "Apps - X",
+      "url": "https://docs.x.com/x-api/posts/hide-replies/apps"
     },
     {
-      "type": "Terminate connections by endpoint - X",
-      "url": "https://docs.x.com/x-api/connections/terminate-connections-by-endpoint"
+      "type": "List Posts - X",
+      "url": "https://docs.x.com/x-api/lists/list-tweets/introduction"
     },
     {
-      "type": "Get Connection History - X",
-      "url": "https://docs.x.com/x-api/connections/get-connection-history"
+      "type": "Manage replies by topic - X",
+      "url": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-in-realtime"
     },
     {
-      "type": "Get Communities by ID - X",
-      "url": "https://docs.x.com/x-api/communities/get-community-by-id"
+      "type": "User Search - X",
+      "url": "https://docs.x.com/x-api/users/search/introduction"
     },
     {
-      "type": "Search Communities - X",
-      "url": "https://docs.x.com/x-api/communities/search-communities"
+      "type": "xdk - X",
+      "url": "https://docs.x.com/xdks/python/reference/modules"
     },
     {
-      "type": "Communities Search - X",
-      "url": "https://docs.x.com/x-api/communities/search/introduction"
+      "type": "List Lookup - X",
+      "url": "https://docs.x.com/x-api/lists/list-lookup/introduction"
     },
     {
       "type": "Integration guide - X",
-      "url": "https://docs.x.com/x-api/compliance/batch-compliance/integrate"
+      "url": "https://docs.x.com/x-api/posts/bookmarks/integrate"
     },
     {
-      "type": "Stream Connections - X",
-      "url": "https://docs.x.com/x-api/connections/introduction"
+      "type": "Overview - X",
+      "url": "https://docs.x.com/x-api/posts/counts/integrate/overview"
     },
     {
-      "type": "Evaluate Community Notes - X",
-      "url": "https://docs.x.com/x-api/community-notes/evaluate-a-community-note"
+      "type": "Integration guide - X",
+      "url": "https://docs.x.com/x-api/lists/list-tweets/integrate"
     },
     {
-      "type": "Communities Lookup - X",
-      "url": "https://docs.x.com/x-api/communities/lookup/introduction"
+      "type": "Manage replies by topic - X",
+      "url": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-by-topic"
     },
     {
-      "type": "Get Compliance Job by ID - X",
-      "url": "https://docs.x.com/x-api/compliance/get-compliance-job-by-id"
+      "type": "Pagination - X",
+      "url": "https://docs.x.com/x-api/posts/search/integrate/paginate"
     },
     {
-      "type": "Create DM message by participant ID - X",
-      "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-participant-id"
-    },
-    {
-      "type": "Get Compliance Jobs - X",
-      "url": "https://docs.x.com/x-api/compliance/get-compliance-jobs"
-    },
-    {
-      "type": "Create Compliance Job - X",
-      "url": "https://docs.x.com/x-api/compliance/create-compliance-job"
-    },
-    {
-      "type": "Batch Compliance - X",
-      "url": "https://docs.x.com/x-api/compliance/batch-compliance/introduction"
-    },
-    {
-      "type": "Create DM conversation - X",
-      "url": "https://docs.x.com/x-api/direct-messages/create-dm-conversation"
-    },
-    {
-      "type": "Delete DM event - X",
-      "url": "https://docs.x.com/x-api/direct-messages/delete-dm-event"
-    },
-    {
-      "type": "Search Community Notes Written - X",
-      "url": "https://docs.x.com/x-api/community-notes/search-for-community-notes-written"
-    },
-    {
-      "type": "Manage Direct Message blocks on the X API v2 - X",
-      "url": "https://docs.x.com/x-api/direct-messages/blocks/introduction"
-    },
-    {
-      "type": "Quickstart - X",
-      "url": "https://docs.x.com/x-api/compliance/batch-compliance/quickstart"
-    },
-    {
-      "type": "Terminate multiple connections - X",
-      "url": "https://docs.x.com/x-api/connections/terminate-multiple-connections"
-    },
-    {
-      "type": "Terminate all connections - X",
-      "url": "https://docs.x.com/x-api/connections/terminate-all-connections"
-    },
-    {
-      "type": "Create Community Notes - X",
-      "url": "https://docs.x.com/x-api/community-notes/create-a-community-note"
-    },
-    {
-      "type": "Community Notes API for X API v2 - X",
-      "url": "https://docs.x.com/x-api/community-notes/introduction"
-    },
-    {
-      "type": "Direct Messages Lookup - X",
-      "url": "https://docs.x.com/x-api/direct-messages/lookup/introduction"
-    },
-    {
-      "type": "Create Direct Messages by Conversation ID - X",
-      "url": "https://docs.x.com/x-api/direct-messages/create-dm-message-by-conversation-id"
-    },
-    {
-      "type": "Unmute a user in a broadcast chat - X",
-      "url": "https://docs.x.com/x-api/broadcasts/unmute-a-user-in-a-broadcast-chat"
-    },
-    {
-      "type": "Manage Direct Messages - X",
-      "url": "https://docs.x.com/x-api/direct-messages/manage/introduction"
-    },
-    {
-      "type": "Get Chat Conversation - X",
-      "url": "https://docs.x.com/x-api/chat/get-chat-conversation"
-    },
-    {
-      "type": "Send a chat message to a live broadcast - X",
-      "url": "https://docs.x.com/x-api/broadcasts/send-a-chat-message-to-a-live-broadcast"
-    },
-    {
-      "type": "Integration Guide - X",
-      "url": "https://docs.x.com/x-api/direct-messages/lookup/integrate"
-    },
-    {
-      "type": "Community Notes API quickstart for X API v2 - X",
-      "url": "https://docs.x.com/x-api/community-notes/quickstart"
-    },
-    {
-      "type": "Integration Guide - X",
-      "url": "https://docs.x.com/x-api/direct-messages/manage/integrate"
-    },
-    {
-      "type": "Quickstart - X",
-      "url": "https://docs.x.com/x-api/direct-messages/lookup/quickstart"
-    },
-    {
-      "type": "Compliance event streams on the X API v2 - X",
-      "url": "https://docs.x.com/x-api/compliance/streams/introduction"
+      "type": "Spaces endpoints on the X API v2 - X",
+      "url": "https://docs.x.com/x-api/spaces/introduction"
     },
     {
       "type": "Unknown",
       "url": "https://docs.x.com/skill.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://docs.x.com/AGENTS.md"
-    },
-    {
-      "type": "Unknown",
-      "url": "https://docs.x.com/x-ads-api/llms.txt"
     },
     {
       "type": "Unknown",
@@ -348,65 +444,47 @@
     },
     {
       "type": "Unknown",
+      "url": "https://docs.x.com/x-ads-api/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/xdks/python/llms.txt"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.x.com/AGENTS.md"
+    },
+    {
+      "type": "Unknown",
       "url": "https://docs.x.com/enterprise-api/llms.txt"
     },
     {
       "type": "Unknown",
       "url": "https://docs.x.com/x-api/llms.txt"
-    },
-    {
-      "type": "Pagination - X",
-      "url": "https://docs.x.com/xdks/python/pagination"
-    },
-    {
-      "type": "Quickstart - X",
-      "url": "https://docs.x.com/xdks/python/quickstart"
-    },
-    {
-      "type": "Install - X",
-      "url": "https://docs.x.com/xdks/python/install"
-    },
-    {
-      "type": "Authentication - X",
-      "url": "https://docs.x.com/xdks/python/authentication"
-    },
-    {
-      "type": "Streaming - X",
-      "url": "https://docs.x.com/xdks/typescript/streaming"
-    },
-    {
-      "type": "Authentication - X",
-      "url": "https://docs.x.com/xdks/typescript/authentication"
-    },
-    {
-      "type": "Pagination - X",
-      "url": "https://docs.x.com/xdks/typescript/pagination"
-    },
-    {
-      "type": "Streaming - X",
-      "url": "https://docs.x.com/xdks/python/streaming"
-    },
-    {
-      "type": "Installation - X",
-      "url": "https://docs.x.com/xdks/typescript/install"
-    },
-    {
-      "type": "Get public keys - X",
-      "url": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users"
     }
   ],
-  "latestVersion": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
+  "latestVersion": "a2a2a4c9873330af1303cbadbd6d68e0873de39dd10471a1735c01bf2d737cdc",
   "versions": [
     {
-      "version": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
+      "version": "a2a2a4c9873330af1303cbadbd6d68e0873de39dd10471a1735c01bf2d737cdc",
       "label": "latest",
+      "timestamp": "2026-09-10T10:43:21.599Z",
+      "filename": "documentation_2026-09-10T10:43:21.599Z.md",
+      "totalPages": 114,
+      "successfulPages": 114,
+      "url": "https://docs.x.com/overview",
+      "snapshotId": "a2a2a4c9873330af1303cbadbd6d68e0873de39dd10471a1735c01bf2d737cdc",
+      "isLatest": true
+    },
+    {
+      "version": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
       "timestamp": "2026-09-09T18:49:45.015Z",
       "filename": "documentation_2026-09-09T18:49:45.015Z.md",
       "totalPages": 250,
       "successfulPages": 97,
       "url": "https://docs.x.com/x-api/",
       "snapshotId": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb",
-      "isLatest": true
+      "isLatest": false
     },
     {
       "version": "1.0.1",
@@ -992,6 +1070,621 @@
         }
       ],
       "id": "1d770f1ab875510fce384529269826e7fac8a4589dd6c614fec8dfc089da39f7"
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.x.com/overview",
+      "canonicalSeedUrl": "https://docs.x.com/overview",
+      "configuration": {
+        "url": "https://docs.x.com/overview",
+        "limit": 1000,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-10T10:41:02.683Z",
+      "completedAt": "2026-09-10T10:43:21.599Z",
+      "providerTotals": {
+        "discovered": 114,
+        "returned": 114,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 114,
+        "returned": 114,
+        "valid": 114,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.x.com/overview",
+          "canonicalUrl": "https://docs.x.com/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/AGENT",
+          "canonicalUrl": "https://docs.x.com/AGENT",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/overview",
+          "canonicalUrl": "https://docs.x.com/xdks/python/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.usage.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.usage.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/quickstart",
+          "canonicalUrl": "https://docs.x.com/xdks/python/quickstart",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.account_activity.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.communities.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.communities.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.connections.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.connections.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.connections.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.connections.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.general.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.general.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.trends.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.trends.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/install",
+          "canonicalUrl": "https://docs.x.com/xdks/python/install",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/pagination",
+          "canonicalUrl": "https://docs.x.com/xdks/python/pagination",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.activity.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.activity.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.compliance.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.compliance.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.lists.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.lists.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.news.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.news.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.usage.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.usage.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/install",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/install",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.community_notes.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.direct_messages.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.direct_messages.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.general.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.general.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.paginator",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.paginator",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.spaces.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.spaces.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.trends.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.trends.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpClientRequestOptions",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpClientRequestOptions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xchat/introduction",
+          "canonicalUrl": "https://docs.x.com/xchat/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.general",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.general",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.usage",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.usage",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.webhooks.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.communities.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.communities.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.compliance.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.compliance.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.news.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.news.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.account_activity.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/authentication",
+          "canonicalUrl": "https://docs.x.com/xdks/python/authentication",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.activity.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.activity.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.media.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.media.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.posts.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.posts.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpResponse",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpResponse",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.communities",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.communities",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.connections",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.connections",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.news",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.news",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.stream.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.stream.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.webhooks.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/streaming",
+          "canonicalUrl": "https://docs.x.com/xdks/python/streaming",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.compliance",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.compliance",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.community_notes.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.users.models",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.users.models",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/GeneralClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/GeneralClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/interfaces/ClientConfig",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/interfaces/ClientConfig",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xchat/bots",
+          "canonicalUrl": "https://docs.x.com/xchat/bots",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xchat/handling-private-keys",
+          "canonicalUrl": "https://docs.x.com/xchat/handling-private-keys",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.account_activity",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.trends",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.trends",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.oauth1_auth",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.oauth1_auth",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.oauth2_auth",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.oauth2_auth",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.activity",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.activity",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/UsageClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/UsageClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.community_notes",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.webhooks",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xchat/cryptography-primer",
+          "canonicalUrl": "https://docs.x.com/xchat/cryptography-primer",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/NewsClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/NewsClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/overview",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.media.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.media.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.spaces.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.spaces.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xchat/building-ui-apps-with-wasm",
+          "canonicalUrl": "https://docs.x.com/xchat/building-ui-apps-with-wasm",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ApiError",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/ApiError",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users",
+          "canonicalUrl": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/pagination",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/pagination",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.streaming",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.streaming",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.media",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.media",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.lists.client",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.lists.client",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xchat/groups",
+          "canonicalUrl": "https://docs.x.com/xchat/groups",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/CommunitiesClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/CommunitiesClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/TrendsClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/TrendsClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ConnectionsClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/ConnectionsClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xchat/real-time-events",
+          "canonicalUrl": "https://docs.x.com/xchat/real-time-events",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.direct_messages",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.direct_messages",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/HttpClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/HttpClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ComplianceClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/ComplianceClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.spaces",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.spaces",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/xdk.lists",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/xdk.lists",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ActivityClient",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/reference/classes/ActivityClient",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/powerstream/recovery-and-redundancy",
+          "canonicalUrl": "https://docs.x.com/x-api/powerstream/recovery-and-redundancy",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/powerstream/handling-disconnections",
+          "canonicalUrl": "https://docs.x.com/x-api/powerstream/handling-disconnections",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/posts/volume-streams/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/posts/volume-streams/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/powerstream/operators",
+          "canonicalUrl": "https://docs.x.com/x-api/powerstream/operators",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/stream/likes-streams-introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/stream/likes-streams-introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/webhooks/stream/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/webhooks/stream/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/webhooks/create-stream-link",
+          "canonicalUrl": "https://docs.x.com/x-api/webhooks/create-stream-link",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/webhooks/stream/quickstart",
+          "canonicalUrl": "https://docs.x.com/x-api/webhooks/stream/quickstart",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/news/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/news/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/media/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/media/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/posts/hide-replies/apps",
+          "canonicalUrl": "https://docs.x.com/x-api/posts/hide-replies/apps",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/lists/list-tweets/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/lists/list-tweets/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-in-realtime",
+          "canonicalUrl": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-in-realtime",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/users/search/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/users/search/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/reference/modules",
+          "canonicalUrl": "https://docs.x.com/xdks/python/reference/modules",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/lists/list-lookup/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/lists/list-lookup/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/posts/bookmarks/integrate",
+          "canonicalUrl": "https://docs.x.com/x-api/posts/bookmarks/integrate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/posts/counts/integrate/overview",
+          "canonicalUrl": "https://docs.x.com/x-api/posts/counts/integrate/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/lists/list-tweets/integrate",
+          "canonicalUrl": "https://docs.x.com/x-api/lists/list-tweets/integrate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-by-topic",
+          "canonicalUrl": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-by-topic",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/posts/search/integrate/paginate",
+          "canonicalUrl": "https://docs.x.com/x-api/posts/search/integrate/paginate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/spaces/introduction",
+          "canonicalUrl": "https://docs.x.com/x-api/spaces/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/skill.md",
+          "canonicalUrl": "https://docs.x.com/skill.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/typescript/llms.txt",
+          "canonicalUrl": "https://docs.x.com/xdks/typescript/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/llms.txt",
+          "canonicalUrl": "https://docs.x.com/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-ads-api/llms.txt",
+          "canonicalUrl": "https://docs.x.com/x-ads-api/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/xdks/python/llms.txt",
+          "canonicalUrl": "https://docs.x.com/xdks/python/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/AGENTS.md",
+          "canonicalUrl": "https://docs.x.com/AGENTS.md",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/enterprise-api/llms.txt",
+          "canonicalUrl": "https://docs.x.com/enterprise-api/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.x.com/x-api/llms.txt",
+          "canonicalUrl": "https://docs.x.com/x-api/llms.txt",
+          "status": "valid"
+        }
+      ],
+      "id": "4855905b3f20b78ee3e94f2bde9de9cfaa0d5bba961999bfd1fb7d7b1ddfffa7"
     }
   ],
   "snapshots": [
@@ -1458,7 +2151,480 @@
         "status": "approved",
         "reasons": []
       }
+    },
+    {
+      "id": "a2a2a4c9873330af1303cbadbd6d68e0873de39dd10471a1735c01bf2d737cdc",
+      "filename": "documentation_2026-09-10T10:43:21.599Z.md",
+      "contentHash": "4594c340cb1610e9cd4defa68d31cb59f475082cc5b22d1f4885ed4b883a65ec",
+      "sourceUrl": "https://docs.x.com/overview",
+      "canonicalSourceUrl": "https://docs.x.com/overview",
+      "capturedAt": "2026-09-10T10:43:21.599Z",
+      "crawlRunId": "4855905b3f20b78ee3e94f2bde9de9cfaa0d5bba961999bfd1fb7d7b1ddfffa7",
+      "totalPages": 114,
+      "successfulPages": 114,
+      "structure": [
+        {
+          "type": "X Developer Platform - X",
+          "url": "https://docs.x.com/overview"
+        },
+        {
+          "type": "AGENT - X",
+          "url": "https://docs.x.com/AGENT"
+        },
+        {
+          "type": "Python XDK - X",
+          "url": "https://docs.x.com/xdks/python/overview"
+        },
+        {
+          "type": "Usage.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.usage.models"
+        },
+        {
+          "type": "Quickstart - X",
+          "url": "https://docs.x.com/xdks/python/quickstart"
+        },
+        {
+          "type": "Account_activity.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity.models"
+        },
+        {
+          "type": "Communities.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.communities.models"
+        },
+        {
+          "type": "ConnectionsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.connections.client"
+        },
+        {
+          "type": "Connections.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.connections.models"
+        },
+        {
+          "type": "General.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.general.models"
+        },
+        {
+          "type": "Trends.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.trends.models"
+        },
+        {
+          "type": "Install - X",
+          "url": "https://docs.x.com/xdks/python/install"
+        },
+        {
+          "type": "Pagination - X",
+          "url": "https://docs.x.com/xdks/python/pagination"
+        },
+        {
+          "type": "Activity.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.activity.models"
+        },
+        {
+          "type": "Compliance.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.compliance.models"
+        },
+        {
+          "type": "Lists.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.lists.models"
+        },
+        {
+          "type": "News.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.news.models"
+        },
+        {
+          "type": "UsageClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.usage.client"
+        },
+        {
+          "type": "Installation - X",
+          "url": "https://docs.x.com/xdks/typescript/install"
+        },
+        {
+          "type": "Community_notes.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes.models"
+        },
+        {
+          "type": "Direct_messages.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.direct_messages.models"
+        },
+        {
+          "type": "GeneralClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.general.client"
+        },
+        {
+          "type": "paginator - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.paginator"
+        },
+        {
+          "type": "Spaces.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.spaces.models"
+        },
+        {
+          "type": "TrendsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.trends.client"
+        },
+        {
+          "type": "HttpClientRequestOptions - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpClientRequestOptions"
+        },
+        {
+          "type": "Send encrypted direct messages with the X Chat API - X",
+          "url": "https://docs.x.com/xchat/introduction"
+        },
+        {
+          "type": "GeneralClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.general"
+        },
+        {
+          "type": "UsageClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.usage"
+        },
+        {
+          "type": "Webhooks.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks.models"
+        },
+        {
+          "type": "CommunitiesClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.communities.client"
+        },
+        {
+          "type": "ComplianceClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.compliance.client"
+        },
+        {
+          "type": "NewsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.news.client"
+        },
+        {
+          "type": "AccountActivityClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity.client"
+        },
+        {
+          "type": "Authentication - X",
+          "url": "https://docs.x.com/xdks/python/authentication"
+        },
+        {
+          "type": "ActivityClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.activity.client"
+        },
+        {
+          "type": "Media.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.media.models"
+        },
+        {
+          "type": "Posts.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.posts.models"
+        },
+        {
+          "type": "HttpResponse - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/interfaces/HttpResponse"
+        },
+        {
+          "type": "CommunitiesClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.communities"
+        },
+        {
+          "type": "ConnectionsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.connections"
+        },
+        {
+          "type": "NewsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.news"
+        },
+        {
+          "type": "Stream.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.stream.models"
+        },
+        {
+          "type": "Client - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.client"
+        },
+        {
+          "type": "WebhooksClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks.client"
+        },
+        {
+          "type": "Streaming - X",
+          "url": "https://docs.x.com/xdks/python/streaming"
+        },
+        {
+          "type": "ComplianceClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.compliance"
+        },
+        {
+          "type": "CommunityNotesClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes.client"
+        },
+        {
+          "type": "Users.Models - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.users.models"
+        },
+        {
+          "type": "GeneralClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/GeneralClient"
+        },
+        {
+          "type": "ClientConfig - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/interfaces/ClientConfig"
+        },
+        {
+          "type": "Manage bot accounts with the Chat API - X",
+          "url": "https://docs.x.com/xchat/bots"
+        },
+        {
+          "type": "Best practices for handling X Chat private keys and PINs - X",
+          "url": "https://docs.x.com/xchat/handling-private-keys"
+        },
+        {
+          "type": "AccountActivityClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.account_activity"
+        },
+        {
+          "type": "TrendsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.trends"
+        },
+        {
+          "type": "oauth1_auth - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.oauth1_auth"
+        },
+        {
+          "type": "OAuth2PKCEAuth - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.oauth2_auth"
+        },
+        {
+          "type": "ActivityClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.activity"
+        },
+        {
+          "type": "UsageClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/UsageClient"
+        },
+        {
+          "type": "CommunityNotesClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.community_notes"
+        },
+        {
+          "type": "WebhooksClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.webhooks"
+        },
+        {
+          "type": "How X Chat keeps your messages secure - X",
+          "url": "https://docs.x.com/xchat/cryptography-primer"
+        },
+        {
+          "type": "NewsClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/NewsClient"
+        },
+        {
+          "type": "TypeScript XDK - X",
+          "url": "https://docs.x.com/xdks/typescript/overview"
+        },
+        {
+          "type": "MediaClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.media.client"
+        },
+        {
+          "type": "SpacesClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.spaces.client"
+        },
+        {
+          "type": "Build X Chat UI apps with WASM so private keys never leave the browser - X",
+          "url": "https://docs.x.com/xchat/building-ui-apps-with-wasm"
+        },
+        {
+          "type": "ApiError - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ApiError"
+        },
+        {
+          "type": "Get public keys - X",
+          "url": "https://docs.x.com/x-api/users/get-public-keys-for-multiple-users"
+        },
+        {
+          "type": "Pagination - X",
+          "url": "https://docs.x.com/xdks/typescript/pagination"
+        },
+        {
+          "type": "streaming - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.streaming"
+        },
+        {
+          "type": "MediaClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.media"
+        },
+        {
+          "type": "ListsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.lists.client"
+        },
+        {
+          "type": "Create encrypted group conversations in X Chat - X",
+          "url": "https://docs.x.com/xchat/groups"
+        },
+        {
+          "type": "CommunitiesClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/CommunitiesClient"
+        },
+        {
+          "type": "TrendsClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/TrendsClient"
+        },
+        {
+          "type": "ConnectionsClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ConnectionsClient"
+        },
+        {
+          "type": "Get new X Chat messages as they arrive - X",
+          "url": "https://docs.x.com/xchat/real-time-events"
+        },
+        {
+          "type": "DirectMessagesClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.direct_messages"
+        },
+        {
+          "type": "HttpClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/HttpClient"
+        },
+        {
+          "type": "ComplianceClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ComplianceClient"
+        },
+        {
+          "type": "SpacesClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.spaces"
+        },
+        {
+          "type": "ListsClient - X",
+          "url": "https://docs.x.com/xdks/python/reference/xdk.lists"
+        },
+        {
+          "type": "ActivityClient - X",
+          "url": "https://docs.x.com/xdks/typescript/reference/classes/ActivityClient"
+        },
+        {
+          "type": "Recovery and redundancy - X",
+          "url": "https://docs.x.com/x-api/powerstream/recovery-and-redundancy"
+        },
+        {
+          "type": "Handling disconnections - X",
+          "url": "https://docs.x.com/x-api/powerstream/handling-disconnections"
+        },
+        {
+          "type": "Volume streams (1% sampled and Decahose) on the X API v2 - X",
+          "url": "https://docs.x.com/x-api/posts/volume-streams/introduction"
+        },
+        {
+          "type": "Powerstream Operators - X",
+          "url": "https://docs.x.com/x-api/powerstream/operators"
+        },
+        {
+          "type": "Likes Streams - X",
+          "url": "https://docs.x.com/x-api/stream/likes-streams-introduction"
+        },
+        {
+          "type": "Filtered Stream Webhooks API - X",
+          "url": "https://docs.x.com/x-api/webhooks/stream/introduction"
+        },
+        {
+          "type": "Create stream link - X",
+          "url": "https://docs.x.com/x-api/webhooks/create-stream-link"
+        },
+        {
+          "type": "Quickstart - X",
+          "url": "https://docs.x.com/x-api/webhooks/stream/quickstart"
+        },
+        {
+          "type": "News lookup endpoint on the X API v2 - X",
+          "url": "https://docs.x.com/x-api/news/introduction"
+        },
+        {
+          "type": "Media upload endpoints on the X API v2 - X",
+          "url": "https://docs.x.com/x-api/media/introduction"
+        },
+        {
+          "type": "Apps - X",
+          "url": "https://docs.x.com/x-api/posts/hide-replies/apps"
+        },
+        {
+          "type": "List Posts - X",
+          "url": "https://docs.x.com/x-api/lists/list-tweets/introduction"
+        },
+        {
+          "type": "Manage replies by topic - X",
+          "url": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-in-realtime"
+        },
+        {
+          "type": "User Search - X",
+          "url": "https://docs.x.com/x-api/users/search/introduction"
+        },
+        {
+          "type": "xdk - X",
+          "url": "https://docs.x.com/xdks/python/reference/modules"
+        },
+        {
+          "type": "List Lookup - X",
+          "url": "https://docs.x.com/x-api/lists/list-lookup/introduction"
+        },
+        {
+          "type": "Integration guide - X",
+          "url": "https://docs.x.com/x-api/posts/bookmarks/integrate"
+        },
+        {
+          "type": "Overview - X",
+          "url": "https://docs.x.com/x-api/posts/counts/integrate/overview"
+        },
+        {
+          "type": "Integration guide - X",
+          "url": "https://docs.x.com/x-api/lists/list-tweets/integrate"
+        },
+        {
+          "type": "Manage replies by topic - X",
+          "url": "https://docs.x.com/x-api/posts/hide-replies/integrate/manage-replies-by-topic"
+        },
+        {
+          "type": "Pagination - X",
+          "url": "https://docs.x.com/x-api/posts/search/integrate/paginate"
+        },
+        {
+          "type": "Spaces endpoints on the X API v2 - X",
+          "url": "https://docs.x.com/x-api/spaces/introduction"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/skill.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/xdks/typescript/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/x-ads-api/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/xdks/python/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/AGENTS.md"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/enterprise-api/llms.txt"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.x.com/x-api/llms.txt"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
     }
   ],
-  "currentSnapshotId": "e5bb248bad259765669f0c189a8b71f861473c3809f2fafda08a4237fcad0fcb"
+  "currentSnapshotId": "a2a2a4c9873330af1303cbadbd6d68e0873de39dd10471a1735c01bf2d737cdc"
 }

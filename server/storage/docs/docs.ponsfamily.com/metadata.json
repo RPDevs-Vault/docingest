@@ -1,28 +1,46 @@
 {
   "url": "https://docs.ponsfamily.com/",
   "domain": "docs.ponsfamily.com",
-  "lastScraped": "2026-07-23T12:55:43.191Z",
-  "totalPages": 1,
-  "successfulPages": 1,
+  "lastScraped": "2026-09-10T17:35:31.200Z",
+  "totalPages": 3,
+  "successfulPages": 3,
   "failedPages": [],
   "structure": [
     {
+      "type": "pons v2 docs · pons",
+      "url": "https://docs.ponsfamily.com/v2"
+    },
+    {
       "type": "pons docs · pons",
-      "url": "https://docs.ponsfamily.com/"
+      "url": "https://docs.ponsfamily.com"
+    },
+    {
+      "type": "pons docs · pons",
+      "url": "https://docs.ponsfamily.com/docs"
     }
   ],
-  "latestVersion": "4242f31d22c2f8a261be3daef1c80a92dcecb592eac1673ecacc718280e0c3e7",
+  "latestVersion": "c14dd3f21e02751d93b1c8005e29a3f896c16665a7aade4eae9aeb53bda58807",
   "versions": [
     {
-      "version": "4242f31d22c2f8a261be3daef1c80a92dcecb592eac1673ecacc718280e0c3e7",
+      "version": "c14dd3f21e02751d93b1c8005e29a3f896c16665a7aade4eae9aeb53bda58807",
       "label": "latest",
+      "timestamp": "2026-09-10T17:35:31.200Z",
+      "filename": "documentation_2026-09-10T17:35:31.200Z.md",
+      "totalPages": 3,
+      "successfulPages": 3,
+      "url": "https://docs.ponsfamily.com/v2",
+      "snapshotId": "c14dd3f21e02751d93b1c8005e29a3f896c16665a7aade4eae9aeb53bda58807",
+      "isLatest": true
+    },
+    {
+      "version": "4242f31d22c2f8a261be3daef1c80a92dcecb592eac1673ecacc718280e0c3e7",
       "timestamp": "2026-07-23T12:55:43.191Z",
       "filename": "documentation_2026-07-23T12:55:43.191Z.md",
       "totalPages": 1,
       "successfulPages": 1,
       "url": "https://docs.ponsfamily.com/",
       "snapshotId": "4242f31d22c2f8a261be3daef1c80a92dcecb592eac1673ecacc718280e0c3e7",
-      "isLatest": true
+      "isLatest": false
     }
   ],
   "schemaVersion": 3,
@@ -76,6 +94,66 @@
         }
       ],
       "id": "25e3d44db652cb052270ef2b98d8e9e16f952ab8839a1a4e4653a076aa88f374"
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.ponsfamily.com/v2",
+      "canonicalSeedUrl": "https://docs.ponsfamily.com/v2",
+      "configuration": {
+        "url": "https://docs.ponsfamily.com/v2",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-10T17:35:02.819Z",
+      "completedAt": "2026-09-10T17:35:31.200Z",
+      "providerTotals": {
+        "discovered": 3,
+        "returned": 3,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 3,
+        "returned": 3,
+        "valid": 3,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.ponsfamily.com/v2",
+          "canonicalUrl": "https://docs.ponsfamily.com/v2",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.ponsfamily.com",
+          "canonicalUrl": "https://docs.ponsfamily.com/",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.ponsfamily.com/docs",
+          "canonicalUrl": "https://docs.ponsfamily.com/docs",
+          "status": "valid"
+        }
+      ],
+      "id": "c835d927cb002bcbe623311d25ec7a473de1da4bcbe5e9ba6134d87e5ebe8a05"
     }
   ],
   "snapshots": [
@@ -99,7 +177,36 @@
         "status": "approved",
         "reasons": []
       }
+    },
+    {
+      "id": "c14dd3f21e02751d93b1c8005e29a3f896c16665a7aade4eae9aeb53bda58807",
+      "filename": "documentation_2026-09-10T17:35:31.200Z.md",
+      "contentHash": "6d73e7f75390f1ce7371b2d2e050e44767950819286591e7b556f00532f018dd",
+      "sourceUrl": "https://docs.ponsfamily.com/v2",
+      "canonicalSourceUrl": "https://docs.ponsfamily.com/v2",
+      "capturedAt": "2026-09-10T17:35:31.200Z",
+      "crawlRunId": "c835d927cb002bcbe623311d25ec7a473de1da4bcbe5e9ba6134d87e5ebe8a05",
+      "totalPages": 3,
+      "successfulPages": 3,
+      "structure": [
+        {
+          "type": "pons v2 docs · pons",
+          "url": "https://docs.ponsfamily.com/v2"
+        },
+        {
+          "type": "pons docs · pons",
+          "url": "https://docs.ponsfamily.com"
+        },
+        {
+          "type": "pons docs · pons",
+          "url": "https://docs.ponsfamily.com/docs"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
     }
   ],
-  "currentSnapshotId": "4242f31d22c2f8a261be3daef1c80a92dcecb592eac1673ecacc718280e0c3e7"
+  "currentSnapshotId": "c14dd3f21e02751d93b1c8005e29a3f896c16665a7aade4eae9aeb53bda58807"
 }
