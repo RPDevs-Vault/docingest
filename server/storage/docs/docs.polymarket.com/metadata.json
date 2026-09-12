@@ -1,26 +1,44 @@
 {
   "url": "https://docs.polymarket.com/quickstart/introduction/main",
   "domain": "docs.polymarket.com",
-  "lastScraped": "2026-04-25T17:48:16.920Z",
-  "totalPages": 61,
-  "successfulPages": 61,
-  "failedPages": [],
+  "lastScraped": "2026-09-11T21:19:09.715Z",
+  "totalPages": 250,
+  "successfulPages": 109,
+  "failedPages": [
+    "https://docs.polymarket.com/api-reference/set-auto-cancel (error-page-content)"
+  ],
   "structure": [
     {
-      "type": "Introduction - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/api-reference/introduction"
+      "type": "Overview - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/predictions/overview"
     },
     {
-      "type": "Markets & Events - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/concepts/markets-events"
+      "type": "Perps Changelog - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/changelog/perps"
     },
     {
-      "type": "Prices & Orderbook - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/concepts/prices-orderbook"
+      "type": "Unknown",
+      "url": "https://docs.polymarket.com/llms.txt"
     },
     {
-      "type": "Quickstart - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/quickstart"
+      "type": "SDK Changelog - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/changelog/sdks"
+    },
+    {
+      "type": "Overview - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/perps/overview"
+    },
+    {
+      "type": "Predictions Changelog - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/changelog/predictions"
+    },
+    {
+      "type": "Overview - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/programs/builders/overview"
+    },
+    {
+      "type": "Market Making - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/trading/market-making"
     },
     {
       "type": "Polymarket 101 - Polymarket Documentation",
@@ -28,240 +46,426 @@
     },
     {
       "type": "Overview - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/market-makers/overview"
+      "url": "https://docs.polymarket.com/"
     },
     {
-      "type": "Polymarket Changelog - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/changelog"
+      "type": "Ping - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-ping"
     },
     {
-      "type": "Positions & Tokens - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/concepts/positions-tokens"
+      "type": "Rate Limits - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/perps/rate-limits"
     },
     {
-      "type": "Polymarket USD - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/concepts/pusd"
+      "type": "Auto Cancel - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-auto-cancel"
     },
     {
-      "type": "Order Lifecycle - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/concepts/order-lifecycle"
+      "type": "Cancel Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders"
     },
     {
-      "type": "Fetching Markets - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/market-data/fetching-markets"
+      "type": "Update Leverage - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverage"
     },
     {
-      "type": "Resolution - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/concepts/resolution"
+      "type": "Get Server Time - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-server-time"
+    },
+    {
+      "type": "Auth - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-auth"
+    },
+    {
+      "type": "Update Isolated Margin - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-update-margin"
+    },
+    {
+      "type": "Get Limit Tiers - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-limit-tiers"
+    },
+    {
+      "type": "Book - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-book"
+    },
+    {
+      "type": "Cancel Orders by Client Order ID - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders-coid"
+    },
+    {
+      "type": "Test Connection - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/test-connection"
+    },
+    {
+      "type": "Mark Notifications Read - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/mark-notifications-read"
+    },
+    {
+      "type": "Funding - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-funding"
+    },
+    {
+      "type": "Place Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-place-orders"
+    },
+    {
+      "type": "Update Leverages - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverages"
+    },
+    {
+      "type": "Modify Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders"
+    },
+    {
+      "type": "Get Fees - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-fees"
+    },
+    {
+      "type": "Get Index - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-index"
+    },
+    {
+      "type": "Get Public Portfolio - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-public-portfolio"
+    },
+    {
+      "type": "Get Statistics - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-statistics"
+    },
+    {
+      "type": "Balances - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-balances"
+    },
+    {
+      "type": "Update Isolated Margin - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/update-isolated-margin"
+    },
+    {
+      "type": "BBO - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-bbo"
+    },
+    {
+      "type": "Fills - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-fills"
+    },
+    {
+      "type": "Klines - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-klines"
+    },
+    {
+      "type": "Deposits - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-deposits"
+    },
+    {
+      "type": "Statistics - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-statistics"
+    },
+    {
+      "type": "Modify Orders by Client Order ID - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders-coid"
+    },
+    {
+      "type": "Tickers - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-tickers"
+    },
+    {
+      "type": "Get Mark Price History - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-mark-price-history"
+    },
+    {
+      "type": "Internal Transfer - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/internal-transfer"
+    },
+    {
+      "type": "Get Recent Trades - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-recent-trades"
+    },
+    {
+      "type": "Withdrawals - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-withdrawals"
+    },
+    {
+      "type": "Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-orders"
+    },
+    {
+      "type": "Get Funding Charges - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-funding-charges"
+    },
+    {
+      "type": "Get Instrument Config - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-instrument-config"
+    },
+    {
+      "type": "Get Klines - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-klines"
+    },
+    {
+      "type": "Get PnL - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-pnl"
+    },
+    {
+      "type": "Get Withdrawals - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-withdrawals"
+    },
+    {
+      "type": "Get Tickers - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-tickers"
+    },
+    {
+      "type": "Withdraw - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/withdraw"
+    },
+    {
+      "type": "Update Leverage - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/update-leverage"
+    },
+    {
+      "type": "Portfolio - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-portfolio"
+    },
+    {
+      "type": "Get Fills - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-fills"
+    },
+    {
+      "type": "Get Internal Transfers - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-internal-transfers"
+    },
+    {
+      "type": "Get Notifications - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-notifications"
+    },
+    {
+      "type": "Modify Orders COID - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/modify-orders-coid"
+    },
+    {
+      "type": "Get Historical Funding - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-historical-funding"
+    },
+    {
+      "type": "Get Portfolio - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-portfolio"
+    },
+    {
+      "type": "Modify Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/modify-orders"
+    },
+    {
+      "type": "Trades - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-trades"
+    },
+    {
+      "type": "Update Leverage for Multiple Instruments - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/update-leverage-for-multiple-instruments"
+    },
+    {
+      "type": "Get Exchange Statistics - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-exchange-statistics"
+    },
+    {
+      "type": "Get Instruments - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-instruments"
+    },
+    {
+      "type": "Get Open Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-open-orders"
+    },
+    {
+      "type": "Notifications - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-notifications"
     },
     {
       "type": "Overview - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/market-data/overview"
+      "url": "https://docs.polymarket.com/api-reference/perps/overview"
     },
     {
-      "type": "Orderbook - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/orderbook"
+      "type": "Geographic Restrictions - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/perps/geographic-restrictions"
     },
     {
-      "type": "Quickstart - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/quickstart"
-    },
-    {
-      "type": "Overview - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/overview"
-    },
-    {
-      "type": "合约 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/resources/contracts"
-    },
-    {
-      "type": "持仓与代币 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/concepts/positions-tokens"
-    },
-    {
-      "type": "市场与事件 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/concepts/markets-events"
-    },
-    {
-      "type": "订单生命周期 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/concepts/order-lifecycle"
-    },
-    {
-      "type": "价格与订单簿 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/concepts/prices-orderbook"
-    },
-    {
-      "type": "判定 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/concepts/resolution"
-    },
-    {
-      "type": "Tiers - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/builders/tiers"
-    },
-    {
-      "type": "获取市场数据 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/market-data/fetching-markets"
-    },
-    {
-      "type": "概览 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/market-data/overview"
+      "type": "Cancel All Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-all"
     },
     {
       "type": "概览 - Polymarket Documentation",
       "url": "https://docs.polymarket.com/cn"
     },
     {
-      "type": "Negative Risk 市场 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/advanced/neg-risk"
+      "type": "概览 - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/cn/api-reference/predictions/overview"
     },
     {
-      "type": "Maker 返利计划 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/market-makers/maker-rebates"
+      "type": "Get Orders - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/get-orders"
     },
     {
-      "type": "构建者计划 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/builders/overview"
+      "type": "Get valid sports market types - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/sports/get-valid-sports-market-types"
     },
     {
-      "type": "Tiers - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/builders/tiers"
+      "type": "Rate Limits - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/rate-limits"
     },
     {
-      "type": "Builder Code - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/builders/api-keys"
+      "type": "Get sports metadata information - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/sports/get-sports-metadata-information"
     },
     {
-      "type": "Referral Program - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/resources/referral-program"
+      "type": "Sports Channel - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/wss/sports"
     },
     {
-      "type": "Contracts - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/resources/contracts"
+      "type": "Get market prices (query parameters) - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-query-parameters"
     },
     {
-      "type": "Builder Code - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/builders/api-keys"
+      "type": "Get market price - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-market-price"
     },
     {
-      "type": "Builder Program - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/builders/overview"
+      "type": "Get midpoint prices (request body) - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-request-body"
     },
     {
-      "type": "撮合引擎重启 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/matching-engine"
+      "type": "Get related tags (relationships) by tag id - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-id"
     },
     {
-      "type": "概述 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/overview"
+      "type": "Get related tags (relationships) by tag slug - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-slug"
     },
     {
-      "type": "合并代币 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/ctf/merge"
+      "type": "Get order scoring status - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/trade/get-order-scoring-status"
     },
     {
-      "type": "拆分代币 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/ctf/split"
+      "type": "CLOB Trading Rate Limits - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/trading-rate-limits"
     },
     {
-      "type": "Maker Rebates Program - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/market-makers/maker-rebates"
+      "type": "Get fee rate - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate"
     },
     {
-      "type": "支持的资产 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/bridge/supported-assets"
+      "type": "Get fee rate by path parameter - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate-by-path-parameter"
     },
     {
-      "type": "费用 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/fees"
+      "type": "Get last trade prices (request body) - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-request-body"
     },
     {
-      "type": "Polymarket USD - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/concepts/pusd"
+      "type": "Get midpoint prices (query parameters) - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-query-parameters"
     },
     {
-      "type": "充值状态 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/bridge/status"
+      "type": "Get market prices (request body) - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-request-body"
     },
     {
-      "type": "报价 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/bridge/quote"
+      "type": "Get spread - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-spread"
     },
     {
-      "type": "Builder Fees - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/builders/fees"
+      "type": "Get tick size by path parameter - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size-by-path-parameter"
     },
     {
-      "type": "兑换代币 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/ctf/redeem"
+      "type": "Get spreads - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-spreads"
     },
     {
-      "type": "User Channel - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/market-data/websocket/user-channel"
+      "type": "Get market tags by id - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/markets/get-market-tags-by-id"
     },
     {
-      "type": "Merge Tokens - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/ctf/merge"
+      "type": "Get prices history - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/markets/get-prices-history"
     },
     {
-      "type": "提现 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/bridge/withdraw"
+      "type": "Get simplified markets - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/markets/get-simplified-markets"
     },
     {
-      "type": "Polymarket 101 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/polymarket-101"
+      "type": "Download an accounting snapshot (ZIP of CSVs) - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/misc/download-an-accounting-snapshot-zip-of-csvs"
     },
     {
-      "type": "概述 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/market-makers/overview"
+      "type": "Get current nonce for a user - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/relayer/get-current-nonce-for-a-user"
     },
     {
-      "type": "Conditional Token Framework - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/cn/trading/ctf/overview"
+      "type": "Get relayer address and nonce - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/relayer/get-relayer-address-and-nonce"
     },
     {
-      "type": "Negative Risk Markets - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/advanced/neg-risk"
+      "type": "Get tag by slug - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/tags/get-tag-by-slug"
     },
     {
-      "type": "Overview - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/index"
+      "type": "Get last trade price - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-price"
     },
     {
-      "type": "Fees - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/fees"
+      "type": "Get last trade prices (query parameters) - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-query-parameters"
     },
     {
-      "type": "Matching Engine Restarts - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/matching-engine"
+      "type": "Get tick size - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size"
     },
     {
-      "type": "Gasless Transactions - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/gasless"
+      "type": "Get batch prices history - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/markets/get-batch-prices-history"
     },
     {
-      "type": "Cancel Order - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/trading/orders/cancel"
+      "type": "Get market by token - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/markets/get-market-by-token"
     },
     {
-      "type": "Migrating to CLOB V2 - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/v2-migration"
+      "type": "Get sampling markets - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-markets"
     },
     {
-      "type": "Get event tags - Polymarket Documentation",
-      "url": "https://docs.polymarket.com/api-reference/events/get-event-tags"
+      "type": "Get open interest - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/misc/get-open-interest"
+    },
+    {
+      "type": "Get sampling simplified markets - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-simplified-markets"
+    },
+    {
+      "type": "Get live volume for an event - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/misc/get-live-volume-for-an-event"
+    },
+    {
+      "type": "Get total markets a user has traded - Polymarket Documentation",
+      "url": "https://docs.polymarket.com/api-reference/misc/get-total-markets-a-user-has-traded"
     }
   ],
-  "latestVersion": "1.4.5",
+  "latestVersion": "10772fa5cd2a9225ed91ec3890c8deae7e0de969084a2c673d474114cd8ab20d",
   "versions": [
     {
-      "version": "1.4.5",
+      "version": "10772fa5cd2a9225ed91ec3890c8deae7e0de969084a2c673d474114cd8ab20d",
       "label": "latest",
+      "timestamp": "2026-09-11T21:19:09.715Z",
+      "filename": "documentation_2026-09-11T21:19:09.715Z.md",
+      "totalPages": 250,
+      "successfulPages": 109,
+      "url": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "snapshotId": "10772fa5cd2a9225ed91ec3890c8deae7e0de969084a2c673d474114cd8ab20d",
+      "isLatest": true
+    },
+    {
+      "version": "1.4.5",
       "timestamp": "2026-04-25T17:48:16.920Z",
       "filename": "documentation_2026-04-25T17:48:16.920Z.md",
       "totalPages": 61,
       "successfulPages": 61,
       "url": "https://docs.polymarket.com/api-reference/introduction",
-      "isLatest": true
+      "isLatest": false
     },
     {
       "version": "1.4.4",
@@ -380,6 +584,602 @@
         "rejected": 0,
         "failed": 0
       }
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "canonicalSeedUrl": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "configuration": {
+        "url": "https://docs.polymarket.com/api-reference/predictions/overview",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-11T21:14:06.727Z",
+      "completedAt": "2026-09-11T21:19:09.715Z",
+      "providerTotals": {
+        "discovered": 250,
+        "returned": 110,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 250,
+        "returned": 110,
+        "valid": 109,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 1,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.polymarket.com/api-reference/predictions/overview",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/predictions/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/changelog/perps",
+          "canonicalUrl": "https://docs.polymarket.com/changelog/perps",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/llms.txt",
+          "canonicalUrl": "https://docs.polymarket.com/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/changelog/sdks",
+          "canonicalUrl": "https://docs.polymarket.com/changelog/sdks",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/perps/overview",
+          "canonicalUrl": "https://docs.polymarket.com/perps/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/changelog/predictions",
+          "canonicalUrl": "https://docs.polymarket.com/changelog/predictions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/programs/builders/overview",
+          "canonicalUrl": "https://docs.polymarket.com/programs/builders/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/trading/market-making",
+          "canonicalUrl": "https://docs.polymarket.com/trading/market-making",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/polymarket-101",
+          "canonicalUrl": "https://docs.polymarket.com/polymarket-101",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/",
+          "canonicalUrl": "https://docs.polymarket.com/",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-ping",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-ping",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/perps/rate-limits",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/perps/rate-limits",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-auto-cancel",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-auto-cancel",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverage",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-update-leverage",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-server-time",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-server-time",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-auth",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-auth",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-update-margin",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-update-margin",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-limit-tiers",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-limit-tiers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-book",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-book",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders-coid",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders-coid",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/test-connection",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/test-connection",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/mark-notifications-read",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/mark-notifications-read",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-funding",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-funding",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-place-orders",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-place-orders",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverages",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-update-leverages",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-fees",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-fees",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-index",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-index",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-public-portfolio",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-public-portfolio",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-statistics",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-statistics",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-balances",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-balances",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/update-isolated-margin",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/update-isolated-margin",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-bbo",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-bbo",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-fills",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-fills",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-klines",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-klines",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-deposits",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-deposits",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-statistics",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-statistics",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders-coid",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders-coid",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-tickers",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-tickers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-mark-price-history",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-mark-price-history",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/internal-transfer",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/internal-transfer",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-recent-trades",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-recent-trades",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-withdrawals",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-withdrawals",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/set-auto-cancel",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/set-auto-cancel",
+          "status": "rejected",
+          "reason": "error-page-content"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-orders",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-orders",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-funding-charges",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-funding-charges",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-instrument-config",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-instrument-config",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-klines",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-klines",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-pnl",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-pnl",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-withdrawals",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-withdrawals",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-tickers",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-tickers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/withdraw",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/withdraw",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/update-leverage",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/update-leverage",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-portfolio",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-portfolio",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-fills",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-fills",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-internal-transfers",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-internal-transfers",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-notifications",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-notifications",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/modify-orders-coid",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/modify-orders-coid",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-historical-funding",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-historical-funding",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-portfolio",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-portfolio",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/modify-orders",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/modify-orders",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-trades",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-trades",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/update-leverage-for-multiple-instruments",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/update-leverage-for-multiple-instruments",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-exchange-statistics",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-exchange-statistics",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-instruments",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-instruments",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-open-orders",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-open-orders",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-notifications",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-notifications",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/perps/overview",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/perps/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/perps/geographic-restrictions",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/perps/geographic-restrictions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-all",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/perps-cancel-all",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/cn",
+          "canonicalUrl": "https://docs.polymarket.com/cn",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/cn/api-reference/predictions/overview",
+          "canonicalUrl": "https://docs.polymarket.com/cn/api-reference/predictions/overview",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/get-orders",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/get-orders",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/sports/get-valid-sports-market-types",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/sports/get-valid-sports-market-types",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/rate-limits",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/rate-limits",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/sports/get-sports-metadata-information",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/sports/get-sports-metadata-information",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/wss/sports",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/wss/sports",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-query-parameters",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-query-parameters",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-market-price",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-market-price",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-request-body",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-request-body",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-id",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-id",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-slug",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-slug",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/trade/get-order-scoring-status",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/trade/get-order-scoring-status",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/trading-rate-limits",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/trading-rate-limits",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate-by-path-parameter",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate-by-path-parameter",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-request-body",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-request-body",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-query-parameters",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-query-parameters",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-request-body",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-request-body",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-spread",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-spread",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size-by-path-parameter",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-tick-size-by-path-parameter",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-spreads",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-spreads",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/markets/get-market-tags-by-id",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/markets/get-market-tags-by-id",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/markets/get-prices-history",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/markets/get-prices-history",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/markets/get-simplified-markets",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/markets/get-simplified-markets",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/misc/download-an-accounting-snapshot-zip-of-csvs",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/misc/download-an-accounting-snapshot-zip-of-csvs",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/relayer/get-current-nonce-for-a-user",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/relayer/get-current-nonce-for-a-user",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/relayer/get-relayer-address-and-nonce",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/relayer/get-relayer-address-and-nonce",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/tags/get-tag-by-slug",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/tags/get-tag-by-slug",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-price",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-price",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-query-parameters",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-query-parameters",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/market-data/get-tick-size",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/markets/get-batch-prices-history",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/markets/get-batch-prices-history",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/markets/get-market-by-token",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/markets/get-market-by-token",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-markets",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/markets/get-sampling-markets",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/misc/get-open-interest",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/misc/get-open-interest",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-simplified-markets",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/markets/get-sampling-simplified-markets",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/misc/get-live-volume-for-an-event",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/misc/get-live-volume-for-an-event",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.polymarket.com/api-reference/misc/get-total-markets-a-user-has-traded",
+          "canonicalUrl": "https://docs.polymarket.com/api-reference/misc/get-total-markets-a-user-has-traded",
+          "status": "valid"
+        }
+      ],
+      "id": "770565c25ca07ac67568db093d68486868bc148fed29973ac40813e5173c0fbb"
     }
   ],
   "snapshots": [
@@ -645,7 +1445,483 @@
         "status": "approved",
         "reasons": []
       }
+    },
+    {
+      "id": "10772fa5cd2a9225ed91ec3890c8deae7e0de969084a2c673d474114cd8ab20d",
+      "filename": "documentation_2026-09-11T21:19:09.715Z.md",
+      "contentHash": "fc113d4e9179dfecdf72eadaeb26791dcecf97b3c392f3d5e204a94f15a7d12d",
+      "sourceUrl": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "canonicalSourceUrl": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "capturedAt": "2026-09-11T21:19:09.715Z",
+      "crawlRunId": "770565c25ca07ac67568db093d68486868bc148fed29973ac40813e5173c0fbb",
+      "totalPages": 250,
+      "successfulPages": 109,
+      "structure": [
+        {
+          "type": "Overview - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/predictions/overview"
+        },
+        {
+          "type": "Perps Changelog - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/changelog/perps"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.polymarket.com/llms.txt"
+        },
+        {
+          "type": "SDK Changelog - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/changelog/sdks"
+        },
+        {
+          "type": "Overview - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/perps/overview"
+        },
+        {
+          "type": "Predictions Changelog - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/changelog/predictions"
+        },
+        {
+          "type": "Overview - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/programs/builders/overview"
+        },
+        {
+          "type": "Market Making - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/trading/market-making"
+        },
+        {
+          "type": "Polymarket 101 - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/polymarket-101"
+        },
+        {
+          "type": "Overview - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/"
+        },
+        {
+          "type": "Ping - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-ping"
+        },
+        {
+          "type": "Rate Limits - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/perps/rate-limits"
+        },
+        {
+          "type": "Auto Cancel - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-auto-cancel"
+        },
+        {
+          "type": "Cancel Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders"
+        },
+        {
+          "type": "Update Leverage - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverage"
+        },
+        {
+          "type": "Get Server Time - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-server-time"
+        },
+        {
+          "type": "Auth - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-auth"
+        },
+        {
+          "type": "Update Isolated Margin - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-update-margin"
+        },
+        {
+          "type": "Get Limit Tiers - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-limit-tiers"
+        },
+        {
+          "type": "Book - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-book"
+        },
+        {
+          "type": "Cancel Orders by Client Order ID - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders-coid"
+        },
+        {
+          "type": "Test Connection - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/test-connection"
+        },
+        {
+          "type": "Mark Notifications Read - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/mark-notifications-read"
+        },
+        {
+          "type": "Funding - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-funding"
+        },
+        {
+          "type": "Place Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-place-orders"
+        },
+        {
+          "type": "Update Leverages - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverages"
+        },
+        {
+          "type": "Modify Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders"
+        },
+        {
+          "type": "Get Fees - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-fees"
+        },
+        {
+          "type": "Get Index - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-index"
+        },
+        {
+          "type": "Get Public Portfolio - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-public-portfolio"
+        },
+        {
+          "type": "Get Statistics - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-statistics"
+        },
+        {
+          "type": "Balances - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-balances"
+        },
+        {
+          "type": "Update Isolated Margin - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/update-isolated-margin"
+        },
+        {
+          "type": "BBO - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-bbo"
+        },
+        {
+          "type": "Fills - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-fills"
+        },
+        {
+          "type": "Klines - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-klines"
+        },
+        {
+          "type": "Deposits - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-deposits"
+        },
+        {
+          "type": "Statistics - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-statistics"
+        },
+        {
+          "type": "Modify Orders by Client Order ID - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders-coid"
+        },
+        {
+          "type": "Tickers - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-tickers"
+        },
+        {
+          "type": "Get Mark Price History - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-mark-price-history"
+        },
+        {
+          "type": "Internal Transfer - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/internal-transfer"
+        },
+        {
+          "type": "Get Recent Trades - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-recent-trades"
+        },
+        {
+          "type": "Withdrawals - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-withdrawals"
+        },
+        {
+          "type": "Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-orders"
+        },
+        {
+          "type": "Get Funding Charges - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-funding-charges"
+        },
+        {
+          "type": "Get Instrument Config - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-instrument-config"
+        },
+        {
+          "type": "Get Klines - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-klines"
+        },
+        {
+          "type": "Get PnL - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-pnl"
+        },
+        {
+          "type": "Get Withdrawals - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-withdrawals"
+        },
+        {
+          "type": "Get Tickers - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-tickers"
+        },
+        {
+          "type": "Withdraw - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/withdraw"
+        },
+        {
+          "type": "Update Leverage - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/update-leverage"
+        },
+        {
+          "type": "Portfolio - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-portfolio"
+        },
+        {
+          "type": "Get Fills - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-fills"
+        },
+        {
+          "type": "Get Internal Transfers - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-internal-transfers"
+        },
+        {
+          "type": "Get Notifications - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-notifications"
+        },
+        {
+          "type": "Modify Orders COID - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/modify-orders-coid"
+        },
+        {
+          "type": "Get Historical Funding - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-historical-funding"
+        },
+        {
+          "type": "Get Portfolio - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-portfolio"
+        },
+        {
+          "type": "Modify Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/modify-orders"
+        },
+        {
+          "type": "Trades - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-trades"
+        },
+        {
+          "type": "Update Leverage for Multiple Instruments - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/update-leverage-for-multiple-instruments"
+        },
+        {
+          "type": "Get Exchange Statistics - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-exchange-statistics"
+        },
+        {
+          "type": "Get Instruments - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-instruments"
+        },
+        {
+          "type": "Get Open Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-open-orders"
+        },
+        {
+          "type": "Notifications - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-notifications"
+        },
+        {
+          "type": "Overview - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/perps/overview"
+        },
+        {
+          "type": "Geographic Restrictions - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/perps/geographic-restrictions"
+        },
+        {
+          "type": "Cancel All Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-all"
+        },
+        {
+          "type": "概览 - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/cn"
+        },
+        {
+          "type": "概览 - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/cn/api-reference/predictions/overview"
+        },
+        {
+          "type": "Get Orders - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/get-orders"
+        },
+        {
+          "type": "Get valid sports market types - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/sports/get-valid-sports-market-types"
+        },
+        {
+          "type": "Rate Limits - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/rate-limits"
+        },
+        {
+          "type": "Get sports metadata information - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/sports/get-sports-metadata-information"
+        },
+        {
+          "type": "Sports Channel - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/wss/sports"
+        },
+        {
+          "type": "Get market prices (query parameters) - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-query-parameters"
+        },
+        {
+          "type": "Get market price - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-market-price"
+        },
+        {
+          "type": "Get midpoint prices (request body) - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-request-body"
+        },
+        {
+          "type": "Get related tags (relationships) by tag id - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-id"
+        },
+        {
+          "type": "Get related tags (relationships) by tag slug - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-slug"
+        },
+        {
+          "type": "Get order scoring status - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/trade/get-order-scoring-status"
+        },
+        {
+          "type": "CLOB Trading Rate Limits - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/trading-rate-limits"
+        },
+        {
+          "type": "Get fee rate - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate"
+        },
+        {
+          "type": "Get fee rate by path parameter - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate-by-path-parameter"
+        },
+        {
+          "type": "Get last trade prices (request body) - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-request-body"
+        },
+        {
+          "type": "Get midpoint prices (query parameters) - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-query-parameters"
+        },
+        {
+          "type": "Get market prices (request body) - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-request-body"
+        },
+        {
+          "type": "Get spread - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-spread"
+        },
+        {
+          "type": "Get tick size by path parameter - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size-by-path-parameter"
+        },
+        {
+          "type": "Get spreads - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-spreads"
+        },
+        {
+          "type": "Get market tags by id - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/markets/get-market-tags-by-id"
+        },
+        {
+          "type": "Get prices history - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/markets/get-prices-history"
+        },
+        {
+          "type": "Get simplified markets - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/markets/get-simplified-markets"
+        },
+        {
+          "type": "Download an accounting snapshot (ZIP of CSVs) - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/misc/download-an-accounting-snapshot-zip-of-csvs"
+        },
+        {
+          "type": "Get current nonce for a user - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/relayer/get-current-nonce-for-a-user"
+        },
+        {
+          "type": "Get relayer address and nonce - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/relayer/get-relayer-address-and-nonce"
+        },
+        {
+          "type": "Get tag by slug - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/tags/get-tag-by-slug"
+        },
+        {
+          "type": "Get last trade price - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-price"
+        },
+        {
+          "type": "Get last trade prices (query parameters) - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-query-parameters"
+        },
+        {
+          "type": "Get tick size - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size"
+        },
+        {
+          "type": "Get batch prices history - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/markets/get-batch-prices-history"
+        },
+        {
+          "type": "Get market by token - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/markets/get-market-by-token"
+        },
+        {
+          "type": "Get sampling markets - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-markets"
+        },
+        {
+          "type": "Get open interest - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/misc/get-open-interest"
+        },
+        {
+          "type": "Get sampling simplified markets - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-simplified-markets"
+        },
+        {
+          "type": "Get live volume for an event - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/misc/get-live-volume-for-an-event"
+        },
+        {
+          "type": "Get total markets a user has traded - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/misc/get-total-markets-a-user-has-traded"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    },
+    {
+      "id": "8817c3da83d149987d009d23b4a14e796e52c83b7d9b4b3dfe2d6c9c2a79b2f6",
+      "filename": "evidence_2026-09-11T21:19:09.715Z.md",
+      "contentHash": "5cde4f8607aeaeed637dc0d0ddecf3b8466e87e026e46a2be8b2f1ad650b28b1",
+      "sourceUrl": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "canonicalSourceUrl": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "capturedAt": "2026-09-11T21:19:09.715Z",
+      "crawlRunId": "770565c25ca07ac67568db093d68486868bc148fed29973ac40813e5173c0fbb",
+      "totalPages": 1,
+      "successfulPages": 0,
+      "structure": [
+        {
+          "type": "Set Auto-Cancel - Polymarket Documentation",
+          "url": "https://docs.polymarket.com/api-reference/set-auto-cancel"
+        }
+      ],
+      "quality": {
+        "status": "quarantined",
+        "reasons": [
+          "error-page-content"
+        ]
+      }
     }
   ],
-  "currentSnapshotId": "1aebf27ce4b56c0f543fa26256b7511031618d3847197831aec4073cc996e67e"
+  "currentSnapshotId": "10772fa5cd2a9225ed91ec3890c8deae7e0de969084a2c673d474114cd8ab20d"
 }

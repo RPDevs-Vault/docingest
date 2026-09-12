@@ -1,0 +1,194 @@
+{
+  "url": "https://lua.starline.one/",
+  "domain": "lua.starline.one",
+  "lastScraped": "2026-09-11T22:51:32.993Z",
+  "totalPages": 1,
+  "successfulPages": 0,
+  "failedPages": [
+    "https://lua.starline.one/ (server-detected-blocked-content)"
+  ],
+  "structure": [],
+  "latestVersion": "",
+  "versions": [],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://lua.starline.one/",
+      "canonicalSeedUrl": "https://lua.starline.one/",
+      "configuration": {
+        "url": "https://lua.starline.one/",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-11T22:51:22.340Z",
+      "completedAt": "2026-09-11T22:51:32.993Z",
+      "providerTotals": {
+        "discovered": 1,
+        "returned": 1,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 1,
+        "returned": 1,
+        "valid": 0,
+        "needs-review": 0,
+        "blocked": 1,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://lua.starline.one/",
+          "canonicalUrl": "https://lua.starline.one/",
+          "status": "blocked",
+          "reason": "server-detected-blocked-content"
+        }
+      ],
+      "id": "fed0cdf6ea8594d58e78329f61f0b0f8ed600d436a1435050eeba8f4c38f716d"
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://lua.starline.one/",
+      "canonicalSeedUrl": "https://lua.starline.one/",
+      "configuration": {
+        "url": "https://lua.starline.one/",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-11T22:51:50.857Z",
+      "completedAt": "2026-09-11T22:52:01.754Z",
+      "providerTotals": {
+        "discovered": 1,
+        "returned": 1,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 1,
+        "returned": 1,
+        "valid": 0,
+        "needs-review": 0,
+        "blocked": 1,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://lua.starline.one/",
+          "canonicalUrl": "https://lua.starline.one/",
+          "status": "blocked",
+          "reason": "server-detected-blocked-content"
+        }
+      ],
+      "id": "9838109cc1e0a57db182968fcfcc216c87c5bc7cf577aa873adf741abe5f6591"
+    },
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://lua.starline.one",
+      "canonicalSeedUrl": "https://lua.starline.one/",
+      "configuration": {
+        "url": "https://lua.starline.one",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-11T22:52:23.060Z",
+      "completedAt": "2026-09-11T22:52:34.257Z",
+      "providerTotals": {
+        "discovered": 1,
+        "returned": 1,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 1,
+        "returned": 1,
+        "valid": 0,
+        "needs-review": 0,
+        "blocked": 1,
+        "empty": 0,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://lua.starline.one",
+          "canonicalUrl": "https://lua.starline.one/",
+          "status": "blocked",
+          "reason": "server-detected-blocked-content"
+        }
+      ],
+      "id": "ab7851295281d35ed3451deeda89169377228be8fb04f3773b982fd27eb8df9f"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "1ac36840e8d3afd6539ed67fc5a995e71037addea11ca18e7d2caa412618fdbc",
+      "filename": "evidence_2026-09-11T22:51:32.993Z.md",
+      "contentHash": "5c8812e026bd9cf4cf8b6eb388d3637981df0f56c6c5a97310546ac5baa3d476",
+      "sourceUrl": "https://lua.starline.one/",
+      "canonicalSourceUrl": "https://lua.starline.one/",
+      "capturedAt": "2026-09-11T22:51:32.993Z",
+      "crawlRunId": "fed0cdf6ea8594d58e78329f61f0b0f8ed600d436a1435050eeba8f4c38f716d",
+      "totalPages": 1,
+      "successfulPages": 0,
+      "structure": [
+        {
+          "type": "Just a moment...",
+          "url": "https://lua.starline.one/"
+        }
+      ],
+      "quality": {
+        "status": "quarantined",
+        "reasons": [
+          "server-detected-blocked-content"
+        ]
+      }
+    }
+  ]
+}

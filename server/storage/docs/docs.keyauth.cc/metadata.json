@@ -1,0 +1,655 @@
+{
+  "url": "https://docs.keyauth.cc/",
+  "domain": "docs.keyauth.cc",
+  "lastScraped": "2026-09-11T21:31:18.908Z",
+  "totalPages": 171,
+  "successfulPages": 19,
+  "failedPages": [
+    "https://docs.keyauth.cc/sellerapi/application-settings/retrieve-stats (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/application-settings/retrieve-application-details (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/chats/create-a-new-chat-channel (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/api (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/retrieve-all-users (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/retrieve-all-usernames (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/pause-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/customdomain/api (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/retrieve-subscriptions (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/retrieve-all-users-variables (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/retrieve-license-from-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/retrive-user-variable-data (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/reset-all-users-hwid (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/change-email (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/create-new-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/add-hwid-to-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/ban-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/delete-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/unban-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/delete-all-users (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/set-user-variable (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/change-username (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/delete-user-subscription (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/delete-all-user-variables-with-name (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/subtract-time-from-users-subscription (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/webhooks/delete-all-webhooks (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/verify-user-exists (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/webloader/delete-webloader (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/webhooks/delete-webhook (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/webloader/delete-all-web-loader-buttons (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/webhooks/retrieve-all-webhooks (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/unpause-user (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/delete-all-expired-users (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/webhooks/create-new-webhook (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/extend-users-subscription (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/whitelists/add-ip-to-whitelist (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/whitelists/delete-ip-whitelist (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/webloader/retrieve-web-loader-buttons (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/seller-api (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/whitelists/delete-all-whitelists (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/set-users-hwid-reset-cooldown (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/customdomain/customerpanel (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/reseller-manager/retrieve-all-resellers-and-managers (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/reseller-manager/delete-reseller-manager (provider-result-had-no-extractable-content)",
+    "https://docs.keyauth.cc/sellerapi/users/reset-users-hwid (provider-result-had-no-extractable-content)"
+  ],
+  "structure": [
+    {
+      "type": "⌂ Introduction - KeyAuth",
+      "url": "https://docs.keyauth.cc/"
+    },
+    {
+      "type": "Unknown",
+      "url": "https://docs.keyauth.cc/llms.txt"
+    },
+    {
+      "type": "KeyAuth - Security Pratices",
+      "url": "https://docs.keyauth.cc/overview/security-practices"
+    },
+    {
+      "type": "<> Premade Examples - SDKS - KeyAuth",
+      "url": "https://docs.keyauth.cc/overview/examples"
+    },
+    {
+      "type": "? QnA - KeyAuth",
+      "url": "https://docs.keyauth.cc/overview/qna"
+    },
+    {
+      "type": "Manage Applications - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/manage-applications"
+    },
+    {
+      "type": "◷ Rate Limiting - KeyAuth",
+      "url": "https://docs.keyauth.cc/overview/rate-limiting"
+    },
+    {
+      "type": "⌂ Introduction - KeyAuth",
+      "url": "https://docs.keyauth.cc/getting-started/introduction"
+    },
+    {
+      "type": "Users - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/users"
+    },
+    {
+      "type": "Sessions - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/sessions"
+    },
+    {
+      "type": "Chats - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/chats"
+    },
+    {
+      "type": "Licenses - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/licenses"
+    },
+    {
+      "type": "Webhooks - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/webhooks"
+    },
+    {
+      "type": "Subscriptions - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/subscriptions"
+    },
+    {
+      "type": "Files - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/files"
+    },
+    {
+      "type": "Audit Logs - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/audit-logs"
+    },
+    {
+      "type": "Global Variables - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/variables"
+    },
+    {
+      "type": "Blacklists - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/blacklists"
+    },
+    {
+      "type": "Logs - KeyAuth",
+      "url": "https://docs.keyauth.cc/dashboard/app/logs"
+    }
+  ],
+  "latestVersion": "66114ba4dd5ddf9fa271affae572b73b4cab899bf3801a845c7724af37bce960",
+  "versions": [
+    {
+      "version": "66114ba4dd5ddf9fa271affae572b73b4cab899bf3801a845c7724af37bce960",
+      "label": "latest",
+      "timestamp": "2026-09-11T21:31:18.908Z",
+      "filename": "documentation_2026-09-11T21:31:18.908Z.md",
+      "totalPages": 171,
+      "successfulPages": 19,
+      "url": "https://docs.keyauth.cc/",
+      "snapshotId": "66114ba4dd5ddf9fa271affae572b73b4cab899bf3801a845c7724af37bce960",
+      "isLatest": true
+    }
+  ],
+  "schemaVersion": 3,
+  "crawlRuns": [
+    {
+      "provider": "firecrawl",
+      "seedUrl": "https://docs.keyauth.cc/",
+      "canonicalSeedUrl": "https://docs.keyauth.cc/",
+      "configuration": {
+        "url": "https://docs.keyauth.cc/",
+        "limit": 250,
+        "maxDepth": 5,
+        "allowBackwardLinks": true,
+        "ignoreQueryParameters": true,
+        "scrapeOptions": {
+          "formats": [
+            "markdown",
+            "html"
+          ],
+          "onlyMainContent": true,
+          "removeBase64Images": true,
+          "blockAds": true,
+          "timeout": 60000,
+          "waitFor": 2000,
+          "maxAge": 3600000
+        }
+      },
+      "startedAt": "2026-09-11T21:30:38.379Z",
+      "completedAt": "2026-09-11T21:31:18.908Z",
+      "providerTotals": {
+        "discovered": 171,
+        "returned": 64,
+        "discoveredIsExact": true
+      },
+      "totals": {
+        "discovered": 171,
+        "returned": 64,
+        "valid": 19,
+        "needs-review": 0,
+        "blocked": 0,
+        "empty": 45,
+        "duplicate": 0,
+        "rejected": 0,
+        "failed": 0
+      },
+      "outcomes": [
+        {
+          "url": "https://docs.keyauth.cc/",
+          "canonicalUrl": "https://docs.keyauth.cc/",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/application-settings/retrieve-stats",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/application-settings/retrieve-stats",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/application-settings/retrieve-application-details",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/application-settings/retrieve-application-details",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/chats/create-a-new-chat-channel",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/chats/create-a-new-chat-channel",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/api",
+          "canonicalUrl": "https://docs.keyauth.cc/api",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/retrieve-all-users",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/retrieve-all-users",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/retrieve-all-usernames",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/retrieve-all-usernames",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/pause-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/pause-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/customdomain/api",
+          "canonicalUrl": "https://docs.keyauth.cc/customdomain/api",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/retrieve-subscriptions",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/retrieve-subscriptions",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/retrieve-all-users-variables",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/retrieve-all-users-variables",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/retrieve-license-from-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/retrieve-license-from-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/retrive-user-variable-data",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/retrive-user-variable-data",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/reset-all-users-hwid",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/reset-all-users-hwid",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/change-email",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/change-email",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/create-new-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/create-new-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/add-hwid-to-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/add-hwid-to-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/ban-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/ban-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/delete-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/delete-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/unban-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/unban-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/delete-all-users",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/delete-all-users",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/set-user-variable",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/set-user-variable",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/change-username",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/change-username",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/delete-user-subscription",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/delete-user-subscription",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/delete-all-user-variables-with-name",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/delete-all-user-variables-with-name",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/subtract-time-from-users-subscription",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/subtract-time-from-users-subscription",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/webhooks/delete-all-webhooks",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/webhooks/delete-all-webhooks",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/verify-user-exists",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/verify-user-exists",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/webloader/delete-webloader",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/webloader/delete-webloader",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/webhooks/delete-webhook",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/webhooks/delete-webhook",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/webloader/delete-all-web-loader-buttons",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/webloader/delete-all-web-loader-buttons",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/webhooks/retrieve-all-webhooks",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/webhooks/retrieve-all-webhooks",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/unpause-user",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/unpause-user",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/delete-all-expired-users",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/delete-all-expired-users",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/webhooks/create-new-webhook",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/webhooks/create-new-webhook",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/extend-users-subscription",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/extend-users-subscription",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/whitelists/add-ip-to-whitelist",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/whitelists/add-ip-to-whitelist",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/whitelists/delete-ip-whitelist",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/whitelists/delete-ip-whitelist",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/webloader/retrieve-web-loader-buttons",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/webloader/retrieve-web-loader-buttons",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/seller-api",
+          "canonicalUrl": "https://docs.keyauth.cc/seller-api",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/whitelists/delete-all-whitelists",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/whitelists/delete-all-whitelists",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/set-users-hwid-reset-cooldown",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/set-users-hwid-reset-cooldown",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/customdomain/customerpanel",
+          "canonicalUrl": "https://docs.keyauth.cc/customdomain/customerpanel",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/reseller-manager/retrieve-all-resellers-and-managers",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/reseller-manager/retrieve-all-resellers-and-managers",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/reseller-manager/delete-reseller-manager",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/reseller-manager/delete-reseller-manager",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/llms.txt",
+          "canonicalUrl": "https://docs.keyauth.cc/llms.txt",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/sellerapi/users/reset-users-hwid",
+          "canonicalUrl": "https://docs.keyauth.cc/sellerapi/users/reset-users-hwid",
+          "status": "empty",
+          "reason": "provider-result-had-no-extractable-content"
+        },
+        {
+          "url": "https://docs.keyauth.cc/overview/security-practices",
+          "canonicalUrl": "https://docs.keyauth.cc/overview/security-practices",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/overview/examples",
+          "canonicalUrl": "https://docs.keyauth.cc/overview/examples",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/overview/qna",
+          "canonicalUrl": "https://docs.keyauth.cc/overview/qna",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/manage-applications",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/manage-applications",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/overview/rate-limiting",
+          "canonicalUrl": "https://docs.keyauth.cc/overview/rate-limiting",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/getting-started/introduction",
+          "canonicalUrl": "https://docs.keyauth.cc/getting-started/introduction",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/users",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/users",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/sessions",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/sessions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/chats",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/chats",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/licenses",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/licenses",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/webhooks",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/webhooks",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/subscriptions",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/subscriptions",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/files",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/files",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/audit-logs",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/audit-logs",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/variables",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/variables",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/blacklists",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/blacklists",
+          "status": "valid"
+        },
+        {
+          "url": "https://docs.keyauth.cc/dashboard/app/logs",
+          "canonicalUrl": "https://docs.keyauth.cc/dashboard/app/logs",
+          "status": "valid"
+        }
+      ],
+      "id": "697634d487680d69cb165b41b05058e0aed4034262425f65ccb3b28e98a5da73"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "66114ba4dd5ddf9fa271affae572b73b4cab899bf3801a845c7724af37bce960",
+      "filename": "documentation_2026-09-11T21:31:18.908Z.md",
+      "contentHash": "427eb2247a8b841cfbba04260d3426a57c094e2af3b57dff7edef7cde121880c",
+      "sourceUrl": "https://docs.keyauth.cc/",
+      "canonicalSourceUrl": "https://docs.keyauth.cc/",
+      "capturedAt": "2026-09-11T21:31:18.908Z",
+      "crawlRunId": "697634d487680d69cb165b41b05058e0aed4034262425f65ccb3b28e98a5da73",
+      "totalPages": 171,
+      "successfulPages": 19,
+      "structure": [
+        {
+          "type": "⌂ Introduction - KeyAuth",
+          "url": "https://docs.keyauth.cc/"
+        },
+        {
+          "type": "Unknown",
+          "url": "https://docs.keyauth.cc/llms.txt"
+        },
+        {
+          "type": "KeyAuth - Security Pratices",
+          "url": "https://docs.keyauth.cc/overview/security-practices"
+        },
+        {
+          "type": "<> Premade Examples - SDKS - KeyAuth",
+          "url": "https://docs.keyauth.cc/overview/examples"
+        },
+        {
+          "type": "? QnA - KeyAuth",
+          "url": "https://docs.keyauth.cc/overview/qna"
+        },
+        {
+          "type": "Manage Applications - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/manage-applications"
+        },
+        {
+          "type": "◷ Rate Limiting - KeyAuth",
+          "url": "https://docs.keyauth.cc/overview/rate-limiting"
+        },
+        {
+          "type": "⌂ Introduction - KeyAuth",
+          "url": "https://docs.keyauth.cc/getting-started/introduction"
+        },
+        {
+          "type": "Users - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/users"
+        },
+        {
+          "type": "Sessions - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/sessions"
+        },
+        {
+          "type": "Chats - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/chats"
+        },
+        {
+          "type": "Licenses - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/licenses"
+        },
+        {
+          "type": "Webhooks - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/webhooks"
+        },
+        {
+          "type": "Subscriptions - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/subscriptions"
+        },
+        {
+          "type": "Files - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/files"
+        },
+        {
+          "type": "Audit Logs - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/audit-logs"
+        },
+        {
+          "type": "Global Variables - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/variables"
+        },
+        {
+          "type": "Blacklists - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/blacklists"
+        },
+        {
+          "type": "Logs - KeyAuth",
+          "url": "https://docs.keyauth.cc/dashboard/app/logs"
+        }
+      ],
+      "quality": {
+        "status": "approved",
+        "reasons": []
+      }
+    }
+  ],
+  "currentSnapshotId": "66114ba4dd5ddf9fa271affae572b73b4cab899bf3801a845c7724af37bce960"
+}
